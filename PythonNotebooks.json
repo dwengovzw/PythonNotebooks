@@ -6,3 +6,10 @@
 	}
 }
 
+{"2": {
+	"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.pynb", "Wiskunde/Spreidingsdiagram/0600_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/.data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/.data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/.data/datastandaard3.dat", "Wiskunde/Spreidingsdiagram/.images/cclic.png", "Wiskunde/Spreidingsdiagram/.images/logodwengo.png"],
+	"Resource" : "S",
+	"Description" : "Leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+	"Name" : "Spreidingsdiagram"
+	}
+}
