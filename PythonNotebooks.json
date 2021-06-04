@@ -1,32 +1,28 @@
-{"1": {
-	"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", "STEM/Epidemie/.data/covidbelgie.txt", "STEM/Epidemie/.data/ziekenhuisbezetting.csv", "STEM/Epidemie/.images/cclic.png", "STEM/Epidemie/.images/graph.png", "STEM/Epidemie/.images/socialnetwerk.png", "STEM/Epidemie/.images/logodwengo.png", "STEM/Epidemie/.images/netwerkkinderen.png", "STEM/Epidemie/.images/ziekteverspr.png"],
-	"Resource" : "S",
-	"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
-	"Name" : "Epidemie"
-	}
-}
-
-{"2": {
-	"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0600_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/.data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/.data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/.data/datastandaard3.dat", "Wiskunde/Spreidingsdiagram/.images/cclic.png", "Wiskunde/Spreidingsdiagram/.images/logodwengo.png"],
-	"Resource" : "S",
-	"Description" : "Leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-	"Name" : "Spreidingsdiagram"
-	}
-}
-
-{"3": {
-	"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/.images/cclic.png", "Wiskunde/GrafiekenFuncties/.images/logodwengo.png", "Wiskunde/GrafiekenFuncties/.images/logosnb.png"],
-	"Resource" : "S",
-	"Description" : "Leerlijn Grafieken van functies: rechten, parabolen, sinusoïden",
-	"Name" : "Grafieken van functies"
-	}
-}
-
-{"4": {
-	"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb",  "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", "STEM/Klimaat/.data/antarcticaCO2", "STEM/Klimaat/.data/keelingCO230111958.dat", "STEM/Klimaat/.data/keelingCO21959.dat", "STEM/Klimaat/.data/keeling.dat", "STEM/Klimaat/.data/morteratsch.dat", "STEM/Klimaat/.data/silvretta.dat", "STEM/Klimaat/.data/globaletemperatuur.dat", "STEM/Klimaat/.images/cclic.png", "STEM/Klimaat/.images/logosnb2.png", "STEM/Klimaat/.images/logosnb.png", "STEM/Klimaat/.images/bruegeljagersindesneeuw.jpg", 
-"STEM/Klimaat/.images/lvtmorteratsch2018.jpg", "STEM/Klimaat/.images/csvantarctica.jpg", "STEM/Klimaat/.images/morteratschsimulatie.jpg"],
-	"Resource" : "S",
-	"Description" : "Leerlijn Klimaatverandering met evolutie atmosferishce CO2, verband met temperatuur, afsmeltende landgletsjers",
-	"Name" : "Klimaatverandering"
+{
+	"1": {
+		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", "STEM/Epidemie/.data/covidbelgie.txt", "STEM/Epidemie/.data/ziekenhuisbezetting.csv", "STEM/Epidemie/.images/cclic.png", "STEM/Epidemie/.images/graph.png", "STEM/Epidemie/.images/socialnetwerk.png", "STEM/Epidemie/.images/logodwengo.png", "STEM/Epidemie/.images/netwerkkinderen.png", "STEM/Epidemie/.images/ziekteverspr.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Name" : "Epidemie",
+		"BasePath": "STEM/Epidemie"
+	},
+	"2": {
+		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0600_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/.data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/.data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/.data/datastandaard3.dat", "Wiskunde/Spreidingsdiagram/.images/cclic.png", "Wiskunde/Spreidingsdiagram/.images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+		"Name" : "Spreidingsdiagram"
+	},
+	"3": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/.images/cclic.png", "Wiskunde/GrafiekenFuncties/.images/logodwengo.png", "Wiskunde/GrafiekenFuncties/.images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken van functies: rechten, parabolen, sinusoïden",
+		"Name" : "Grafieken van functies"
+	},
+	"4": {
+		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb",  "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", "STEM/Klimaat/.data/antarcticaCO2", "STEM/Klimaat/.data/keelingCO230111958.dat", "STEM/Klimaat/.data/keelingCO21959.dat", "STEM/Klimaat/.data/keeling.dat", "STEM/Klimaat/.data/morteratsch.dat", "STEM/Klimaat/.data/silvretta.dat", "STEM/Klimaat/.data/globaletemperatuur.dat", "STEM/Klimaat/.images/cclic.png", "STEM/Klimaat/.images/logosnb2.png", "STEM/Klimaat/.images/logosnb.png", "STEM/Klimaat/.images/bruegeljagersindesneeuw.jpg", 
+	"STEM/Klimaat/.images/lvtmorteratsch2018.jpg", "STEM/Klimaat/.images/csvantarctica.jpg", "STEM/Klimaat/.images/morteratschsimulatie.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferishce CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Klimaatverandering"
 	}
 }
