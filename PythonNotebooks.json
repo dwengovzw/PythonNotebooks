@@ -13,7 +13,7 @@
 		"Name" : "Spreidingsdiagram"
 	},
 	"3": {
-		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png"],
+		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechte.ipynb", "Wiskunde/GrafiekenFuncties/0600_Parabool.ipynb", "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van functies: rechten, parabolen, sinusoïden",
 		"Name" : "Grafieken van functies"
