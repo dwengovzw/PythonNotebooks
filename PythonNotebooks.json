@@ -31,15 +31,15 @@
 	"5": {
 		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
-		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
-		"Name" : "Leren werken met de notebooks",
+		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
+		"Name" : "Leren werken met de notebooks"
 		"BasePath": "WerkingNotebooks"
 	},
 	"6": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
 			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png"],
 		"Resource" : "S",
-		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Description" : "Leerlijn Datatypes over strings, lists en dictionaries a.d.h.v. voorbeelden met focus op taal",
 		"Name" : "Datatypes",
 		"BasePath": "Programmeerelementen/Datatypes"
 	},
@@ -47,14 +47,14 @@
 		"Files" : ["Programmeerelementen/Structuren/0100_ForIfElse.ipynb", "Programmeerelementen/Structuren/data/prideandprejudice.txt", "Programmeerelementen/Structuren/data/hamlet.txt", "Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
 			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
 		"Resource" : "S",
-		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Description" : "Leerlijn Structuren over begrensde herhaling en keuzestructuur a.d.h.v. voorbeelden met focus op taal",
 		"Name" : "Structuren",
 		"BasePath": "Programmeerelementen/Structuren"
 	},
 	"8": {
 		"Files" : ["STEM/IPAdres/0100_IPAdres.ipynb", "STEM/IPAdres/images/cclic.png", "STEM/IPAdres/images/browser.png", "STEM/IPAdres/images/logodwengo.png", "STEM/IPAdres/images/binair.jpg", "STEM/IPAdres/images/hexadecimaal.jpg", "STEM/IPAdres/images/tientallig.jpg"],
 		"Resource" : "S",
-		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Description" : "Leerlijn binaire, decimale en hexadecimale talstelsel a.d.h.v. context van IP-adres",
 		"Name" : "IP-adres",
 		"BasePath": "STEM/IPAdres"
 	}
