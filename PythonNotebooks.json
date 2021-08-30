@@ -59,11 +59,12 @@
 		"BasePath": "STEM/IPAdres"
 	},
 	"9": {
-		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerUgentDwengo.png", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/schaal.png"],
+		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", "AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerUgentDwengo.png", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/schaal.png", "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
+			  "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
 		"Name" : "Sentimentanalyse",
-		"BasePath": "AIOpSchool/Chatbot"
+		"BasePath": "PythonNotebooks"
 	}
 	
 }
