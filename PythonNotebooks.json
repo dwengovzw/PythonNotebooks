@@ -10,26 +10,38 @@
 		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_OpmakenGrafieken.ipynb", "Wiskunde/Spreidingsdiagram/0600_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/data/csv.dat", "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg", "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Spreidingsdiagram"
+		"Name" : "Spreidingsdiagram",
+		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"3": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechte.ipynb", "Wiskunde/GrafiekenFuncties/0600_Parabool.ipynb", "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van functies: rechten, parabolen, sinusoïden",
-		"Name" : "Grafieken van functies"
+		"Name" : "Grafieken van functies",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"4": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb",  "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", "STEM/Klimaat/data/antarcticaCO2", "STEM/Klimaat/data/keelingCO230111958.dat", "STEM/Klimaat/data/keelingCO21959.dat", "STEM/Klimaat/data/keeling.dat", "STEM/Klimaat/data/morteratsch.dat", "STEM/Klimaat/data/silvretta.dat", "STEM/Klimaat/data/globaletemperatuur.dat", "STEM/Klimaat/images/cclic.png", "STEM/Klimaat/images/logosnb2.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", 
 	"STEM/Klimaat/images/lvtmorteratsch2018.jpg", "STEM/Klimaat/images/csvantarctica.jpg", "STEM/Klimaat/images/morteratschsimulatie.jpg"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
-		"Name" : "Klimaatverandering"
+		"Name" : "Klimaatverandering",
+		"BasePath": "STEM/Klimaat"
 	},
 	"5": {
 		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
-		"Name" : "Leren werken met de notebooks"
+		"Name" : "Leren werken met de notebooks",
+		"BasePath": "WerkingNotebooks"
+	},
+	"6": {
+		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
+			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Name" : "Datatypes",
+		"BasePath": "Programmeerelementen/Datatypes"
 	}
 	
 }
