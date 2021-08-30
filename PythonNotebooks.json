@@ -7,7 +7,7 @@
 		"BasePath": "STEM/Epidemie"
 	},
 	"2": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_OpmakenGrafieken.ipynb", "Wiskunde/Spreidingsdiagram/0600_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/data/csv.dat", "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png"],
+		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_OpmakenGrafieken.ipynb", "Wiskunde/Spreidingsdiagram/0600_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/data/csv.dat", "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg", "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
 		"Name" : "Spreidingsdiagram"
@@ -24,5 +24,12 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
 		"Name" : "Klimaatverandering"
+	},
+	"5": {
+		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Leren werken met de notebooks"
 	}
+	
 }
