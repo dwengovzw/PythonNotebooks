@@ -50,6 +50,13 @@
 		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
 		"Name" : "Structuren",
 		"BasePath": "Programmeerelementen/Structuren"
+	},
+	"8": {
+		"Files" : ["STEM/IPAdres/0100_IPAdres.ipynb", "STEM/IPAdres/images/cclic.png", "STEM/IPAdres/images/browser.png", "STEM/IPAdres/images/logodwengo.png", "STEM/IPAdres/images/binair.jpg", "STEM/IPAdres/images/hexadecimaal.jpg", "STEM/IPAdres/images/tientallig.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Name" : "IP-adres",
+		"BasePath": "STEM/IPAdres"
 	}
 	
 }
