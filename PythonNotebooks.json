@@ -59,7 +59,7 @@
 		"BasePath": "STEM/IPAdres"
 	},
 	"9": {
-		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerUgentDwengo.png", "AIOpSchool/Chatbot/images/cclic.png"],
+		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerUgentDwengo.png", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/schaal.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
 		"Name" : "Sentimentanalyse",
