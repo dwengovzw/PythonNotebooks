@@ -32,7 +32,7 @@
 		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
-		"Name" : "Leren werken met de notebooks"
+		"Name" : "Leren werken met de notebooks",
 		"BasePath": "WerkingNotebooks"
 	},
 	"6": {
@@ -54,9 +54,16 @@
 	"8": {
 		"Files" : ["STEM/IPAdres/0100_IPAdres.ipynb", "STEM/IPAdres/images/cclic.png", "STEM/IPAdres/images/browser.png", "STEM/IPAdres/images/logodwengo.png", "STEM/IPAdres/images/binair.jpg", "STEM/IPAdres/images/hexadecimaal.jpg", "STEM/IPAdres/images/tientallig.jpg"],
 		"Resource" : "S",
-		"Description" : "Leerlijn binaire, decimale en hexadecimale talstelsel a.d.h.v. context van IP-adres",
+		"Description" : "Leerlijn Talstelsels over binaire, decimale en hexadecimale talstelsel a.d.h.v. context van IP-adres",
 		"Name" : "IP-adres",
 		"BasePath": "STEM/IPAdres"
+	},
+	"9": {
+		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerUgentDwengo.png", "AIOpSchool/Chatbot/images/cclic.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
+		"Name" : "Sentimentanalyse",
+		"BasePath": "AIOpSchool/Chatbot"
 	}
 	
 }
