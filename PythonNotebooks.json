@@ -42,6 +42,14 @@
 		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
 		"Name" : "Datatypes",
 		"BasePath": "Programmeerelementen/Datatypes"
+	},
+	"7": {
+		"Files" : ["Programmeerelementen/Structuren/0100_ForIfElse.ipynb", "Programmeerelementen/Structuren/data/prideandprejudice.txt", "Programmeerelementen/Structuren/data/hamlet.txt", "Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
+			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Name" : "Structuren",
+		"BasePath": "Programmeerelementen/Structuren"
 	}
 	
 }
