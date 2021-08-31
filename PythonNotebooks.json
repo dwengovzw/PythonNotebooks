@@ -64,7 +64,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
 		"Name" : "Sentimentanalyse",
-		"BasePath": "PythonNotebooks"
+		"BasePath": "Programmeerelementen"
 	}
 	
 }
