@@ -72,7 +72,7 @@
 		"Name" : "Sentimentanalyse",
 		"BasePath": "PythonNotebooks"
 	},
-	"9": {
+	"10": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
 			   "AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "AIOpSchool/Chatbot/data/new_lexicondict.pickle", 
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/schaal.png", 
