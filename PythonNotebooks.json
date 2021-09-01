@@ -14,7 +14,9 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"3": {
-		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0210_RechtenPraktisch.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb", "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png"],
+		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb", "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", "Wiskunde/GrafiekenFuncties/images/schema.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
 		"Name" : "Grafieken van rechten",
