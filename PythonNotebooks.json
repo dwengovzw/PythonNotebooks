@@ -14,7 +14,7 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"3": {
-		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0201_RechtenPraktisch.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb", "Wiskunde/GrafiekenFuncties/0301_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png"],
+		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0210_RechtenPraktisch.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb", "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
 		"Name" : "Grafieken van rechten",
@@ -61,7 +61,7 @@
 	"9": {
 		"Files" : ["PythonNotebooks/Programmeerelementen/Datatypes/0100_String.ipynb", "PythonNotebooks/Programmeerelementen/Datatypes/0200_List.ipynb", "PythonNotebooks/Programmeerelementen/Datatypes/0300_Dict.ipynb", 
 			   "PythonNotebooks/AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "PythonNotebooks/AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "PythonNotebooks/AIOpSchool/Chatbot/data/new_lexicondict.pickle", 
-			   "PythonNotebooks/AIOpSchool/Chatbot/images/cclic.png", "PythonNotebooks/AIOpSchool/Chatbot/images/bannerUgentDwengo.png", "PythonNotebooks/AIOpSchool/Chatbot/images/cclic.png", "PythonNotebooks/AIOpSchool/Chatbot/images/schaal.png", 
+			   "PythonNotebooks/AIOpSchool/Chatbot/images/cclic.png", "PythonNotebooks/AIOpSchool/Chatbot/images/bannerugentdwengo.png", "PythonNotebooks/AIOpSchool/Chatbot/images/cclic.png", "PythonNotebooks/AIOpSchool/Chatbot/images/schaal.png", 
 			   "PythonNotebooks/Programmeerelementen/Datatypes/data/hamlet.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/prideandprejudice.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
 			   "PythonNotebooks/Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
 			  "PythonNotebooks/Programmeerelementen/Structuren/images/cclic.png", "PythonNotebooks/Programmeerelementen/Structuren/images/bannerUgentDwengo.png", "PythonNotebooks/Programmeerelementen/Datatypes/images/logodwengo.png"],
