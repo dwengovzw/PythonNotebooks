@@ -61,18 +61,6 @@
 		"BasePath": "STEM/IPAdres"
 	},
 	"9": {
-		"Files" : ["PythonNotebooks/Programmeerelementen/Datatypes/0100_String.ipynb", "PythonNotebooks/Programmeerelementen/Datatypes/0200_List.ipynb", "PythonNotebooks/Programmeerelementen/Datatypes/0300_Dict.ipynb", 
-			   "PythonNotebooks/AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "PythonNotebooks/AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "PythonNotebooks/AIOpSchool/Chatbot/data/new_lexicondict.pickle", 
-			   "PythonNotebooks/AIOpSchool/Chatbot/images/cclic.png", "PythonNotebooks/AIOpSchool/Chatbot/images/bannerugentdwengo.png", "PythonNotebooks/AIOpSchool/Chatbot/images/cclic.png", "PythonNotebooks/AIOpSchool/Chatbot/images/schaal.png", 
-			   "PythonNotebooks/Programmeerelementen/Datatypes/data/hamlet.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/prideandprejudice.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
-			   "PythonNotebooks/Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "PythonNotebooks/Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
-			  "PythonNotebooks/Programmeerelementen/Structuren/images/cclic.png", "PythonNotebooks/Programmeerelementen/Structuren/images/bannerUgentDwengo.png", "PythonNotebooks/Programmeerelementen/Datatypes/images/logodwengo.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
-		"Name" : "Sentimentanalyse",
-		"BasePath": "PythonNotebooks"
-	},
-	"10": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
 			   "AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", "AIOpSchool/Chatbot/data/new_lexicondict.pickle", 
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/schaal.png", 
@@ -81,7 +69,7 @@
 			  "Programmeerelementen/Structuren/images/cclic.png", "Structuren/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
-		"Name" : "Sentimentanalyse-test"
+		"Name" : "Sentimentanalyse"
 	}
 	
 }
