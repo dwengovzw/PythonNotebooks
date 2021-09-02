@@ -69,7 +69,8 @@
 			  "Programmeerelementen/Structuren/images/cclic.png", "Structuren/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
-		"Name" : "Sentimentanalyse"
+		"Name" : "Sentimentanalyse",
+		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
 	}
 	
 }
