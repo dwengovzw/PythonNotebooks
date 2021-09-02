@@ -58,8 +58,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Talstelsels over binaire, decimale en hexadecimale talstelsel a.d.h.v. context van IP-adres",
 		"Name" : "IP-adres",
-		"BasePath": "STEM/IPAdres",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"BasePath": "STEM/IPAdres"
 	},
 	"9": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
