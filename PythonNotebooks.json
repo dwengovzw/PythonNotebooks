@@ -71,6 +71,15 @@
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
 		"Name" : "Sentimentanalyse",
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+	},
+	"10": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/1010_ParametersParabool.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/2010_ParametersAlgemeneSinusfunctie.ipynb",  
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Invloed parameters op grafiek",
+		"Name" : "Parameters rechten, parabolen en algemene sinusfunctie",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
 	}
 	
 }
