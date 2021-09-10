@@ -106,6 +106,13 @@
 		"Description" : "Leerlijn Functies en Pythagoras",
 		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
+	"12": {
+		"Files" : ["WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Doorlopen van een notebook",
+		"Name" : "Hoe een notebook doorlopen",
+		"BasePath": "WerkingNotebooks"
 	}
 	
 }
