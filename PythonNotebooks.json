@@ -113,6 +113,22 @@
 		"Description" : "Doorlopen van een notebook",
 		"Name" : "Hoe een notebook doorlopen",
 		"BasePath": "WerkingNotebooks"
+	},
+	"13": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb",
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Datatypes string, int en float werke met printinstructies en kennismaken met typecasting",
+		"Name" : "String, int en float",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
+	"14": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb",   
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leren werken met de functie input()",
+		"Name" : "Input en output",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
 	}
 	
 }
