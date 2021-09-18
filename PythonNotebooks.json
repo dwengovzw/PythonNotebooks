@@ -62,7 +62,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
 		"Resource" : "S",
 		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Spreidingsdiagram met manueel ingegeven data,
+		"Name" : "Spreidingsdiagram met manueel ingegeven data",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"23": {
