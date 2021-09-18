@@ -129,7 +129,7 @@
 		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb",
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
 		"Resource" : "S",
-		"Description" : "Datatypes string, int en float werke met printinstructies en kennismaken met typecasting",
+		"Description" : "Datatypes string, int en float, werken met printinstructies en kennismaken met typecasting",
 		"Name" : "String, int en float",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
