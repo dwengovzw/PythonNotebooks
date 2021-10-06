@@ -292,7 +292,7 @@
 			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/bannerUgentDwengo.png", "Programmeerelementen/Structuren/images/logodwengo.png", 
 			   "Programmeerelementen/Structuren/data/hamlet.txt", "Programmeerelementen/Structuren/data/prideandprejudice.txt", "Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
 			   "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/bannerUGentDwengo.png","Programmeerelementen/Datatypes/images/helloworldIndex.png", 
-			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png"],
+			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/cclic.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
 		"Name" : "Sentimentanalyse",
