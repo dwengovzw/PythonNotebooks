@@ -285,7 +285,7 @@
 	"9": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
 			   "Programmeerelementen/Structuren/0100_ForIfElse.ipynb", "AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
-			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", 
+			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/lexiconhulp.py",
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/schaal.png", 
 			   "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
 			   "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
@@ -321,7 +321,7 @@
 	},
 	"93": {
 		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
-			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", 
+			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/lexiconhulp.py",
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/schaal.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
