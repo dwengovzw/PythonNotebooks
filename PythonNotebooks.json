@@ -298,6 +298,36 @@
 		"Name" : "Sentimentanalyse",
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
 	},
+	"91": {
+		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
+			   "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
+			   "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
+			   "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/bannerUGentDwengo.png","Programmeerelementen/Datatypes/images/helloworldIndex.png", 
+			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/cclic.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn datatypes ter voorbereiding op leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
+		"Name" : "Datatypes in context taaltechnologie",
+		"BasePath": "Programmeerelementen/Datatypes"
+	},
+	"92": {
+		"Files" : ["Programmeerelementen/Structuren/0100_ForIfElse.ipynb", 
+			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/bannerUGentDwengo.png", "Programmeerelementen/Structuren/images/logodwengo.png", 
+			   "Programmeerelementen/Structuren/data/hamlet.txt", "Programmeerelementen/Structuren/data/prideandprejudice.txt", 
+			   "Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt"],
+		"Resource" : "S",
+		"Description" : "Leerlijn structuren ter voorbereiding op leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
+		"Name" : "Structuren in context taaltechnologie",
+		"BasePath": "Programmeerelementen/Structuren"
+	},
+	"93": {
+		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
+			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", 
+			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/schaal.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
+		"Name" : "Sentimentanalyse",
+		"BasePath": "AIOpSchool/Chatbot"
+	},
 	"10": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/1010_ParametersParabool.ipynb", 
 			   "Wiskunde/GrafiekenFuncties/2010_ParametersAlgemeneSinusfunctie.ipynb",  
