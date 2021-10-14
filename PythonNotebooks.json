@@ -527,6 +527,45 @@
 		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
+	"0501": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb", "Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb", 
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
+	"0502": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", 
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
+	"0503": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb",  
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
 	"12": {
 		"Files" : ["WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
