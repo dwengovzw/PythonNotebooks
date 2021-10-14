@@ -292,6 +292,46 @@
 		"Name" : "Grafieken van rechten",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
+	"0300": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
+			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0601_RicoYdoorgangParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken van rechten",
+		"Name" : "Grafieken van rechten",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
+	"0301": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0601_RicoYdoorgangParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken van rechten",
+		"Name" : "Grafieken van rechten",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
+	"0302": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb",  
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken van rechten",
+		"Name" : "Grafieken van rechten",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
+	"0303": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
+			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken van rechten",
+		"Name" : "Grafieken van rechten",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
 	"4": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb", 
 			   "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", 
