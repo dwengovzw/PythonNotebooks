@@ -228,7 +228,7 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0302": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
+		"Files" : ["Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb", "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
@@ -246,8 +246,7 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0303": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
-			   "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
+		"Files" : ["Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
