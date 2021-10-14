@@ -371,7 +371,7 @@
 		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
-	"0501": {
+	"1003": {
 		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb", "Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb", 
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
 			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
@@ -384,7 +384,7 @@
 		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
-	"0502": {
+	"1006": {
 		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", 
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
 			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
@@ -419,7 +419,7 @@
 		"Name" : "Parameters rechten, parabolen en algemene sinusfunctie",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"1004": {
+	"1001": {
 		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb",
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
 		"Resource" : "S",
@@ -427,7 +427,7 @@
 		"Name" : "String, int en float",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
-	"1005": {
+	"1002": {
 		"Files" : ["Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb",   
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
 		"Resource" : "S",
