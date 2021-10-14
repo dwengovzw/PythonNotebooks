@@ -245,6 +245,25 @@
 		"Name" : "Standaardiseren",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
+	"0303": {
+		"Files" : ["Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
+			   "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
+			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
+			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
+			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
+			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
+			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
+			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
+			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
+			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
+			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
+			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
+			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerpad lineaire regressie",
+		"Name" : "Lineaire regressie",
+		"BasePath": "Wiskunde/Spreidingsdiagram"
+	},
 	"28": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
@@ -328,7 +347,7 @@
 		"Name" : "Grafieken van rechten",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"0300": {
+	"0400": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
 			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
 			   "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0601_RicoYdoorgangParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
@@ -339,7 +358,7 @@
 		"Name" : "Grafieken van rechten",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"0301": {
+	"0401": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", 
 			   "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0601_RicoYdoorgangParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
 			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
@@ -349,7 +368,7 @@
 		"Name" : "Grafieken van rechten",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"0302": {
+	"0402": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb",  
 			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
@@ -358,7 +377,7 @@
 		"Name" : "Grafieken van rechten",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"0303": {
+	"0403": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
 			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", 
 			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
