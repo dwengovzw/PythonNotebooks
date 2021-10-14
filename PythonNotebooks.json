@@ -1,10 +1,10 @@
 {
 	"0100": {
-		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", "STEM/Epidemie/data/covidbelgie.txt", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", "STEM/Epidemie/images/logodwengo.png", "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
+		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
-		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
-		"Name" : "Epidemie",
-		"BasePath": "STEM/Epidemie"
+		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
+		"Name" : "Leren werken met de notebooks",
+		"BasePath": "WerkingNotebooks"
 	},
 	"0200": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
@@ -98,7 +98,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
-		"Description" : "Notebook belnag visualistaie uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+		"Description" : "Notebook belang visualisatie uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
 		"Name" : "Spreidingsdiagram: belang van visaliseren van data",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
@@ -156,11 +156,10 @@
 		"Name" : "Standaardiseren",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"15": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
-			   "Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
+	"0300": {
+		"Files" : ["Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
+			   "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
@@ -173,8 +172,8 @@
 			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
-		"Description" : "Leerpad Spreidingsdiagram",
-		"Name" : "Spreidingsdiagram",
+		"Description" : "Leerpad lineaire regressie",
+		"Name" : "Lineaire regressie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0301": {
@@ -231,7 +230,7 @@
 		"Name" : "Lineaire regressie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"29": {
+	"0310": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
@@ -249,7 +248,7 @@
 		"Name" : "Spreidingsdiagram, lineaire regressie en belang van visualisatie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"30": {
+	"0311": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
@@ -267,7 +266,7 @@
 		"Name" : "Regressie toepassing geiser",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"31": {
+	"0312": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
@@ -351,7 +350,7 @@
 		"Name" : "Snijpunt van twee rechten berekenen en visualiseren",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"4": {
+	"1100": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb", 
 			   "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", 
 			   "STEM/Klimaat/data/antarcticaCO2.csv", "STEM/Klimaat/data/globaletemperatuur.dat", 
@@ -365,12 +364,12 @@
 		"Name" : "Klimaatverandering",
 		"BasePath": "STEM/Klimaat"
 	},
-	"5": {
-		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+	"1200": {
+		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", "STEM/Epidemie/data/covidbelgie.txt", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", "STEM/Epidemie/images/logodwengo.png", "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
 		"Resource" : "S",
-		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
-		"Name" : "Leren werken met de notebooks",
-		"BasePath": "WerkingNotebooks"
+		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
+		"Name" : "Epidemie",
+		"BasePath": "STEM/Epidemie"
 	},
 	"6": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
@@ -525,26 +524,6 @@
 		"Description" : "Leren werken met de functie input()",
 		"Name" : "Input en output",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"16": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
-			   "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
-		"Resource" : "S",
-		"Description" : "Leerpad lineaire regressie",
-		"Name" : "Lineaire regressie",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"1700": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
