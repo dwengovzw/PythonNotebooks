@@ -387,7 +387,6 @@
 	},
 	"0403": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
-			   "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0601_RicoYdoorgangParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
 			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
 		"Resource" : "S",
