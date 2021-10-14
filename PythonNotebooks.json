@@ -1,12 +1,12 @@
 {
-	"1": {
+	"0100": {
 		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", "STEM/Epidemie/data/covidbelgie.txt", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", "STEM/Epidemie/images/logodwengo.png", "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
 		"Name" : "Epidemie",
 		"BasePath": "STEM/Epidemie"
 	},
-	"2": {
+	"0200": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
@@ -29,24 +29,6 @@
 		"Name" : "Spreidingsdiagram en regressie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"21": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
-		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Tekenvenster",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
-	},
 	"0201": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
@@ -62,7 +44,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
 		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Tekenvenster",
+		"Name" : "Eerste grafiek",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0202": {
@@ -79,8 +61,27 @@
 			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Tekenvenster",
+		"Description" : "Visualisatie datapunten uit bestand uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+		"Name" : "PuntenwolkDataBestand",
+		"BasePath": "Wiskunde/Spreidingsdiagram"
+	},
+	"0203": {
+		"Files" : ["Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
+			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
+			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
+			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
+			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
+			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
+			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
+			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
+			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
+			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
+			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
+		"Resource" : "S",
+		"Description" : "Toepassingen bij leerpad Spreidingsdiagram",
+		"Name" : "Toepassingen spreidingsdiagram",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0204": {
@@ -97,65 +98,11 @@
 			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+		"Description" : "Notebook belnag visualistaie uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
 		"Name" : "Spreidingsdiagram: belang van visaliseren van data",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"22": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
-		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Spreidingsdiagram met manueel ingegeven data",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
-	},
-	"23": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
-		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Spreidingsdiagram met data ingelezen uit een bestand",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
-	},
-	"24": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
-		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Spreidingsdiagram: belang van visaliseren van data",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
-	},
-	"25": {
+	"0205": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
@@ -173,7 +120,7 @@
 		"Name" : "Spreidingsdiagram toepassing trein",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"26": {
+	"0206": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
@@ -191,7 +138,7 @@
 		"Name" : "Spreidingsdiagram toepassing geiser",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"27": {
+	"0207": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
@@ -209,6 +156,27 @@
 		"Name" : "Standaardiseren",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
+	"15": {
+		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
+			   "Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
+			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
+			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
+			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
+			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
+			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
+			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
+			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
+			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
+			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
+			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerpad Spreidingsdiagram",
+		"Name" : "Spreidingsdiagram",
+		"BasePath": "Wiskunde/Spreidingsdiagram"
+	},
 	"0301": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb",  
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
@@ -224,7 +192,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
 		"Resource" : "S",
 		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Standaardiseren",
+		"Name" : "Lineaire regressie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0302": {
@@ -241,8 +209,8 @@
 			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
 		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Standaardiseren",
+		"Description" : "Notebooks uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+		"Name" : "Belang standaardiseren en visualiseren",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0303": {
@@ -260,24 +228,6 @@
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
 		"Description" : "Leerpad lineaire regressie",
-		"Name" : "Lineaire regressie",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
-	},
-	"28": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
-		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
 		"Name" : "Lineaire regressie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
@@ -335,17 +285,6 @@
 		"Name" : "Regressie toepassing bevolking België",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"3": {
-		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
-			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
-			   "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0601_RicoYdoorgangParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
-			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
-			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Grafieken van rechten",
-		"Name" : "Grafieken van rechten",
-		"BasePath": "Wiskunde/GrafiekenFuncties"
-	},
 	"0400": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
 			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
@@ -363,7 +302,7 @@
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
-		"Name" : "Grafieken van rechten",
+		"Name" : "Rekenkundige operatoren",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"0401": {
@@ -382,7 +321,7 @@
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
-		"Name" : "Grafieken van rechten",
+		"Name" : "Opmaken van grafieken",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"0403": {
@@ -391,7 +330,7 @@
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
-		"Name" : "Grafieken van rechten",
+		"Name" : "Grafieken van rechten praktisch in de les",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"0404": {
@@ -400,7 +339,7 @@
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
-		"Name" : "Grafieken van rechten",
+		"Name" : "Invloed parameters op grafiek van een rechte",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"0405": {
@@ -409,7 +348,7 @@
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
-		"Name" : "Grafieken van rechten",
+		"Name" : "Snijpunt van twee rechten berekenen en visualiseren",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"4": {
@@ -586,46 +525,6 @@
 		"Description" : "Leren werken met de functie input()",
 		"Name" : "Input en output",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"15": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
-			   "Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
-		"Resource" : "S",
-		"Description" : "Leerpad Spreidingsdiagram",
-		"Name" : "Spreidingsdiagram",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
-	},
-	"0203": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
-		"Resource" : "S",
-		"Description" : "Leerpad Spreidingsdiagram",
-		"Name" : "Spreidingsdiagram",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"16": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb", 
