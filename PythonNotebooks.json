@@ -350,6 +350,59 @@
 		"Name" : "Snijpunt van twee rechten berekenen en visualiseren",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
+	"0500": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb", "Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb", "Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", 
+			   "Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb",  
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
+	"0501": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb", "Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb", 
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
+	"0502": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", 
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
+	"0503": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb",  
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
 	"1100": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb", 
 			   "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", 
@@ -370,6 +423,28 @@
 		"Description" : "Leerlijn Epidemie a.d.h.v. SIR Model en sociale netwerken voorgesteld door grafen",
 		"Name" : "Epidemie",
 		"BasePath": "STEM/Epidemie"
+	},
+	"1700": {
+		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.png", "AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.npy",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png", "AIOpSchool/KIKS/DeepLearningBasis/images/maxpooling.jpg",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/chihuahuamuffin.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/clustering.jpg", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/dataaugmentatie.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/dropout.jpg", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/fietsenstallingkask.png", "AIOpSchool/KIKS/DeepLearningBasis/images/igent.png", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningBasis/images/kikssteun.png", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/koffieplant.png", "AIOpSchool/KIKS/DeepLearningBasis/images/logosnb2.png", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/overfitting.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/referentienetwerk.png", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/eugenioides.npy", "AIOpSchool/KIKS/DeepLearningBasis/images/pseudozanguebariae.npy",  
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/relu.png",  
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/slidingwindow.gif", "AIOpSchool/KIKS/DeepLearningBasis/images/sobelfilter.gif",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py"],
+		"Resource" : "S",
+		"Description" : "Leerpad Basis van Deep learning",
+		"Name" : "Basis Deep Learning",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis"
 	},
 	"6": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
@@ -449,67 +524,14 @@
 		"Name" : "Parameters rechten, parabolen en algemene sinusfunctie",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"11": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb", "Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb", "Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", 
-			   "Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb",  
-			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
-			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
-		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
-			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
-			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
-			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Functies en Pythagoras",
-		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
-		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"0501": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb", "Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb", 
-			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
-			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
-		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
-			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
-			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
-			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Functies en Pythagoras",
-		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
-		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"0502": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", 
-			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
-			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
-		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
-			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
-			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
-			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Functies en Pythagoras",
-		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
-		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"0503": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb",  
-			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
-			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
-		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
-			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
-			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
-			   "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Functies en Pythagoras",
-		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
-		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"12": {
+	"0103": {
 		"Files" : ["WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
 		"Description" : "Doorlopen van een notebook",
 		"Name" : "Hoe een notebook doorlopen",
 		"BasePath": "WerkingNotebooks"
 	},
-	"13": {
+	"0104": {
 		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb",
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
 		"Resource" : "S",
@@ -524,28 +546,5 @@
 		"Description" : "Leren werken met de functie input()",
 		"Name" : "Input en output",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"1700": {
-		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
-			   "AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.png", "AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.npy",
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png", "AIOpSchool/KIKS/DeepLearningBasis/images/maxpooling.jpg",
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/chihuahuamuffin.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/clustering.jpg", 
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/dataaugmentatie.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/dropout.jpg", 
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/fietsenstallingkask.png", "AIOpSchool/KIKS/DeepLearningBasis/images/igent.png", 
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningBasis/images/kikssteun.png", 
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/koffieplant.png", "AIOpSchool/KIKS/DeepLearningBasis/images/logosnb2.png", 
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/overfitting.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/referentienetwerk.png", 
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/eugenioides.npy", "AIOpSchool/KIKS/DeepLearningBasis/images/pseudozanguebariae.npy",  
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/relu.png",  
-			   "AIOpSchool/KIKS/DeepLearningBasis/images/slidingwindow.gif", "AIOpSchool/KIKS/DeepLearningBasis/images/sobelfilter.gif",
-			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py", 
-			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py"],
-		"Resource" : "S",
-		"Description" : "Leerpad Basis van Deep learning",
-		"Name" : "Basis Deep Learning",
-		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis"
 	}
-	
 }
