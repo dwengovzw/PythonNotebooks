@@ -437,7 +437,7 @@
 	},
 	"1100": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb", 
-			   "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", "STEM/Klimaat/0600_Zeeniveau.ipynb" 
+			   "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", "STEM/Klimaat/0600_Zeeniveau.ipynb", 
 			   "STEM/Klimaat/data/antarcticaCO2.csv", "STEM/Klimaat/data/globaletemperatuur.dat", 
 			   "STEM/Klimaat/data/keeling.dat", "STEM/Klimaat/data/keelingCO230111958.dat", "STEM/Klimaat/data/keelingCO21959.dat", 
 			   "STEM/Klimaat/data/morteratsch.dat", "STEM/Klimaat/data/silvretta.dat", "STEM/Klimaat/data/zeeniveau.dat",
