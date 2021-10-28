@@ -11,7 +11,7 @@ import warnings
 import io
 import os
 import gc
-import imp
+import importlib
 
 spec2 = importlib.util.spec_from_file_location(
    name = 'something__else', # name is not related to the file, it 's the module name!
