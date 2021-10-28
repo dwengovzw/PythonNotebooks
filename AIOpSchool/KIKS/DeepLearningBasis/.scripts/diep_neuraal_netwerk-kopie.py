@@ -21,8 +21,8 @@ my_mod2 = importlib.util.module_from_spec(spec2)
 spec2.loader.exec_module(my_mod2)
     
     
-image_dir = '../.images/IntroductieDeepLearning'
-model_dir = '../.data/IntroductieDeepLearning'
+image_dir = 'images/IntroductieDeepLearning'
+model_dir = 'data/IntroductieDeepLearning'
 
 layout = widgets.Layout(width='30%')
 
