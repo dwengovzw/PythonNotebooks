@@ -511,6 +511,7 @@
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/relu.png",  
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/slidingwindow.gif", "AIOpSchool/KIKS/DeepLearningBasis/images/sobelfilter.gif",
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk-kopie.py", 
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py"],
 		"Resource" : "S",
 		"Description" : "Leerpad Basis van Deep learning",
