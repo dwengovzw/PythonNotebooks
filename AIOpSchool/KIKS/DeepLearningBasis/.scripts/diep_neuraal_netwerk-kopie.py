@@ -12,9 +12,15 @@ import io
 import os
 import gc
 import imp
-with open('../.scripts/visualize_network.py', 'rb') as fp:
-    visualize_network = imp.load_module('.scripts', fp, '../.scripts/visualize_network.py', ('.py', 'rb', imp.PY_SOURCE))
 
+spec2 = importlib.util.spec_from_file_location(
+   name = 'something__else', # name is not related to the file, it 's the module name!
+   location = '../.scripts/visualize_network.py' # full path to the script
+)
+my_mod2 = importlib.util.module_from_spec(spec2)
+spec2.loader.exec_module(my_mod2)
+    
+    
 image_dir = '../.images/IntroductieDeepLearning'
 model_dir = '../.data/IntroductieDeepLearning'
 
