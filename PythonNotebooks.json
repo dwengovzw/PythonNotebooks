@@ -385,7 +385,7 @@
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
 	"1006": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", 
+		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", "Wiskunde/FunctiesPythagoras/0201_ExtraOefeningenFuncties.ipynb",
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
 			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
 		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
@@ -398,7 +398,7 @@
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
 	"0503": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb",  
+		"Files" : ["Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb", "Wiskunde/FunctiesPythagoras/0301_ExtraOefeningenPythagoras.ipynb",  
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
 			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
 		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
