@@ -1,6 +1,9 @@
 {
 	"0100": {
-		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", 
+			   "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", 
+			   "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", 
+			   "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
 		"Name" : "Leren werken met de notebooks",
@@ -15,10 +18,14 @@
 	},
 	"0200": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
+			   "Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0301_SpreidingsdiagramDataBestandPraktisch.ipynb",
+			   "Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
 			   "Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/1002_LineaireRegressieOefeningPost.ipynb", "Wiskunde/Spreidingsdiagram/1003_LineaireRegressieOefeningPostpakken.ipynb",  
+			   "Wiskunde/Spreidingsdiagram/1004_LineaireRegressieOefeningPostBestand.ipynb", "Wiskunde/Spreidingsdiagram/1005_LineaireRegressieOefeningDisneylandParijs.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/1010_AnscombeDatasetLineaireRegressie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
@@ -55,7 +62,7 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0202": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb",
+		"Files" : ["Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", "Wiskunde/Spreidingsdiagram/0301_SpreidingsdiagramDataBestandPraktisch.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
@@ -92,7 +99,7 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0204": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb",
+		"Files" : ["Wiskunde/Spreidingsdiagram/0310_SpreidingsdiagramBelangVisualisatie.ipynb", "Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
@@ -165,8 +172,11 @@
 	},
 	"0300": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", "Wiskunde/Spreidingsdiagram/1000_LineaireRegressie.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
+			   "Wiskunde/Spreidingsdiagram/1010_AnscombeDatasetLineaireRegressie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
+			   "Wiskunde/Spreidingsdiagram/1002_LineaireRegressieOefeningPost.ipynb", "Wiskunde/Spreidingsdiagram/1003_LineaireRegressieOefeningPostpakken.ipynb",  
+			   "Wiskunde/Spreidingsdiagram/1004_LineaireRegressieOefeningPostBestand.ipynb", "Wiskunde/Spreidingsdiagram/1005_LineaireRegressieOefeningDisneylandParijs.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/1010_AnscombeDatasetLineaireRegressie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
@@ -220,7 +230,10 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0303": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
+		"Files" : ["Wiskunde/Spreidingsdiagram/1002_LineaireRegressieOefeningPost.ipynb", "Wiskunde/Spreidingsdiagram/1003_LineaireRegressieOefeningPostpakken.ipynb",  
+			   "Wiskunde/Spreidingsdiagram/1004_LineaireRegressieOefeningPostBestand.ipynb", "Wiskunde/Spreidingsdiagram/1005_LineaireRegressieOefeningDisneylandParijs.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/1010_AnscombeDatasetLineaireRegressie.ipynb", "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", 
+			   "Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
@@ -238,7 +251,7 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0310": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0320_AnscombeDataset.ipynb",
+		"Files" : ["Wiskunde/Spreidingsdiagram/1010_AnscombeDatasetLineaireRegressie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
@@ -296,7 +309,8 @@
 			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
 			   "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0601_RicoYdoorgangParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
 			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
-			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
+			   "Wiskunde/GrafiekenFuncties/images/schema.png", "Wiskunde/GrafiekenFuncties/images/algoritmedwengo.png", "Wiskunde/GrafiekenFuncties/images/decompositiedwengo.png",
+			   "Wiskunde/GrafiekenFuncties/images/patroonherkenningdwengo.png", "Wiskunde/GrafiekenFuncties/images/sequentiedwengo.png", "Wiskunde/GrafiekenFuncties/images/schemasnijpuntrechten.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
 		"Name" : "Grafieken van rechten",
