@@ -365,7 +365,9 @@
 	"0405": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0801_SnijpuntTweeRechten.ipynb",  
 			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
-			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
+			   "Wiskunde/GrafiekenFuncties/images/schema.png", "Wiskunde/GrafiekenFuncties/images/algoritmedwengo.png", "Wiskunde/GrafiekenFuncties/images/decompositiedwengo.png",
+			   "Wiskunde/GrafiekenFuncties/images/patroonherkenningdwengo.png", "Wiskunde/GrafiekenFuncties/images/sequentiedwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schemasnijpuntrechten.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Grafieken van rechten",
 		"Name" : "Snijpunt van twee rechten berekenen en visualiseren",
