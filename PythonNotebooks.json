@@ -80,8 +80,7 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0203": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb", 
-			   "Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
+		"Files" : ["Wiskunde/Spreidingsdiagram/0400_SpreidingsdiagramToepassingTrein.ipynb", "Wiskunde/Spreidingsdiagram/0500_SpreidingsdiagramToepassingGeiserOefening.ipynb",  
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
