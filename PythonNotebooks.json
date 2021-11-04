@@ -470,7 +470,7 @@
 	"1200": {
 		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/0200_SIRModel.ipynb", 
 			   "STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", 
-			   "STEM/Epidemie/data/covidbelgie.txt", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", 
+			   "STEM/Epidemie/data/covidbelgie.csv", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", 
 			   "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", "STEM/Epidemie/images/logodwengo.png", 
 			   "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
 		"Resource" : "S",
@@ -479,7 +479,7 @@
 		"BasePath": "STEM/Epidemie"
 	},
 	"1201": {
-		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/data/covidbelgie.txt", "STEM/Epidemie/data/ziekenhuisbezetting.csv", 
+		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/data/covidbelgie.csv", "STEM/Epidemie/data/ziekenhuisbezetting.csv", 
 			   "STEM/Epidemie/images/cclic.png", "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", 
 			   "STEM/Epidemie/images/logodwengo.png", "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
 		"Resource" : "S",
@@ -488,7 +488,7 @@
 		"BasePath": "STEM/Epidemie"
 	},
 	"1202": {
-		"Files" : ["STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/data/covidbelgie.txt", "STEM/Epidemie/data/ziekenhuisbezetting.csv", 
+		"Files" : ["STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/data/covidbelgie.csv", "STEM/Epidemie/data/ziekenhuisbezetting.csv", 
 			   "STEM/Epidemie/images/cclic.png", "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", 
 			   "STEM/Epidemie/images/logodwengo.png", "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
 		"Resource" : "S",
@@ -498,7 +498,7 @@
 	},	
 	"1203": {
 		"Files" : ["STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", 
-			   "STEM/Epidemie/data/covidbelgie.txt", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", 
+			   "STEM/Epidemie/data/covidbelgie.csv", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", 
 			   "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", "STEM/Epidemie/images/logodwengo.png", 
 			   "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
 		"Resource" : "S",
