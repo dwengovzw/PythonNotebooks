@@ -595,7 +595,7 @@
 		"Name" : "Epidemie",
 		"BasePath": "STEM/Epidemie"
 	},
-	"1201": {
+	"1210": {
 		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/data/covidbelgie.csv", "STEM/Epidemie/data/ziekenhuisbezetting.csv", 
 			   "STEM/Epidemie/images/cclic.png", "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", 
 			   "STEM/Epidemie/images/logodwengo.png", "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
@@ -604,7 +604,7 @@
 		"Name" : "Exponentiele groei casus COVID-19 België",
 		"BasePath": "STEM/Epidemie"
 	},
-	"1202": {
+	"1220": {
 		"Files" : ["STEM/Epidemie/0200_SIRModel.ipynb", "STEM/Epidemie/data/covidbelgie.csv", "STEM/Epidemie/data/ziekenhuisbezetting.csv", 
 			   "STEM/Epidemie/images/cclic.png", "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", 
 			   "STEM/Epidemie/images/logodwengo.png", "STEM/Epidemie/images/netwerkkinderen.png", "STEM/Epidemie/images/ziekteverspr.png"],
@@ -613,7 +613,7 @@
 		"Name" : "SIR-model",
 		"BasePath": "STEM/Epidemie"
 	},	
-	"1203": {
+	"1221": {
 		"Files" : ["STEM/Epidemie/0300_SocialeNetwerken.ipynb", "STEM/Epidemie/0400_ZiekteUitbraakSocialeNetwerk.ipynb", 
 			   "STEM/Epidemie/data/covidbelgie.csv", "STEM/Epidemie/data/ziekenhuisbezetting.csv", "STEM/Epidemie/images/cclic.png", 
 			   "STEM/Epidemie/images/graph.png", "STEM/Epidemie/images/socialnetwerk.png", "STEM/Epidemie/images/logodwengo.png", 
