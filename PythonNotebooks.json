@@ -355,24 +355,6 @@
 		"Name" : "Regressie toepassing geiser",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"0312": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
-			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
-			   "Wiskunde/Spreidingsdiagram/data/data.csv", "Wiskunde/Spreidingsdiagram/data/data2.csv",
-			   "Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
-			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
-			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg",
-			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
-		"Resource" : "S",
-		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Regressie toepassing bevolking België",
-		"BasePath": "Wiskunde/Spreidingsdiagram"
-	},
 	"0400": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
 			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
