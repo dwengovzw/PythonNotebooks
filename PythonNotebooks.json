@@ -729,6 +729,14 @@
 		"Name" : "Structuren",
 		"BasePath": "Programmeerelementen/Structuren"
 	},
+	"1020": {
+		"Files" : ["Programmeerelementen/Operatoren/0200_VergelijkingsBoolOperatoren.ipynb",
+			   "Programmeerelementen/Operatoren/images/cclic.png", "Programmeerelementen/Operatoren/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Operatoren",
+		"Name" : "Vergelijkingsoperatoren en Booleaanse operatoren",
+		"BasePath": "Programmeerelementen/Operatoren"
+	},
 	"2101": {
 		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
 			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/lexiconhulp.py",
