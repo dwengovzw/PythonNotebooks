@@ -614,7 +614,7 @@
 		"BasePath": "STEM/Klimaat"
 	},
 	"1150": {
-		"Files" : ["STEM/Klimaat/0900_ZeeniveauRegressie.ipynb", 
+		"Files" : ["STEM/Klimaat/0700_ZeeniveauLineaireRegressie.ipynb", "STEM/Klimaat/0900_ZeeniveauRegressie.ipynb", 
 			   "STEM/Klimaat/data/antarcticaCO2.csv", "STEM/Klimaat/data/globaletemperatuur.csv", 
 			   "STEM/Klimaat/data/keeling.csv", "STEM/Klimaat/data/keelingCO230111958.csv", "STEM/Klimaat/data/keelingCO21959.csv", 
 			   "STEM/Klimaat/data/morteratsch.csv", "STEM/Klimaat/data/silvretta.csv", "STEM/Klimaat/data/zeeniveau.csv",
