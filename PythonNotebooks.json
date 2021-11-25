@@ -327,7 +327,7 @@
 		"Name" : "Lineaire regressie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
-	"0305": {
+	"0312": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/1300_RegressieBevolkingBelgie.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
