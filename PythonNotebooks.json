@@ -695,13 +695,13 @@
 		"BasePath": "STEM/IPAdres"
 	},
 	"1400": {
-		"Files" : ["STEM/Vliegverkeer/0100_SpreidingsdiagramNavigatiepuntenLuchtverkeer.ipynb", "STEM/Vliegverkeer/0200_GraafAirways.ipynb", 
-			   "STEM/Vliegverkeer/images/cclic.png", "STEM/Vliegverkeer/images/browser.png", "STEM/Vliegverkeer/images/logodwengo.png", 
+		"Files" : ["STEM/Vliegverkeer/0100_SpreidingsdiagramNavigatiepuntenLuchtverkeer.ipynb", 
+			   "STEM/Vliegverkeer/images/cclic.png","STEM/Vliegverkeer/images/logodwengo.png", 
 			   "STEM/Vliegverkeer/images/bakensairspace.png", "STEM/Vliegverkeer/images/lowerairspace.png", "STEM/Vliegverkeer/images/navigatiepunten.png",
 			   "STEM/Vliegverkeer/data/bakens.csv", "STEM/Vliegverkeer/data/navigatiepunten.csv"],
 		"Resource" : "S",
-		"Description" : "",
-		"Name" : "Vliegverkeer",
+		"Description" : "Vliegverkeer als toepassing op spreidingsdiagram (navigatiepunten) en grafen (courante vliegroutes)",
+		"Name" : "Toepassing grafen: Vliegverkeer",
 		"BasePath": "STEM/Vliegverkeer"
 	},
 	"1700": {
