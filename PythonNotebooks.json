@@ -739,7 +739,7 @@
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/schaal.png", 
 			   "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
 			   "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
-			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/bannerUGentDwengo.png", "Programmeerelementen/Structuren/images/logodwengo.png", 
+			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logougentdwengo.png", "Programmeerelementen/Structuren/images/logodwengo.png", 
 			   "Programmeerelementen/Structuren/data/hamlet.txt", "Programmeerelementen/Structuren/data/prideandprejudice.txt", "Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
 			   "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/bannerUGentDwengo.png","Programmeerelementen/Datatypes/images/helloworldIndex.png", 
 			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/cclic.png"],
@@ -772,7 +772,7 @@
 	},
 	"1008": {
 		"Files" : ["Programmeerelementen/Structuren/0100_ForIfElse.ipynb", "Programmeerelementen/Structuren/data/prideandprejudice.txt", "Programmeerelementen/Structuren/data/hamlet.txt", "Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
-			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/bannerUgentDwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
+			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logougentdwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Structuren over begrensde herhaling en keuzestructuur a.d.h.v. voorbeelden met focus op taal",
 		"Name" : "Structuren",
@@ -785,6 +785,15 @@
 		"Description" : "Leerlijn Operatoren",
 		"Name" : "Vergelijkingsoperatoren en Booleaanse operatoren",
 		"BasePath": "Programmeerelementen/Operatoren"
+	},
+	"1030": {
+		"Files" : ["Programmeerelementen/Structuren/0200_Herhalingsstructuur.ipynb", "Programmeerelementen/Structuren/0300_Keuzestructuur.ipynb", 
+			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logodwengo.png", "Programmeerelementen/Structuren/images/logougentdwengo.png",   
+			   "Programmeerelementen/Structuren/images/hehalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuwestructuurdwengo.png", "Programmeerelementen/Structuren/images/kikssteun.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Stucturen",
+		"Name" : "Keuze- en herhalingsstructuren",
+		"BasePath": "Programmeerelementen/Structuren"
 	},
 	"2101": {
 		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
