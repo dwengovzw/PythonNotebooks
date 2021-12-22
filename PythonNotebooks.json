@@ -140,7 +140,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
 		"Description" : "Notebook belang visualisatie uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
-		"Name" : "Spreidingsdiagram: belang van visaliseren van data",
+		"Name" : "Spreidingsdiagram: belang van visualiseren van data",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0205": {
@@ -159,7 +159,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/sequentiedwengo.png",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
-		"Description" : "Notebook ui leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
 		"Name" : "Spreidingsdiagram toepassing trein",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
@@ -692,6 +692,16 @@
 		"Description" : "Leerlijn Talstelsels over binaire, decimale en hexadecimale talstelsel a.d.h.v. context van IP-adres",
 		"Name" : "IP-adres",
 		"BasePath": "STEM/IPAdres"
+	},
+	"1400": {
+		"Files" : ["STEM/Vliegverkeer/0100_SpreidingsdiagramNavigatiepuntenLuchtverkeer.ipynb", "STEM/Vliegverkeer/0200_GraafAirways.ipynb", 
+			   "STEM/Vliegverkeer/images/cclic.png", "STEM/Vliegverkeer/images/browser.png", "STEM/Vliegverkeer/images/logodwengo.png", 
+			   "STEM/Vliegverkeer/images/bakensairspace.png", "STEM/Vliegverkeer/images/lowerairspace.png", "STEM/Vliegverkeer/images/navigatiepunten.png",
+			   "STEM/Vliegverkeer/data/bakens.csv", "STEM/Vliegverkeer/data/navigatiepunten.csv"],
+		"Resource" : "S",
+		"Description" : "",
+		"Name" : "Vliegverkeer",
+		"BasePath": "STEM/Vliegverkeer"
 	},
 	"1700": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
