@@ -622,10 +622,8 @@
 		"BasePath": "STEM/Klimaat"
 	},
 	"1140": {
-		"Files" : ["STEM/Klimaat/0400_Morteratschgletsjer.ipynb", "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb",  
-			   "STEM/Klimaat/data/antarcticaCO2.csv", "STEM/Klimaat/data/globaletemperatuur.csv", 
-			   "STEM/Klimaat/data/keeling.csv", "STEM/Klimaat/data/keelingCO230111958.csv", "STEM/Klimaat/data/keelingCO21959.csv", 
-			   "STEM/Klimaat/data/morteratsch.csv", "STEM/Klimaat/data/silvretta.csv", "STEM/Klimaat/data/zeeniveau.csv",
+		"Files" : ["STEM/Klimaat/0800_MorteratschgletsjerRegressie.ipynb", "STEM/Klimaat/0801_SilvrettagletsjerRegressie.ipynb",  
+			   "STEM/Klimaat/data/morteratsch.csv", "STEM/Klimaat/data/silvretta.csv", 
 			   "STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", "STEM/Klimaat/images/cclic.png", "STEM/Klimaat/images/csvantarctica.jpg",
 			   "STEM/Klimaat/images/logosnb2.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/kikssteun2.png",
 			   "STEM/Klimaat/images/lvtmorteratsch2018.jpg", "STEM/Klimaat/images/morteratschsimulatie.jpg"],
