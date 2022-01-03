@@ -291,7 +291,6 @@
 	},
 	"0303": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/1002_LineaireRegressieOefeningPost.ipynb", "Wiskunde/Spreidingsdiagram/1003_LineaireRegressieOefeningPostpakken.ipynb",  
-			   "Wiskunde/Spreidingsdiagram/1200_RegressieToepassingGeiser.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
