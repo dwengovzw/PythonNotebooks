@@ -537,14 +537,6 @@
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
 	"1002": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb",   
-			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
-		"Resource" : "S",
-		"Description" : "Leren werken met de functie input()",
-		"Name" : "Input en output",
-		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"1003": {
 		"Files" : ["Programmeerelementen/Datatypes/1000_Opsommingen.ipynb",   
 			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
 			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
@@ -553,6 +545,14 @@
 		"Description" : "Leerlijn datatypes: opsommingen",
 		"Name" : "Opsommingen",
 		"BasePath": "Programmeerelementen/Datatypes"
+	},
+	"1003": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb",   
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leren werken met de functie input()",
+		"Name" : "Input en output",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
 	"1004": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
@@ -607,7 +607,7 @@
 		"Name" : "Rekenkundige operatoren",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
-	"1010": {
+	"1011": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", 
 			   "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
 			   "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
@@ -620,7 +620,7 @@
 		"Name" : "Datatypes",
 		"BasePath": "Programmeerelementen"
 	},
-	"1011": {
+	"1012": {
 		"Files" : ["Programmeerelementen/Datatypes/0200_List.ipynb", 
 			   "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
 			   "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
@@ -633,7 +633,7 @@
 		"Name" : "Datatypes",
 		"BasePath": "Programmeerelementen"
 	},
-	"1012": {
+	"1013": {
 		"Files" : ["Programmeerelementen/Datatypes/0300_Dict.ipynb", 
 			   "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", 
 			   "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
@@ -646,7 +646,7 @@
 		"Name" : "Datatypes",
 		"BasePath": "Programmeerelementen"
 	},
-	"1013": {
+	"1014": {
 		"Files" : ["Programmeerelementen/Datatypes/0500_StringIntFloatBoolNone",    
 			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
 			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
@@ -656,7 +656,7 @@
 		"Name" : "Numpy-lijsten",
 		"BasePath": "Programmeerelementen/Datatypes"
 	},
-	"1014": {
+	"1015": {
 		"Files" : ["Programmeerelementen/Datatypes/0401_BewerkingenNumPyLijsten.ipynb", "Programmeerelementen/Datatypes/0402_BewerkingenNumPyLijstenStatistiek.ipynb",   
 			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
 			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
