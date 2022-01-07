@@ -695,11 +695,20 @@
 	"1032": {
 		"Files" : ["Programmeerelementen/Structuren/0300_Keuzestructuur.ipynb", 
 			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logodwengo.png", "Programmeerelementen/Structuren/images/logougentdwengo.png",   
-			   "Programmeerelementen/Structuren/images/hehalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuwestructuurdwengo.png", "Programmeerelementen/Structuren/images/kikssteun.png"],
+			   "Programmeerelementen/Structuren/images/herhalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuzestructuurdwengo.png", "Programmeerelementen/Structuren/images/kikssteun.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Stucturen",
 		"Name" : "Keuze- en herhalingsstructuren",
 		"BasePath": "Programmeerelementen/Structuren"
+	},
+	"1041": {
+		"Files" : ["Programmeerelementen/Functies/0100_FunctiesExtraOefeningen.ipynb", 
+			   "Programmeerelementen/Functies/images/cclic.png", "Programmeerelementen/Functies/images/logougentdwengo.png", "Programmeerelementen/Functies/images/kiksmeisedwengougent.png",
+			   "Programmeerelementen/Functies/images/herhalingsstructuurdwengo.png", "Programmeerelementen/Functies/images/keuzestructuurdwengo.png", "Programmeerelementen/Functies/images/kikssteun.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijnen Functies en structuren",
+		"Name" : "Keuze- en herhalingsstructuren",
+		"BasePath": "Programmeerelementen/Functies"
 	},
 	"1100": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb", 
