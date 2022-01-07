@@ -544,6 +544,16 @@
 		"Name" : "Input en output",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
+	"1003": {
+		"Files" : ["Programmeerelementen/Datatypes/1000_Opsommingen.ipynb",   
+			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
+			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
+			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Datatypes voor opsommingen",
+		"Name" : "Opsommingen",
+		"BasePath": "Programmeerelementen/Datatypes"
+	},
 	"1006": {
 		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", "Wiskunde/FunctiesPythagoras/0201_ExtraOefeningenFuncties.ipynb",
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/bannerugentdwengo.png",
