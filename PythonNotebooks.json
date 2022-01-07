@@ -550,8 +550,18 @@
 			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
 			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
 		"Resource" : "S",
-		"Description" : "Datatypes voor opsommingen",
+		"Description" : "Leerlijn datatypes: opsommingen",
 		"Name" : "Opsommingen",
+		"BasePath": "Programmeerelementen/Datatypes"
+	},
+	"1004": {
+		"Files" : ["Programmeerelementen/Datatypes/0401_BewerkingenNumPyLijsten.ipynb", "Programmeerelementen/Datatypes/0402_BewerkingenNumPyLijstenStatistiek.ipynb",   
+			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
+			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
+			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn datatypes: opsommingen",
+		"Name" : "Numpy-lijsten",
 		"BasePath": "Programmeerelementen/Datatypes"
 	},
 	"1006": {
