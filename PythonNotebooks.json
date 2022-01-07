@@ -683,6 +683,24 @@
 		"Name" : "Keuze- en herhalingsstructuren",
 		"BasePath": "Programmeerelementen/Structuren"
 	},
+	"1031": {
+		"Files" : ["Programmeerelementen/Structuren/0200_Herhalingsstructuur.ipynb", 
+			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logodwengo.png", "Programmeerelementen/Structuren/images/logougentdwengo.png",   
+			   "Programmeerelementen/Structuren/images/hehalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuwestructuurdwengo.png", "Programmeerelementen/Structuren/images/kikssteun.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Stucturen",
+		"Name" : "Keuze- en herhalingsstructuren",
+		"BasePath": "Programmeerelementen/Structuren"
+	},
+	"1032": {
+		"Files" : ["Programmeerelementen/Structuren/0300_Keuzestructuur.ipynb", 
+			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logodwengo.png", "Programmeerelementen/Structuren/images/logougentdwengo.png",   
+			   "Programmeerelementen/Structuren/images/hehalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuwestructuurdwengo.png", "Programmeerelementen/Structuren/images/kikssteun.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Stucturen",
+		"Name" : "Keuze- en herhalingsstructuren",
+		"BasePath": "Programmeerelementen/Structuren"
+	},
 	"1100": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb", 
 			   "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", "STEM/Klimaat/0600_Zeeniveau.ipynb", "STEM/Klimaat/0900_ZeeniveauRegressie.ipynb",
