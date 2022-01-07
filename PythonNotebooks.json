@@ -555,39 +555,6 @@
 		"BasePath": "Programmeerelementen/Datatypes"
 	},
 	"1004": {
-		"Files" : ["Programmeerelementen/Datatypes/0401_BewerkingenNumPyLijsten.ipynb", "Programmeerelementen/Datatypes/0402_BewerkingenNumPyLijstenStatistiek.ipynb",   
-			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
-			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
-			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn datatypes: opsommingen",
-		"Name" : "Numpy-lijsten",
-		"BasePath": "Programmeerelementen/Datatypes"
-	},
-	"1006": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", "Wiskunde/FunctiesPythagoras/0201_ExtraOefeningenFuncties.ipynb",
-			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/bannerugentdwengo.png",
-			   "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
-			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
-		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
-			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
-			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
-			   "Wiskunde/FunctiesPythagoras/images/logosnb.png", "Wiskunde/FunctiesPythagoras/images/logobavo.jpg"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Functies en Pythagoras",
-		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
-		"BasePath": "Wiskunde/FunctiesPythagoras"
-	},
-	"1010": {
-		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb",
-			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
-			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
-		"Resource" : "S",
-		"Description" : "Leerlijn Grafieken van rechten",
-		"Name" : "Rekenkundige operatoren",
-		"BasePath": "Wiskunde/GrafiekenFuncties"
-	},
-	"1004": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", "Programmeerelementen/Datatypes/data/hamlet.txt", "Programmeerelementen/Datatypes/data/prideandprejudice.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt", "Programmeerelementen/Datatypes/data/hamlet_fragment.txt", "Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt", "Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
 			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/bannerUGentDwengo.png", "Programmeerelementen/Datatypes/images/helloworldIndex.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png"],
 		"Resource" : "S",
@@ -609,6 +576,20 @@
 		"Name" : "Datatypes",
 		"BasePath": "Programmeerelementen"
 	},
+	"1006": {
+		"Files" : ["Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb", "Wiskunde/FunctiesPythagoras/0201_ExtraOefeningenFuncties.ipynb",
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/bannerugentdwengo.png",
+			   "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+			  "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
+		           "Wiskunde/FunctiesPythagoras/images/functie2.png", "Wiskunde/FunctiesPythagoras/images/functie3.png", "Wiskunde/FunctiesPythagoras/images/functie4.png", "Wiskunde/FunctiesPythagoras/images/functie5.png",
+			  "Wiskunde/FunctiesPythagoras/images/gpsnewyork.png", "Wiskunde/FunctiesPythagoras/images/kaartnewyork.png", "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png", "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",  "Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+			   "Wiskunde/FunctiesPythagoras/images/logosnb.png", "Wiskunde/FunctiesPythagoras/images/logobavo.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Functies en Pythagoras",
+		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
+		"BasePath": "Wiskunde/FunctiesPythagoras"
+	},
 	"1008": {
 		"Files" : ["Programmeerelementen/Structuren/0100_ForIfElse.ipynb", "Programmeerelementen/Structuren/data/prideandprejudice.txt", "Programmeerelementen/Structuren/data/hamlet.txt", "Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
 			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logougentdwengo.png", "Programmeerelementen/Datatypes/images/logodwengo.png"],
@@ -616,6 +597,15 @@
 		"Description" : "Leerlijn Structuren over begrensde herhaling en keuzestructuur a.d.h.v. voorbeelden met focus op taal",
 		"Name" : "Structuren",
 		"BasePath": "Programmeerelementen/Structuren"
+	},
+	"1010": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb",
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken van rechten",
+		"Name" : "Rekenkundige operatoren",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"1010": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", 
@@ -655,6 +645,26 @@
 		"Description" : "Leerlijn Datatypes over strings, lists en dictionaries a.d.h.v. voorbeelden met focus op taal",
 		"Name" : "Datatypes",
 		"BasePath": "Programmeerelementen"
+	},
+	"1013": {
+		"Files" : ["Programmeerelementen/Datatypes/0500_StringIntFloatBoolNone",    
+			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
+			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
+			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn datatypes: opsommingen",
+		"Name" : "Numpy-lijsten",
+		"BasePath": "Programmeerelementen/Datatypes"
+	},
+	"1014": {
+		"Files" : ["Programmeerelementen/Datatypes/0401_BewerkingenNumPyLijsten.ipynb", "Programmeerelementen/Datatypes/0402_BewerkingenNumPyLijstenStatistiek.ipynb",   
+			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
+			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
+			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn datatypes: opsommingen",
+		"Name" : "Numpy-lijsten",
+		"BasePath": "Programmeerelementen/Datatypes"
 	},
 	"1020": {
 		"Files" : ["Programmeerelementen/Operatoren/0200_VergelijkingsBoolOperatoren.ipynb",
