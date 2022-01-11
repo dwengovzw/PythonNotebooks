@@ -647,7 +647,7 @@
 		"BasePath": "Programmeerelementen"
 	},
 	"1014": {
-		"Files" : ["Programmeerelementen/Datatypes/0500_StringIntFloatBoolNone",    
+		"Files" : ["Programmeerelementen/Datatypes/0500_StringIntFloatBoolNone.ipynb",    
 			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
 			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
 			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
