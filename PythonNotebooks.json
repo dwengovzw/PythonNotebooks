@@ -666,6 +666,16 @@
 		"Name" : "Numpy-lijsten",
 		"BasePath": "Programmeerelementen/Datatypes"
 	},
+	"1016": {
+		"Files" : ["Programmeerelementen/Datatypes/0410_DatastructuurNumPy.ipynb",    
+			   "Programmeerelementen/Datatypes/images/cclic.png", "Programmeerelementen/Datatypes/images/logodwengo.png", "Programmeerelementen/Datatypes/images/helloworldindex.png",
+			   "Programmeerelementen/Datatypes/images/binair.jpg", "Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png", "Programmeerelementen/Datatypes/images/kikssteun.png",
+			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn datatypes: matrix",
+		"Name" : "Numpy array",
+		"BasePath": "Programmeerelementen/Datatypes"
+	},
 	"1020": {
 		"Files" : ["Programmeerelementen/Operatoren/0200_VergelijkingsBoolOperatoren.ipynb",
 			   "Programmeerelementen/Operatoren/images/cclic.png", "Programmeerelementen/Operatoren/images/logodwengo.png"],
