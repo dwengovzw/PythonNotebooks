@@ -868,9 +868,9 @@
 			   "STEM/DigitaleBeelden/images/begoniazoom.png", "STEM/DigitaleBeelden/images/spectrum.png", 
 			   "STEM/DigitaleBeelden/data/begonia.npy", "STEM/DigitaleBeelden/data/vier.npy"],
 		"Resource" : "S",
-		"Description" : "Vliegverkeer als toepassing op spreidingsdiagram (navigatiepunten) en grafen (courante vliegroutes)",
-		"Name" : "Toepassing grafen: Vliegverkeer",
-		"BasePath": "STEM/Vliegverkeer"
+		"Description" : "Digitale beeldverwerking inleiding grijswaarden en kleur",
+		"Name" : "Digitale beelden",
+		"BasePath": "STEM/DigitaleBeelden"
 	},
 	"1700": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
