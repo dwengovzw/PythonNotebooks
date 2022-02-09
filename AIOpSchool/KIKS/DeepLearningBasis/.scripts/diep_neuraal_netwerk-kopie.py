@@ -3,7 +3,7 @@ from pymongo import MongoClient
 from PIL import Image
 from sklearn.cluster import MeanShift, estimate_bandwidth
 from matplotlib.ticker import MaxNLocator
-import keras.backend as K
+import tensorflow.keras.backend as K
 import numpy as np
 import matplotlib.pyplot as plt
 import ipywidgets as widgets
