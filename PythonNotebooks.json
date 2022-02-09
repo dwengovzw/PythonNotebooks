@@ -937,7 +937,8 @@
 	},
 	"1700": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
-			   "AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb", 
+			   "AIOpSchool/KIKS/DeepLearningBasis/0501_StomataDetectie.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.png", "AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.npy",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png", "AIOpSchool/KIKS/DeepLearningBasis/images/maxpooling.jpg",
