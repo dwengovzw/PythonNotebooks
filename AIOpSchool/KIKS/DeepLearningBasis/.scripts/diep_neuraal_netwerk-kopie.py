@@ -217,7 +217,7 @@ def vind_stomata():
     for i, im_object in enumerate(model['full_images']):
         im_objects.append(im_object)
 
-        im = Image.open(os.path.join(image_dir, im_object['name']))
+        im = Image.open(os.path.join(image_dir, im_object['name'].replace(" ", "_").replace("-", "_")))
         im_r = np.array(im)
 
         ax[i].imshow(im_r)
