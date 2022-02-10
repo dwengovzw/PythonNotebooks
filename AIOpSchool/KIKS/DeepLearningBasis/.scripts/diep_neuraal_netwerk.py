@@ -17,8 +17,8 @@ spec2 = importlib.util.spec_from_file_location(
    name = 'something__else', # name is not related to the file, it 's the module name!
    location = '.scripts/visualize_network.py' # full path to the script
 )
-my_mod2 = importlib.util.module_from_spec(spec2)
-spec2.loader.exec_module(my_mod2)
+visualize_network = importlib.util.module_from_spec(spec2)
+spec2.loader.exec_module(visualize_network)
     
     
 image_dir = 'images'
