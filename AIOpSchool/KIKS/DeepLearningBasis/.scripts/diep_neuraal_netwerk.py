@@ -39,7 +39,7 @@ models_collection = db.models
 model_attr = {
     'base_name': 'conv_base',
     'conv_layers': 1,
-    'regularization': False,
+    'regularisatie': False,
     'ff_layers': 1,
     'ff_input': 16,
     'optimizer': 'sgd',
@@ -59,7 +59,7 @@ def update_model(attr, value):
 
 
 def get_model():
-    name = (model_attr['base_name'] if model_attr['base_name'] == 'VGG19_base' else model_attr['base_name'] + '_' + str(model_attr['conv_layers']) + '-cl') + ('_regularization_' if model_attr['regularization'] else '_no-regularization_') + str(model_attr['ff_layers']) + '-ffl_' + str(model_attr['ff_input']) + '-ffn_' + model_attr['optimizer'] + '_lr-' + "{:.0E}".format(model_attr['learning_rate'])
+    name = (model_attr['base_name'] if model_attr['base_name'] == 'VGG19_base' else model_attr['base_name'] + '_' + str(model_attr['conv_layers']) + '-cl') + ('_regularization_' if model_attr['regularisatie'] else '_no-regularization_') + str(model_attr['ff_layers']) + '-ffl_' + str(model_attr['ff_input']) + '-ffn_' + model_attr['optimizer'] + '_lr-' + "{:.0E}".format(model_attr['learning_rate'])
 
     global model
     model = models_collection.find_one({'name': name, 'epoch': (model_attr['epoch'] - 1)})
@@ -84,7 +84,7 @@ def kies_training_parameters():
 
 
 def toon_netwerk():
-    im = visualize_network.get_network_image(base=model_attr['base_name'], n_conv_layers=model_attr['conv_layers'], dropout=model_attr['regularization'], n_ff_layers=model_attr['ff_layers'], n_ff_input=model_attr['ff_input'])
+    im = visualize_network.get_network_image(base=model_attr['base_name'], n_conv_layers=model_attr['conv_layers'], dropout=model_attr['regularisatie'], n_ff_layers=model_attr['ff_layers'], n_ff_input=model_attr['ff_input'])
     display(im)
 
 
@@ -246,7 +246,7 @@ def laad_referentie_model():
     model_attr = {
         'base_name': 'conv_base',
         'conv_layers': 3,
-        'regularization': True,
+        'regularisatie': True,
         'ff_layers': 1,
         'ff_input': 64,
         'optimizer': 'sgd',
