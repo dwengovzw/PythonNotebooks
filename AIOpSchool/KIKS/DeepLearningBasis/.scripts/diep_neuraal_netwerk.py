@@ -3,7 +3,7 @@ from pymongo import MongoClient
 from PIL import Image
 from sklearn.cluster import MeanShift, estimate_bandwidth
 from matplotlib.ticker import MaxNLocator
-import keras.backend as K
+import tensorflow.keras.backend as K
 import numpy as np
 import matplotlib.pyplot as plt
 import ipywidgets as widgets
@@ -11,12 +11,18 @@ import warnings
 import io
 import os
 import gc
-import imp
-with open('../.scripts/visualize_network.py', 'rb') as fp:
-    visualize_network = imp.load_module('.scripts', fp, '../.scripts/visualize_network.py', ('.py', 'rb', imp.PY_SOURCE))
+import importlib
 
-image_dir = '../.images/IntroductieDeepLearning'
-model_dir = '../.data/IntroductieDeepLearning'
+spec2 = importlib.util.spec_from_file_location(
+   name = 'something__else', # name is not related to the file, it 's the module name!
+   location = '.scripts/visualize_network.py' # full path to the script
+)
+my_mod2 = importlib.util.module_from_spec(spec2)
+spec2.loader.exec_module(my_mod2)
+    
+    
+image_dir = 'images'
+model_dir = 'data/IntroductieDeepLearning'
 
 layout = widgets.Layout(width='30%')
 
@@ -211,7 +217,7 @@ def vind_stomata():
     for i, im_object in enumerate(model['full_images']):
         im_objects.append(im_object)
 
-        im = Image.open(os.path.join(image_dir, im_object['name']))
+        im = Image.open(os.path.join(image_dir, im_object['name'].replace(" ", "_").replace("-", "_")))
         im_r = np.array(im)
 
         ax[i].imshow(im_r)
