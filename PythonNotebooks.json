@@ -991,6 +991,23 @@
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
+	"1710": {
+		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_DetectieStomata.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/DL_stomata_methodology.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/fig_Ipomaea_eriocarpa_Faulkner_203424_blad1-vlak1.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/data/detecting_stomata_model_VGG19FT.h5",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/detect.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
+		"Resource" : "S",
+		"Description" : "Leerpad Basis van Deep learning",
+		"Name" : "Detectie van Stomata",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
 	"2100": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
 			   "Programmeerelementen/Structuren/0100_ForIfElse.ipynb", "AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
