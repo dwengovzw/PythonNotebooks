@@ -1,7 +1,7 @@
 from PIL import Image
 from sklearn.cluster import MeanShift, estimate_bandwidth
-from keras.models import load_model
-from keras import backend as K
+from tensorflow.keras.models import load_model
+from tensorflow.keras import backend as K
 from ipyupload import FileUpload
 from multiprocessing import Process, Queue
 import matplotlib.pyplot as plt
@@ -35,7 +35,7 @@ import warnings
 import io
 
 reference_model = 'detecting_stomata_model_VGG19FT.h5'
-model_dir = '.tools/'
+model_dir = 'data/'
 
 upload_widget = FileUpload(accept='image/*')
 
