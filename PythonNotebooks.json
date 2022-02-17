@@ -992,7 +992,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1710": {
-		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_DetectieStomata.ipynb",
+		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/DL_stomata_methodology.png",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/fig_Ipomaea_eriocarpa_Faulkner_203424_blad1-vlak1.png",

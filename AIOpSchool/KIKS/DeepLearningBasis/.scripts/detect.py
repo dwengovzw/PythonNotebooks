@@ -110,10 +110,14 @@ def show_image():
 
 
 def detect_stomata_subproces(im_r, q):
-    config = tf.ConfigProto()
-    config.gpu_options.allow_growth = True
-    config.gpu_options.per_process_gpu_memory_fraction = 0.2
-    sess = tf.Session(config=config)
+    gpus = tf.config.experimental.list_physical_devices('GPU')
+    for gpu in gpus:
+        tf.config.experimental.set_memory_growth(gpu, True)
+        tf.config.experimental.per_process_gpu_memory_fraction(gpu, 0.2)
+    # config = tf.ConfigProto()
+    # config.gpu_options.allow_growth = True
+    # config.gpu_options.per_process_gpu_memory_fraction = 0.2
+    sess = tf.Session(config=tf.config)
     K.set_session(sess)
 
     model_file = load_model(os.path.join(model_dir, reference_model))
