@@ -1,7 +1,7 @@
 from PIL import Image
 from sklearn.cluster import MeanShift, estimate_bandwidth
 from tensorflow.keras.models import load_model
-from tensorflow.keras import backend as K
+from tensorflow.python.keras import backend as K
 from multiprocessing import Process, Queue
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
