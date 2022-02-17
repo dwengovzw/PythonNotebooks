@@ -2,7 +2,6 @@ from PIL import Image
 from sklearn.cluster import MeanShift, estimate_bandwidth
 from tensorflow.keras.models import load_model
 from tensorflow.keras import backend as K
-from ipyupload import FileUpload
 from multiprocessing import Process, Queue
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
@@ -117,7 +116,7 @@ def detect_stomata_subproces(im_r, q):
     # config = tf.ConfigProto()
     # config.gpu_options.allow_growth = True
     # config.gpu_options.per_process_gpu_memory_fraction = 0.2
-    sess = tf.Session(config=tf.config)
+    sess = tf.compat.v1.Session(config=tf.config)
     K.set_session(sess)
 
     model_file = load_model(os.path.join(model_dir, reference_model))
