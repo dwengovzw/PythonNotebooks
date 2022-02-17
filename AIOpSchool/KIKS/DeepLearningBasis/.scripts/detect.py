@@ -37,7 +37,7 @@ import io
 reference_model = 'detecting_stomata_model_VGG19FT.h5'
 model_dir = 'data/'
 
-upload_widget = FileUpload(accept='image/*')
+upload_widget = widgets.FileUpload(accept='image/*', multiple=False)
 
 image_crop = None
 
