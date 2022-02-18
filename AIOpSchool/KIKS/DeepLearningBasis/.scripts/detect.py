@@ -12,7 +12,7 @@ import GPUtil
 GPUs = GPUtil.getGPUs()
 available_gpu_ids = []
 for gpu in GPUs:
-    if gpu.memoryFree > 3000:
+    # if gpu.memoryFree > 3000:
         available_gpu_ids.append(gpu.id)
 
 if 'CUDA_VISIBLE_DEVICES' in os.environ:
