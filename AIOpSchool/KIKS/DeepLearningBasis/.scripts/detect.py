@@ -115,7 +115,7 @@ def detect_stomata_subproces(im_r, q):
     #     tf.config.experimental.per_process_gpu_memory_fraction(gpu, 0.2)
     config = tf.compat.v1.ConfigProto()
     config.gpu_options.allow_growth = True
-    config.gpu_options.per_process_gpu_memory_fraction = 0.2
+    #config.gpu_options.per_process_gpu_memory_fraction = 0.2
     sess = tf.compat.v1.Session(config=config)
     K.set_session(sess)
 
