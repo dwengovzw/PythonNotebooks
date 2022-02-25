@@ -695,7 +695,8 @@
 	"1031": {
 		"Files" : ["Programmeerelementen/Structuren/0200_Herhalingsstructuur.ipynb", 
 			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logodwengo.png", "Programmeerelementen/Structuren/images/logougentdwengo.png",   
-			   "Programmeerelementen/Structuren/images/hehalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuwestructuurdwengo.png", "Programmeerelementen/Structuren/images/kikssteun.png"],
+			   "Programmeerelementen/Structuren/images/herhalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuzestructuurdwengo.png", 
+			   "Programmeerelementen/Structuren/images/kikssteun.png", "Programmeerelementen/Structuren/images/kiksmeisedwengougent.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Stucturen",
 		"Name" : "Keuze- en herhalingsstructuren",
@@ -704,7 +705,8 @@
 	"1032": {
 		"Files" : ["Programmeerelementen/Structuren/0300_Keuzestructuur.ipynb", 
 			   "Programmeerelementen/Structuren/images/cclic.png", "Programmeerelementen/Structuren/images/logodwengo.png", "Programmeerelementen/Structuren/images/logougentdwengo.png",   
-			   "Programmeerelementen/Structuren/images/herhalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuzestructuurdwengo.png", "Programmeerelementen/Structuren/images/kikssteun.png"],
+			   "Programmeerelementen/Structuren/images/herhalingsstructuurdwengo.png", "Programmeerelementen/Structuren/images/keuzestructuurdwengo.png", 
+			   "Programmeerelementen/Structuren/images/kikssteun.png", "Programmeerelementen/Structuren/images/kiksmeisedwengougent.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Stucturen",
 		"Name" : "Keuze- en herhalingsstructuren",
@@ -1014,6 +1016,19 @@
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
 		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+	},
+	"1800": {
+		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
+			   "AIOpSchool/Zorg/0300_OefeningOperatie.ipynb", "AIOpSchool/Zorg/0400_OefeningTitanic.ipynb", "AIOpSchool/Zorg/0500_OefeningKyphosis.ipynb", 
+			   "AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb", "AIOpSchool/Zorg/0700_OefeningHuis.ipynb", "AIOpSchool/Zorg/0800_OefeningGolf.ipynb", 
+			   "AIOpSchool/Zorg/0900_OefeningTitanicEcht.ipynb", "AIOpSchool/Zorg/1000_EWS.ipynb",
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png", 
+			   "AIOpSchool/Zorg/data/heart.csv", "AIOpSchool/Zorg/data/kyphosis.csv", "AIOpSchool/Zorg/data/NEWS_datafile.csv", "AIOpSchool/Zorg/data/NEWS_datafile_metEWS.csv", 
+			   "AIOpSchool/Zorg/data/trainTitanic.csv"],
+		"Resource" : "S",
+		"Description" : "Leerpad Beslissingsbomen in de zorg",
+		"Name" : "AI in de Zorg",
+		"BasePath": "AIOpSchool/Zorg"
 	},
 	"2100": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
