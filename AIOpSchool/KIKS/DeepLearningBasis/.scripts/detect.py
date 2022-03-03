@@ -133,9 +133,9 @@ def detect_stomata_subproces(im_r, q):
     no_y_shifts = (np.shape(im_r)[1] - 2 * offset) // shift
 
     #confidence = np.zeros((np.shape(im_r)[0],np.shape(im_r)[1]))
-    #print('start calculations')
+    print('start calculations')
     for x in np.arange(no_x_shifts + 1):
-        #update_progress(x / (no_x_shifts + 2.0))
+        update_progress(x / (no_x_shifts + 2.0))
         for y in np.arange(no_y_shifts + 1):
             x_c = x * shift + offset
             y_c = y * shift + offset
@@ -197,22 +197,24 @@ def detect_stomata_in_image():
     # We voeren dit uit in een appart proces omdat de gpu memory dan wordt vrijgegeven
     #gpus = tf.test.gpu_device_name()
     #with tf.device(gpus[available_gpu_ids[0]].name):
-    q = Queue(maxsize=-1)
-    p = Process(target=detect_stomata_subproces, args=(image_crop, q))
-    #print('start')
-    from time import sleep
-    sleep(1)
-    p.start()
-    #print('join')
-    #p.join()
-    sleep(1)
-    #print('get')
-    stomata_punten = q.get()
-    #print('join')
-    sleep(1)
-    p.join()
-    #confidence = q.get()
-    #print('plot')
+    if tf.config.list_physical_devices("GPU"):
+        with tf.device("/gpu:0"):
+            q = Queue(maxsize=-1)
+            p = Process(target=detect_stomata_subproces, args=(image_crop, q))
+            #print('start')
+            from time import sleep
+            sleep(1)
+            p.start()
+            #print('join')
+            #p.join()
+            sleep(1)
+            #print('get')
+            stomata_punten = q.get()
+            #print('join')
+            sleep(1)
+            p.join()
+            #confidence = q.get()
+            #print('plot')
 
     fig, ax = plt.subplots(figsize=(20, 10))
     ax.imshow(image_crop)
