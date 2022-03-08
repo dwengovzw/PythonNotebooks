@@ -1018,6 +1018,20 @@
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
 		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
 	},
+	"1720": {
+		"Files": ["AIOpSchool/KIKS/DeepLearningGevorderd/0100_BladNaarLabel.ipynb",
+			    "AIOpSchool/KIKS/DeepLearningGevorderd/images/carapanegatief.jpg",
+			    "AIOpSchool/KIKS/DeepLearningGevorderd/images/carapapositief.jpg",
+			    "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png",
+			    "AIOpSchool/KIKS/DeepLearningGevorderd/images/logodwengo.png",
+			    "AIOpSchool/KIKS/DeepLearningGevorderd/images/stomatamethodologie.png"],
+		"Resource": "L",
+		"Description": "Leerpad Deep learning gevorderd: blad naar label",
+		"Name": "Deep learning gevorderd",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+
+	},
 	"1800": {
 		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
 			   "AIOpSchool/Zorg/0300_OefeningOperatie.ipynb", "AIOpSchool/Zorg/0400_OefeningTitanic.ipynb", "AIOpSchool/Zorg/0500_OefeningKyphosis.ipynb", 
