@@ -1029,7 +1029,7 @@
 		"Description": "Leerpad Deep learning gevorderd: blad naar label",
 		"Name": "Deep learning gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
 
 	},
 	"1800": {
