@@ -9,9 +9,6 @@ import ipywidgets as widgets
 
 import os
 
-os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-os.environ["CUDA_VISIBLE_DEVICES"] = '0'
-
 import numpy as np
 import warnings
 import io
@@ -101,9 +98,6 @@ def detect_stomata_subproces(im_r, q):
     if gpus:
         try:
             config = tf.compat.v1.ConfigProto()
-            # Restrict TensorFlow to only allocate 1GB of memory on the first GPU
-            tf.config.set_logical_device_configuration(gpus[0],
-                                                       [tf.config.LogicalDeviceConfiguration(memory_limit=10000)])
             config.gpu_options.allow_growth = True
             config.gpu_options.per_process_gpu_memory_fraction = 0.2
             sess = tf.compat.v1.Session(config=config)
@@ -114,6 +108,8 @@ def detect_stomata_subproces(im_r, q):
             offset = 60
             bandwidth = offset
 
+            im_list = []
+            coor_list = []
             stomata_punten = {}
             for thr in range(5, 100, 5):
                 stomata_punten[str(thr)] = []
@@ -132,18 +128,24 @@ def detect_stomata_subproces(im_r, q):
                     im_r_crop = im_r[x_c - offset:x_c + offset, y_c - offset:y_c + offset, :]
                     im_r_crop = im_r_crop.astype('float32')
                     im_r_crop /= 255
+                    im_list.append(np.expand_dims(im_r_crop, axis=0))
+                    coor_list.append([x_c, y_c])
 
-                    y_model = model_file.predict(np.expand_dims(im_r_crop, axis=0))
-                    # print(y_model[0][1])
+            batchsize = 128
+            for i in range(0, len(im_list), batchsize):
+                batch = im_list[i:i + batchsize]
+                y_model = model_file.predict(np.vstack(batch), verbose=0)
+                update_progress(i / len(im_list))
 
+                for j in range(0, len(y_model)):
                     for thr in range(5, 100, 5):
-                        if y_model[0][1] > thr / 100.:
-                            stomata_punten[str(thr)].append([x_c, y_c])
+                        if y_model[j][1] > thr / 100.:
+                            stomata_punten[str(thr)].append(coor_list[i + j])
 
-                    # for i in np.arange(2*offset):
-                    #    for j in np.arange(2*offset):
-                    #        if y_model[0][1] > confidence[x*shift+i][y*shift+j]:
-                    #            confidence[x*shift+i][y*shift+j] = y_model[0][1]
+                        # for i in np.arange(2*offset):
+                        #    for j in np.arange(2*offset):
+                        #        if y_model[0][1] > confidence[x*shift+i][y*shift+j]:
+                        #            confidence[x*shift+i][y*shift+j] = y_model[0][1]
 
             for thr in range(5, 100, 5):
                 if stomata_punten[str(thr)]:
@@ -154,9 +156,8 @@ def detect_stomata_subproces(im_r, q):
                         ms.fit(stomata_punten[str(thr)])
                         stomata_punten[str(thr)] = [[x[1], x[0]] for x in
                                                     ms.cluster_centers_]  # Because cluster_centers is inverted
-            # update_progress(1)
+            update_progress(1)
             # print(stomata_punten)
-            print('Im done calculations')
             q.put(stomata_punten)
             # print('Im done putting')
             # q.put(confidence)
