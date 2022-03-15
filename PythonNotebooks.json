@@ -1070,5 +1070,14 @@
 		"Name" : "Sentimentanalyse",
 		"BasePath": "AIOpSchool/Chatbot",
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+	},
+	"2102": {
+		"Files" : ["AIOpSchool/Chatbot/0500_Chatbot.ipynb", 
+			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Chatbot",
+		"Name" : "Chatbot",
+		"BasePath": "AIOpSchool/Chatbot",
+		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
 	}
 }
