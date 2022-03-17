@@ -1033,17 +1033,34 @@
 
 	},
 	"1800": {
-		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
-			   "AIOpSchool/Zorg/0300_OefeningOperatie.ipynb", "AIOpSchool/Zorg/0400_OefeningTitanic.ipynb", "AIOpSchool/Zorg/0500_OefeningKyphosis.ipynb", 
-			   "AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb", "AIOpSchool/Zorg/0700_OefeningHuis.ipynb", "AIOpSchool/Zorg/0800_OefeningGolf.ipynb", 
-			   "AIOpSchool/Zorg/0900_OefeningTitanicEcht.ipynb", "AIOpSchool/Zorg/1000_EWS.ipynb",
-			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png", 
-			   "AIOpSchool/Zorg/data/heart.csv", "AIOpSchool/Zorg/data/kyphosis.csv", "AIOpSchool/Zorg/data/NEWS_datafile.csv", "AIOpSchool/Zorg/data/NEWS_datafile_metEWS.csv", 
-			   "AIOpSchool/Zorg/data/trainTitanic.csv"],
-		"Resource" : "S",
-		"Description" : "Leerpad Beslissingsbomen in de zorg",
-		"Name" : "AI in de Zorg",
-		"BasePath": "AIOpSchool/Zorg"
+		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht.ipynb",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie.ipynb",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieSheidingslijn.ipynb",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/irissetosa.jpg", "AIOpSchool/KIKS/MachineLearningClassificatie/images/irisVersicolor.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/irisvirginica.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kelkbaldkroonblad.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.dat"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning classificatie",
+		"Name": "Machine learning classificatie",
+		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
+	},
+	"1900": {
+		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
+			    "STEM/Klimaat/data/zeeniveau.csv",
+			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning regressie",
+		"Name": "Machine learning regressie",
+		"BasePath": "STEM/Klimaat"
 	},
 	"2100": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
@@ -1088,5 +1105,18 @@
 		"Name" : "Regels van ervoegingen",
 		"BasePath": "AIOpSchool/Chatbot",
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+	},
+	"3000": {
+		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
+			   "AIOpSchool/Zorg/0300_OefeningOperatie.ipynb", "AIOpSchool/Zorg/0400_OefeningTitanic.ipynb", "AIOpSchool/Zorg/0500_OefeningKyphosis.ipynb", 
+			   "AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb", "AIOpSchool/Zorg/0700_OefeningHuis.ipynb", "AIOpSchool/Zorg/0800_OefeningGolf.ipynb", 
+			   "AIOpSchool/Zorg/0900_OefeningTitanicEcht.ipynb", "AIOpSchool/Zorg/1000_EWS.ipynb",
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png", 
+			   "AIOpSchool/Zorg/data/heart.csv", "AIOpSchool/Zorg/data/kyphosis.csv", "AIOpSchool/Zorg/data/NEWS_datafile.csv", "AIOpSchool/Zorg/data/NEWS_datafile_metEWS.csv", 
+			   "AIOpSchool/Zorg/data/trainTitanic.csv"],
+		"Resource" : "S",
+		"Description" : "Leerpad Beslissingsbomen in de zorg",
+		"Name" : "AI in de Zorg",
+		"BasePath": "AIOpSchool/Zorg"
 	}
 }
