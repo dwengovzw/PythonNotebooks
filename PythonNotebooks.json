@@ -1071,12 +1071,21 @@
 		"BasePath": "AIOpSchool/Chatbot",
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
 	},
-	"2102": {
+	"2110": {
 		"Files" : ["AIOpSchool/Chatbot/0500_Chatbot.ipynb", "AIOpSchool/Chatbot/util.py", "AIOpSchool/Chatbot/bot.py",
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Chatbot",
 		"Name" : "Chatbot",
+		"BasePath": "AIOpSchool/Chatbot",
+		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+	},
+	"2120": {
+		"Files" : ["AIOpSchool/Chatbot/0100_Vervoegingen.ipynb", 
+			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Chatbot",
+		"Name" : "Regels van ervoegingen",
 		"BasePath": "AIOpSchool/Chatbot",
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
 	}
