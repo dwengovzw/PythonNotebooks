@@ -21,7 +21,7 @@ def save_afbeelding():
     first_key = next(iter(upload_image_widget.value))
 
     image = Image.open(io.BytesIO(upload_image_widget.value[first_key]['content']))
-    image.save('../images/eigen_afbeelding.jpg')
+    image.save('./images/eigen_afbeelding.jpg')
     return image
 
 def save_npy():
@@ -33,4 +33,4 @@ def save_npy():
 
     eigen_npy = io.BytesIO(upload_npy_widget.value[first_key]['content'])
     eigen_afbeelding = np.load(eigen_npy)
-    np.save('../data/eigen_afbeelding.npy', eigen_afbeelding)
+    np.save('./data/eigen_afbeelding.npy', eigen_afbeelding)

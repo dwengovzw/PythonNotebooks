@@ -16,4 +16,4 @@ def save_npy():
 
     eigen_npy = io.BytesIO(upload_widget.value[first_key]['content'])
     eigen_afbeelding = np.load(eigen_npy)
-    np.save('../images/eigen_afbeelding.npy', eigen_afbeelding)
+    np.save('./images/eigen_afbeelding.npy', eigen_afbeelding)
