@@ -1037,8 +1037,8 @@
 
 	},
 	"1750": {
-		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0100_ConvolutieBewerking.ipynb", "AIOpSchool/KIKS/DeepLearningGevorderd/0200_GradientDescent.ipynb",
-			   "AIOpSchool/KIKS/DeepLearningGevorderd/0300_ReLU.ipynb",
+		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", "AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png"],
