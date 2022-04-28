@@ -1123,5 +1123,23 @@
 		"Description" : "Leerpad Beslissingsbomen in de zorg",
 		"Name" : "AI in de Zorg",
 		"BasePath": "AIOpSchool/Zorg"
+	},
+	"3010": {
+		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb",
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad Beslissingsbomen in de zorg",
+		"Name" : "AI in de Zorg",
+		"BasePath": "AIOpSchool/Zorg"
+	},
+	"3020": {
+		"Files" : ["AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
+			   "AIOpSchool/Zorg/0300_OefeningOperatie.ipynb", "AIOpSchool/Zorg/0400_OefeningTitanic.ipynb", "AIOpSchool/Zorg/0700_OefeningHuis.ipynb", 
+			   "AIOpSchool/Zorg/0800_OefeningGolf.ipynb", 
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad Beslissingsbomen in de zorg",
+		"Name" : "AI in de Zorg",
+		"BasePath": "AIOpSchool/Zorg"
 	}
 }
