@@ -1298,8 +1298,18 @@
 
 	},
 	"1750": {
-		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", "AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent.ipynb",
-			   "AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb",
+		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", "AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad Deep learning gevorderd",
+		"Name" : "Deep Learning Gevorderd",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
+	"1760": {
+		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png"],
