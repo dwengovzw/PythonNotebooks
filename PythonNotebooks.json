@@ -1005,7 +1005,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1701": {
-		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDeepNeuraalNetwerk.ipynb", 
+		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk.ipynb", 
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png", "AIOpSchool/KIKS/DeepLearningBasis/images/maxpooling.jpg",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/trainingdata.jpg",
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/vbnetwerk.jpg",
