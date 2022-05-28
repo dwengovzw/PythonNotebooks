@@ -299,7 +299,7 @@
 			   "Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "Wiskunde/Spreidingsdiagram/data/punten.csv", 
 			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
-			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", "Wiskunde/Spreidingsdiagram/images/postbode.jpg"
+			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", "Wiskunde/Spreidingsdiagram/images/postbode.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg", "Wiskunde/Spreidingsdiagram/images/abstractiedwengo.png", "Wiskunde/Spreidingsdiagram/images/algoritmedwengo.png",
 			   "Wiskunde/Spreidingsdiagram/images/patroonherkenningdwengo.png", "Wiskunde/Spreidingsdiagram/images/debuggendwengo.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png",
 			   "Wiskunde/Spreidingsdiagram/images/sequentiedwengo.png",
@@ -320,7 +320,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
 			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg", "Wiskunde/Spreidingsdiagram/images/postbode.jpg"
+			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg", "Wiskunde/Spreidingsdiagram/images/postbode.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
 		"Description" : "Leerpad lineaire regressie",
@@ -338,7 +338,7 @@
 			   "Wiskunde/Spreidingsdiagram/images/bevolking.png", "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/csv.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
 			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
-			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg", "Wiskunde/Spreidingsdiagram/images/postbode.jpg"
+			   "Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg", "Wiskunde/Spreidingsdiagram/images/postbode.jpg",
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
 		"Resource" : "S",
 		"Description" : "Leerpad lineaire regressie",
