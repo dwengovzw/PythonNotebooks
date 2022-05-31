@@ -100,7 +100,7 @@ def toon_voorspellingen():
     axes = []
     images = model['stoma_patches'] + model['no_stoma_patches']
     for i, image in enumerate(images):
-        im = Image.open(os.path.join(image_dir, image['name']))
+        im = Image.open(os.path.join(image_dir, image['name']).replace(" ", "_").replace("-", "_"))
         ax = fig.add_subplot(2, 6, i + 1)
         ax.imshow(im)
         for spine in ax.spines.values():
@@ -141,7 +141,7 @@ def toon_slechte_voorspellingen():
     axes = []
     images = model['false_negatives'] + model['false_positives']
     for i, image in enumerate(images):
-        im = Image.open(os.path.join(image_dir, image['name']))
+        im = Image.open(os.path.join(image_dir, image['name']).replace(" ", "_").replace("-", "_"))
         ax = fig.add_subplot(2, 6, i + 1)
         ax.imshow(im)
         for spine in ax.spines.values():
