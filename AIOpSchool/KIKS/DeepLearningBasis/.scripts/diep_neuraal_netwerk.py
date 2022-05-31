@@ -100,7 +100,7 @@ def toon_voorspellingen():
     axes = []
     images = model['stoma_patches'] + model['no_stoma_patches']
     for i, image in enumerate(images):
-        im = Image.open(os.path.join(image_dir, image['name']).replace(" ", "_").replace("-", "_"))
+        im = Image.open(os.path.join(image_dir, image['name']).replace(" ", "_").replace("-", "_").replace("&", "_"))
         ax = fig.add_subplot(2, 6, i + 1)
         ax.imshow(im)
         for spine in ax.spines.values():
@@ -141,7 +141,7 @@ def toon_slechte_voorspellingen():
     axes = []
     images = model['false_negatives'] + model['false_positives']
     for i, image in enumerate(images):
-        im = Image.open(os.path.join(image_dir, image['name']).replace(" ", "_").replace("-", "_"))
+        im = Image.open(os.path.join(image_dir, image['name']).replace(" ", "_").replace("-", "_").replace("&", "_"))
         ax = fig.add_subplot(2, 6, i + 1)
         ax.imshow(im)
         for spine in ax.spines.values():
@@ -217,7 +217,7 @@ def vind_stomata():
     for i, im_object in enumerate(model['full_images']):
         im_objects.append(im_object)
 
-        im = Image.open(os.path.join(image_dir, im_object['name'].replace(" ", "_").replace("-", "_")))
+        im = Image.open(os.path.join(image_dir, im_object['name'].replace(" ", "_").replace("-", "_").replace("&", "_")))
         im_r = np.array(im)
 
         ax[i].imshow(im_r)
