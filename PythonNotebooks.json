@@ -1452,6 +1452,14 @@
 		"Name" : "AI in de Zorg",
 		"BasePath": "AIOpSchool/Zorg"
 	},
+	"3031": {
+		"Files" : ["AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", 
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad Beslissingsbomen in de zorg",
+		"Name" : "AI in de Zorg: praktische notebook",
+		"BasePath": "AIOpSchool/Zorg"
+	},
 	"3040": {
 		"Files" : ["AIOpSchool/Zorg/0500_OefeningKyphosis.ipynb", 
 			   "AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb",  
