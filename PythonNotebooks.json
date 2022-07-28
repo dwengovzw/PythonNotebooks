@@ -1460,13 +1460,32 @@
 		"Name" : "AI in de Zorg: praktische notebook",
 		"BasePath": "AIOpSchool/Zorg"
 	},
+	"3032": {
+		"Files" : ["AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
+			   "AIOpSchool/Zorg/0300_OefeningOperatie.ipynb", "AIOpSchool/Zorg/0400_OefeningTitanic.ipynb", "AIOpSchool/Zorg/0700_OefeningHuis.ipynb", 
+			   "AIOpSchool/Zorg/0800_OefeningGolf.ipynb", 
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad Beslissingsbomen in de zorg",
+		"Name" : "AI in de Zorg",
+		"BasePath": "AIOpSchool/Zorg"
+	},
 	"3040": {
 		"Files" : ["AIOpSchool/Zorg/0500_OefeningKyphosis.ipynb", 
 			   "AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb",  
-			   "AIOpSchool/Zorg/0900_OefeningTitanicEcht.ipynb", "AIOpSchool/Zorg/1000_EWS.ipynb",
+			   "AIOpSchool/Zorg/0900_OefeningTitanicEcht.ipynb", 
 			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png", 
-			   "AIOpSchool/Zorg/data/heart.csv", "AIOpSchool/Zorg/data/kyphosis.csv", "AIOpSchool/Zorg/data/NEWS_datafile.csv", "AIOpSchool/Zorg/data/NEWS_datafile_metEWS.csv", 
+			   "AIOpSchool/Zorg/data/heart.csv", "AIOpSchool/Zorg/data/kyphosis.csv",  
 			   "AIOpSchool/Zorg/data/trainTitanic.csv"],
+		"Resource" : "S",
+		"Description" : "Leerpad Beslissingsbomen in de zorg",
+		"Name" : "AI in de Zorg",
+		"BasePath": "AIOpSchool/Zorg"
+	},
+	"3041": {
+		"Files" : ["AIOpSchool/Zorg/1000_EWS.ipynb",
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png", 
+			   "AIOpSchool/Zorg/data/NEWS_datafile.csv", "AIOpSchool/Zorg/data/NEWS_datafile_metEWS.csv"],
 		"Resource" : "S",
 		"Description" : "Leerpad Beslissingsbomen in de zorg",
 		"Name" : "AI in de Zorg",
