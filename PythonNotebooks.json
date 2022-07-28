@@ -676,6 +676,16 @@
 		"Name" : "Numpy array",
 		"BasePath": "Programmeerelementen/Datatypes"
 	},
+	"1018": {
+		"Files" : ["AIOpSchool/Zorg/0150_Dataframe.ipynb",  
+			   "AIOpSchool/Zorg/data/data.csv",  
+			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/datacsv.png", 
+			   "AIOpSchool/Zorg/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn datatypes: data frame",
+		"Name" : "Data frame",
+		"BasePath": "AIOpSchool/Zorg"
+	},
 	"1020": {
 		"Files" : ["Programmeerelementen/Operatoren/0200_VergelijkingsBoolOperatoren.ipynb",
 			   "Programmeerelementen/Operatoren/images/cclic.png", "Programmeerelementen/Operatoren/images/logodwengo.png"],
