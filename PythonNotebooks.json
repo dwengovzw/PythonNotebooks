@@ -1440,6 +1440,46 @@
 		"Name": "Machine learning regressie",
 		"BasePath": "STEM/Klimaat"
 	},
+	"1910": {
+		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
+			    "STEM/Klimaat/data/zeeniveau.csv",
+			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning regressie",
+		"Name": "Machine learning regressie",
+		"BasePath": "STEM/Klimaat"
+	},
+	"1920": {
+		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
+			    "STEM/Klimaat/data/zeeniveau.csv",
+			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning regressie",
+		"Name": "Machine learning regressie",
+		"BasePath": "STEM/Klimaat"
+	},
+	"1930": {
+		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
+			    "STEM/Klimaat/data/zeeniveau.csv",
+			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning regressie",
+		"Name": "Machine learning regressie",
+		"BasePath": "STEM/Klimaat"
+	},
+	"1940": {
+		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
+			    "STEM/Klimaat/data/zeeniveau.csv",
+			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning regressie",
+		"Name": "Machine learning regressie",
+		"BasePath": "STEM/Klimaat"
+	},
 	"2100": {
 		"Files" : ["Programmeerelementen/Datatypes/0100_String.ipynb", "Programmeerelementen/Datatypes/0200_List.ipynb", "Programmeerelementen/Datatypes/0300_Dict.ipynb", 
 			   "Programmeerelementen/Structuren/0100_ForIfElse.ipynb", "AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
@@ -1564,5 +1604,15 @@
 		"Description" : "Leerpad Beslissingsbomen in de zorg",
 		"Name" : "AI in de Zorg",
 		"BasePath": "AIOpSchool/Zorg"
+	},
+	"4000": {
+		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
+			    "STEM/Klimaat/data/zeeniveau.csv",
+			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning landbouw",
+		"Name": "AI in de Landbouw",
+		"BasePath": "AIOpSchool/Landbouw"
 	}
 }
