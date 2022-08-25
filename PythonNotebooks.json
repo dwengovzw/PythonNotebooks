@@ -510,6 +510,22 @@
 		"Name" : "Parameters rechten, parabolen en algemene sinusfunctie",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
+	"0902": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/1010_ParametersParabool.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Invloed parameters op grafiek",
+		"Name" : "Parameters rechten, parabolen en algemene sinusfunctie",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
+	"0903": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/2010_ParametersAlgemeneSinusfunctie.ipynb",  
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Invloed parameters op grafiek",
+		"Name" : "Parameters rechten, parabolen en algemene sinusfunctie",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
 	"1001": {
 		"Files" : ["Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb",
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png"],
@@ -1325,6 +1341,28 @@
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
+	"1751": {
+		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", 
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad Deep learning gevorderd",
+		"Name" : "Deep Learning Gevorderd",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
+	"1752": {
+		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad Deep learning gevorderd",
+		"Name" : "Deep Learning Gevorderd",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
 	"1760": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
@@ -1340,6 +1378,42 @@
 		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht.ipynb",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie.ipynb",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieSheidingslijn.ipynb",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/irissetosa.jpg", "AIOpSchool/KIKS/MachineLearningClassificatie/images/irisVersicolor.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/irisvirginica.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kelkbaldkroonblad.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.dat"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning classificatie",
+		"Name": "Machine learning classificatie",
+		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
+	},
+	"1801": {
+		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht.ipynb",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/irissetosa.jpg", "AIOpSchool/KIKS/MachineLearningClassificatie/images/irisVersicolor.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/irisvirginica.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kelkbaldkroonblad.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
+			  "AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.dat"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning classificatie",
+		"Name": "Machine learning classificatie",
+		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
+	},
+	"1802": {
+		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie.ipynb",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieSheidingslijn.ipynb",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
