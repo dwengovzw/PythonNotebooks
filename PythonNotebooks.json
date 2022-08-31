@@ -1632,5 +1632,15 @@
 		"Description": "Leerpad Machine learning landbouw",
 		"Name": "AI in de Landbouw",
 		"BasePath": "AIOpSchool/Landbouw"
+	},
+	"4010": {
+		"Files": ["AIOpSchool/Landbouw/0010_ObjectDetection.ipynb",
+			  "AIOpSchool/Landbouw/images/afbeelding1.jpg", "AIOpSchool/Landbouw/images/afbeelding2.jpg", "AIOpSchool/Landbouw/images/beeldcomputer.jpg",
+			  "AIOpSchool/Landbouw/images/driehoek.jpg","AIOpSchool/Landbouw/images/shapes.png", "AIOpSchool/Landbouw/images/watcomputerziet.png", 
+			  "AIOpSchool/Landbouw/images/zwartwit.png", "AIOpSchool/Landbouw/images/cclic.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning landbouw",
+		"Name": "AI in de Landbouw",
+		"BasePath": "AIOpSchool/Landbouw"
 	}
 }
