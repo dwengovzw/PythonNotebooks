@@ -1624,10 +1624,10 @@
 		"BasePath": "AIOpSchool/Zorg"
 	},
 	"4000": {
-		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
-			    "STEM/Klimaat/data/zeeniveau.csv",
-			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
-			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Files": ["AIOpSchool/Landbouw/0010_objectdetection.ipynb",
+			  "AIOpSchool/Landbouw/images/afbeelding1.jpg", "AIOpSchool/Landbouw/images/afbeelding2.jpg", "AIOpSchool/Landbouw/images/beeldcomputer.jpg",
+			  "AIOpSchool/Landbouw/images/driehoek.jpg","AIOpSchool/Landbouw/images/shapes.png", "AIOpSchool/Landbouw/images/watcomputerziet.png", 
+			  "AIOpSchool/Landbouw/images/zwartwit.png", "AIOpSchool/Landbouw/images/cclic.png"],
 		"Resource": "S",
 		"Description": "Leerpad Machine learning landbouw",
 		"Name": "AI in de Landbouw",
