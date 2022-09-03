@@ -1356,7 +1356,7 @@
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
-			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png"],
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png", "AIOpSchool/KIKS/DeepLearningGevorderd/data/data.csv"],
 		"Resource" : "S",
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
