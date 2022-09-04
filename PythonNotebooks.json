@@ -1499,7 +1499,7 @@
 	"1940": {
 		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
 			    "STEM/Klimaat/data/zeeniveau.csv",
-			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			    "STEM/Klimaat/images/kiksmeisedwengougent.png", "STEM/Klimaat/images/cclic.png",  
 			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
 		"Resource": "S",
 		"Description": "Leerpad Machine learning regressie",
