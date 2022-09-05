@@ -751,7 +751,7 @@
 	"1050": {
 		"Files" : ["Programmeerelementen/Klassen/0100_Klassen.ipynb", 
 			   "Programmeerelementen/Klassen/images/cclic.png", "Programmeerelementen/Klassen/images/logougentdwengo.png", "Programmeerelementen/Klassen/images/kiksmeisedwengougent.png",
-			   "Programmeerelementen/Klassen/monocot.jpg", "Programmeerelementen/Klassen/images/dicot.jpg", "Programmeerelementen/Klassen/images/kikssteun.png"],
+			   "Programmeerelementen/Klassen/images/monocot.jpg", "Programmeerelementen/Klassen/images/dicot.jpg", "Programmeerelementen/Klassen/images/kikssteun.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijnen Klassen",
 		"Name" : "Klassen",
