@@ -748,6 +748,15 @@
 		"Name" : "Keuze- en herhalingsstructuren",
 		"BasePath": "Programmeerelementen/Functies"
 	},
+	"1050": {
+		"Files" : ["Programmeerelementen/Klassen/0100_Klassen.ipynb", 
+			   "Programmeerelementen/Klassen/images/cclic.png", "Programmeerelementen/Klassen/images/logougentdwengo.png", "Programmeerelementen/Klassen/images/kiksmeisedwengougent.png",
+			   "Programmeerelementen/Klassen/monocot.jpg", "Programmeerelementen/Klassen/images/dicot.jpg", "Programmeerelementen/Klassen/images/kikssteun.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijnen Klassen",
+		"Name" : "Klassen",
+		"BasePath": "Programmeerelementen/Klassen"
+	},
 	"1100": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb", "STEM/Klimaat/0400_Morteratschgletsjer.ipynb", 
 			   "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb", "STEM/Klimaat/0600_Zeeniveau.ipynb", "STEM/Klimaat/0900_ZeeniveauRegressie.ipynb",
