@@ -985,6 +985,18 @@
 		"Name" : "Digitale beelden",
 		"BasePath": "STEM/DigitaleBeelden"
 	},
+	"1530": {
+		"Files" : ["STEM/DigitaleBeelden/0310_MNISTDataset.ipynb",
+			   "STEM/DigitaleBeelden/images/cclic.png","STEM/DigitaleBeelden/images/kiksmeisedwengougent.png", 
+			   "STEM/DigitaleBeelden/images/kikssteun.png", "STEM/DigitaleBeelden/images/kikssteun2.png", "STEM/DigitaleBeelden/images/grijswaarden.png",
+			   "STEM/DigitaleBeelden/data/vier.dat", "STEM/DigitaleBeelden/data/vier.npy", 
+			   "STEM/DigitaleBeelden/data/twee.dat", "STEM/DigitaleBeelden/data/zeven.dat"],
+		"Resource" : "S",
+		"Description" : "Leerpad Deep learning gevorderd",
+		"Name" : "Dataset verkennen",
+		"BasePath": "STEM/DigitaleBeelden",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
 	"1700": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
