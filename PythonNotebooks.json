@@ -1460,6 +1460,18 @@
 		"Name": "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
 	},
+	"1805": {
+		"Files" : ["AIOpSchool/KIKS/MachineLearningClassificatie/0600_MNISTConvnet.ipynb",
+			   "AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png","AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
+			   "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun2.png", 
+			   "AIOpSchool/KIKS/MachineLearningClassificatie/data/vier.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/vier.npy", 
+			   "AIOpSchool/KIKS/MachineLearningClassificatie/data/twee.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/zeven.dat"],
+		"Resource" : "S",
+		"Description" : "Leerpad Machine learning classificatie",
+		"Name" : "Machine learning classificatie",
+		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
 	"1810": {
 		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0500_StomataZonSchaduwClassificatieScikitlearn.ipynb",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
