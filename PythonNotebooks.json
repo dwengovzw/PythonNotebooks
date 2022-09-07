@@ -1506,7 +1506,7 @@
 		"BasePath": "STEM/Klimaat"
 	},
 	"1920": {
-		"Files": ["AIOpSchool/KIKS/MachineLearningRegressie/0100_StomataHoogetBomen.ipynb",
+		"Files": ["AIOpSchool/KIKS/MachineLearningRegressie/0100_StomataHoogteBomen.ipynb",
 			  "AIOpSchool/KIKS/MachineLearningRegressie/data/amazone.csv",
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kiksmeisedwengougent.png", 
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kikssteun.png",  
