@@ -1506,7 +1506,7 @@
 		"BasePath": "STEM/Klimaat"
 	},
 	"1920": {
-		"Files": ["AIOpSchool/KIKS/MachineLearningRegressie/0100_StomataHoogteBomen.ipynb",
+		"Files": ["AIOpSchool/KIKS/MachineLearningRegressie/0200_StomataHoogteBomen.ipynb",
 			  "AIOpSchool/KIKS/MachineLearningRegressie/data/amazone.csv",
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kiksmeisedwengougent.png", 
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kikssteun.png",  
@@ -1517,14 +1517,17 @@
 		"BasePath": "AIOpSchool/KIKS/MachineLearningRegressie"
 	},
 	"1930": {
-		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
-			    "STEM/Klimaat/data/zeeniveau.csv",
-			    "STEM/Klimaat/images/kiksmeisedwengougent.png", 
-			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Files": ["AIOpSchool/KIKS/MachineLearningRegressie/0100_IrisvirginicaRegressie.ipynb",
+			  "AIOpSchool/KIKS/MachineLearningRegressie/data/virginica.csv",
+			  "AIOpSchool/KIKS/MachineLearningRegressie/images/irisvirginica.jpg",
+			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kelkbladkroonblad.jpg",
+			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kiksmeisedwengougent.png", 
+			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kikssteun.png",  
+			  "AIOpSchool/KIKS/MachineLearningRegressie/cclic.png"],
 		"Resource": "S",
 		"Description": "Leerpad Machine learning regressie",
 		"Name": "Machine learning regressie",
-		"BasePath": "STEM/Klimaat"
+		"BasePath": "AIOpSchool/KIKS/MachineLearningRegressie"
 	},
 	"1940": {
 		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
