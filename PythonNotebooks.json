@@ -1496,7 +1496,7 @@
 		"BasePath": "STEM/Klimaat"
 	},
 	"1910": {
-		"Files": ["AIOpSchool/KIKS/MachineLearningRegressie/0100_IrisvirginicaRegressie.ipynb",
+		"Files": ["AIOpSchool/KIKS/MachineLearningRegressie/0100_IrisVirginicaRegressie.ipynb",
 			  "AIOpSchool/KIKS/MachineLearningRegressie/data/virginica.csv",
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/irisvirginica.jpg",
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kelkbladkroonblad.jpg",
