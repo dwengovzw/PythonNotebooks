@@ -503,7 +503,7 @@
 	},
 	"0600": {
 		"Files" : ["Wiskunde/Logica/0100_Logica.ipynb",  
-			   "Wiskunde/Logica/images/boompq.png", "Wiskunde/Logica/images/waarheidstabel.png",
+			   "Wiskunde/Logica/images/boompq.png", "Wiskunde/Logica/images/waarheidstabelpq.png",
 			   "Wiskunde/Logica/images/cclic.png", "Wiskunde/Logica/images/logodwengo.png", "Wiskunde/Logica/images/bannerugentdwengo.png",
 			   "Wiskunde/Logica/images/abstractiedwengo.png", "Wiskunde/Logica/images/decompositiedwengo.png", 
 		           "Wiskunde/Logica/images/patroonherkenningdwengo.png", "Wiskunde/Logica/images/logosnb.png"],
