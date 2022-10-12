@@ -501,6 +501,16 @@
 		"Name" : "Zelf functies definiëren en oefenen bij Pythagoras",
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
+	"0600": {
+		"Files" : ["Wiskunde/Logica/0100_Logica.ipynb",  
+			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/bannerugentdwengo.png",
+			   "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", 
+		           "Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png", "Wiskunde/FunctiesPythagoras/images/logosnb.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Logica",
+		"Name" : "Waarheidstabellen",
+		"BasePath": "Wiskunde/Logica"
+	},
 	"0900": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", "Wiskunde/GrafiekenFuncties/1010_ParametersParabool.ipynb", 
 			   "Wiskunde/GrafiekenFuncties/2010_ParametersAlgemeneSinusfunctie.ipynb",  
