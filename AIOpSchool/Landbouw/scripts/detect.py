@@ -18,7 +18,7 @@ IOU_THRESHOLD = 0.5
 
 # De files oproepen die het yolo netwerk nodig zal hebben
 config_path = "yolov3.cfg"
-weights_path = "kiks.ilabt.imec.be/files/yolov3.weights"
+weights_path = "https://kiks.ilabt.imec.be/files/yolov3.weights"
 
 # alle klasselabels (objecten) inladen
 labels = open("coco.names").read().strip().split("\n")
