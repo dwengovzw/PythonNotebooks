@@ -61,6 +61,7 @@ OPERATIONS = {
     'implies':  (lambda x, y: (not x) or y),
 
     '=':        (lambda x, y: x == y),
+    'equivalentto':  (lambda x, y: x == y),
     '<=>':      (lambda x, y: x == y),
     '!=':       (lambda x, y: x != y),
 }
