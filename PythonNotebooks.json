@@ -528,6 +528,43 @@
 		"Name" : "Parabolen",
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
+	"0701": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/1000_Parabool.ipynb",  
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/logosnb.png", "Wiskunde/GrafiekenFuncties/images/bannerugentdwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png", "Wiskunde/GrafiekenFuncties/images/algoritmedwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/decompositiedwengo.png", "Wiskunde/GrafiekenFuncties/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/sequentiedwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken",
+		"Name" : "Parabolen",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
+	"0705": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/1010_ParametersParabool.ipynb", 
+			   "Wiskunde/GrafiekenFuncties/1011_ParametersParaboolApart.ipynb",   
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/logosnb.png", "Wiskunde/GrafiekenFuncties/images/bannerugentdwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png", "Wiskunde/GrafiekenFuncties/images/algoritmedwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/decompositiedwengo.png", "Wiskunde/GrafiekenFuncties/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/sequentiedwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken",
+		"Name" : "Parabolen",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
+	"0710": {
+		"Files" : ["Wiskunde/GrafiekenFuncties/1020_Vierkantsvergelijking.ipynb",  
+			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/logosnb.png", "Wiskunde/GrafiekenFuncties/images/bannerugentdwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/schema.png", "Wiskunde/GrafiekenFuncties/images/algoritmedwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/decompositiedwengo.png", "Wiskunde/GrafiekenFuncties/images/patroonherkenningdwengo.png", 
+			   "Wiskunde/GrafiekenFuncties/images/sequentiedwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Grafieken",
+		"Name" : "Parabolen",
+		"BasePath": "Wiskunde/GrafiekenFuncties"
+	},
 	"0800": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0500_Richtingscoefficient.ipynb", "Wiskunde/GrafiekenFuncties/0600_ParametersRechten.ipynb", 
 			   "Wiskunde/GrafiekenFuncties/1010_ParametersParabool.ipynb", "Wiskunde/GrafiekenFuncties/1011_ParametersParaboolApart.ipynb", 
