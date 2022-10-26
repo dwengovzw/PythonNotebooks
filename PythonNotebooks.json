@@ -1577,7 +1577,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1810": {
-		"Files" : ["AIOpSchool/KIKS/MachineLearningClassificatie/0600_MNISTConvnet.ipynb",
+		"Files" : ["AIOpSchool/KIKS/MachineLearningClassificatie/0600_MNISTConvnet.ipynb", "AIOpSchool/KIKS/MachineLearningClassificatie/0550_MNIST.ipynb", 
 			   "AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png","AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
 			   "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun2.png", 
 			   "AIOpSchool/KIKS/MachineLearningClassificatie/data/vier.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/vier.npy", 
