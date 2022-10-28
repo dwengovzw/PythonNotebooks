@@ -1864,6 +1864,14 @@
 		"Description": "Leerpad Turtle",
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst"
+	},
+	"5010": {
+		"Files": ["AIOpSchool/Kunst/0100_Turtle.ipynb",
+			  "AIOpSchool/Kunst/images/cclic.png"],
+		"Resource": "S",
+		"Description": "Leerpad Turtle",
+		"Name": "AI in de Kunst",
+		"BasePath": "AIOpSchool/Kunst"
 	}
 	
 }
