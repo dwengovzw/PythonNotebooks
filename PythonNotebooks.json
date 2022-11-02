@@ -1671,6 +1671,17 @@
 		"BasePath": "AIOpSchool/Chatbot",
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
 	},
+	"2105": {
+		"Files" : ["AIOpSchool/Chatbot/0400_SentimentanalyseDeepLearning.ipynb", 
+			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/lexiconhulp.py", "AIOpSchool/Chatbot/sentiment_helpers.py",
+			   "AIOpSchool/Chatbot/setaafdiagram.py",
+			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/schaal.png"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
+		"Name" : "Sentimentanalyse",
+		"BasePath": "AIOpSchool/Chatbot",
+		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+	},
 	"2110": {
 		"Files" : ["AIOpSchool/Chatbot/0500_Chatbot.ipynb", "AIOpSchool/Chatbot/util.py", "AIOpSchool/Chatbot/bot.py",
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png"],
