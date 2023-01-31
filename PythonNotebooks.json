@@ -85,7 +85,8 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0202": {
-		"Files" : ["Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb", 
+		"Files" : ["Wiskunde/Spreidingsdiagram/0300_SpreidingsdiagramDataBestand.ipynb",
+			   "Wiskunde/Spreidingsdiagram/0350_WorkshopSpreidingsdiagramDataBestand.ipynb", 
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
 			   "Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
