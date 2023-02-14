@@ -452,7 +452,7 @@
 		"BasePath": "Wiskunde/GrafiekenFuncties"
 	},
 	"0401": {
-		"Files" : ["Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb",  
+		"Files" : ["Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0205_WsICTweekRechten.ipynb",    
 			   "Wiskunde/GrafiekenFuncties/images/cclic.png", "Wiskunde/GrafiekenFuncties/images/logodwengo.png", 
 			   "Wiskunde/GrafiekenFuncties/images/logosnb.png", 
 			   "Wiskunde/GrafiekenFuncties/images/schema.png"],
@@ -516,7 +516,8 @@
 		"BasePath": "Wiskunde/FunctiesPythagoras"
 	},
 	"0503": {
-		"Files" : ["Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb", "Wiskunde/FunctiesPythagoras/0301_ExtraOefeningenPythagoras.ipynb",  
+		"Files" : ["Wiskunde/FunctiesPythagoras/0300_Pythagoras.ipynb", "Wiskunde/FunctiesPythagoras/0301_ExtraOefeningenPythagoras.ipynb", 
+                           "Wiskunde/FunctiesPythagoras/0305_WsICTweekPythagoras.ipynb",  
 			   "Wiskunde/FunctiesPythagoras/images/cclic.png", "Wiskunde/FunctiesPythagoras/images/logodwengo.png", "Wiskunde/FunctiesPythagoras/images/bannerugentdwengo.png",
 			   "Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
 			   "Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png", "Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png", "Wiskunde/FunctiesPythagoras/images/functie1.png",
