@@ -1718,7 +1718,7 @@
 		"BasePath": "AIOpSchool/Zorg"
 	},
 	"3010": {
-		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", 
+		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb",
 			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerpad Beslissingsbomen in de zorg",
