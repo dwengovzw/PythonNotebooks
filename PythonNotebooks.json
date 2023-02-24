@@ -1726,10 +1726,10 @@
 		"BasePath": "AIOpSchool/Zorg"
 	},
 	"3020": {
-		"Files" : ["AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb", 
+		"Files" : ["AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb",
 			   "AIOpSchool/Zorg/images/cclic.png", "AIOpSchool/Zorg/images/bannerugentdwengo.png", 
 			   "AIOpSchool/Zorg/data/heart.csv", "AIOpSchool/Zorg/data/kyphosis.csv", "AIOpSchool/Zorg/data/NEWS_datafile.csv", "AIOpSchool/Zorg/data/NEWS_datafile_metEWS.csv", 
-			   "AIOpSchool/Zorg/data/trainTitanic.csv"],
+			   "AIOpSchool/Zorg/data/trainTitanic.csv", "AIOpSchool/Zorg/data/borstkanker.csv", "AIOpSchool/Zorg/data/postoperative.csv"],
 		"Resource" : "S",
 		"Description" : "Leerpad Beslissingsbomen in de zorg",
 		"Name" : "AI in de Zorg",
