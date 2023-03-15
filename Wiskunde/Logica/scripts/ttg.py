@@ -61,7 +61,6 @@ OPERATIONS = {
     'implies':  (lambda x, y: (not x) or y),
 
     '=':        (lambda x, y: x == y),
-    'equivalentto':  (lambda x, y: x == y),
     '<=>':      (lambda x, y: x == y),
     '!=':       (lambda x, y: x != y),
 }
@@ -114,33 +113,38 @@ def group_operations(phrase):
         not, and, or, implication
     """
     if isinstance(phrase, list):
-        for operator in ['not', '~', '-']:
-            while operator in phrase:
-                index = phrase.index(operator)
-                phrase[index] = [operator, group_operations(phrase[index+1])]
-                phrase.pop(index+1)
-        for operator in ['and', 'nand']:
-            while operator in phrase:
-                index = phrase.index(operator)
-                phrase[index] = [group_operations(phrase[index-1]),
-                                 operator,
-                                 group_operations(phrase[index+1])]
-                phrase.pop(index+1)
-                phrase.pop(index-1)
-        for operator in ['or', 'nor', 'xor']:
-            while operator in phrase:
-                index = phrase.index(operator)
-                phrase[index] = [group_operations(phrase[index-1]),
-                                 operator,
-                                 group_operations(phrase[index+1])]
-                phrase.pop(index+1)
-                phrase.pop(index-1)
+        if any(isinstance(phrase_item, list) for phrase_item in phrase):
+            for phrase_item in phrase:
+                index = phrase.index(phrase_item)
+                phrase[index] = group_operations(phrase_item)
+        else:
+            for operator in ['not', '~', '-']:
+                while operator in phrase:
+                    index = phrase.index(operator)
+                    phrase[index] = [operator, group_operations(phrase[index+1])]
+                    phrase.pop(index+1)
+            for operator in ['and', 'nand']:
+                while operator in phrase:
+                    index = phrase.index(operator)
+                    phrase[index] = [group_operations(phrase[index-1]),
+                                     operator,
+                                     group_operations(phrase[index+1])]
+                    phrase.pop(index+1)
+                    phrase.pop(index-1)
+            for operator in ['or', 'nor', 'xor']:
+                while operator in phrase:
+                    index = phrase.index(operator)
+                    phrase[index] = [group_operations(phrase[index-1]),
+                                    operator,
+                                    group_operations(phrase[index+1])]
+                    phrase.pop(index+1)
+                    phrase.pop(index-1)
     return phrase
 
 
 class Truths:
     """
-    Class Truhts with modules for table formatting, valuation and CLI
+    Class Truths with modules for table formatting, valuation and CLI
     """
 
     def __init__(self, bases=None, phrases=None, ints=True, ascending=False):
