@@ -62,6 +62,7 @@ OPERATIONS = {
 
     '=':        (lambda x, y: x == y),
     '<=>':      (lambda x, y: x == y),
+    'equivalentto':  (lambda x, y: x == y),
     '!=':       (lambda x, y: x != y),
 }
 
