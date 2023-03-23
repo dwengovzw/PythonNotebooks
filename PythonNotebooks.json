@@ -1665,7 +1665,8 @@
 		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
 	},
 	"2101": {
-		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
+		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0210_SentimentanalyseRegelgebaseerdInteractiever.ipynb", 
+			   "AIOpSchool/Chatbot/0300_SentimentanalyseModel.ipynb", 
 			   "AIOpSchool/Chatbot/data/new_lexicondict.pickle", "AIOpSchool/Chatbot/lexiconhulp.py",
 			   "AIOpSchool/Chatbot/images/cclic.png", "AIOpSchool/Chatbot/images/bannerugentdwengo.png", "AIOpSchool/Chatbot/images/schaal.png"],
 		"Resource" : "S",
