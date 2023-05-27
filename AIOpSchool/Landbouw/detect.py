@@ -18,8 +18,18 @@ IOU_THRESHOLD = 0.5
 
 # De files oproepen die het yolo netwerk nodig zal hebben
 config_path = "yolov3.cfg"
-weights_path = "yolov3.weights"
+#weights_path = "yolov3.weights"
 
+
+#afbeelding inladen, waarop de objecten gedetecteerd zullen worden
+#path_name = "images/hond-cake.jpg"
+path_name = sys.argv[1]
+weights_path = sys.argv[2]
+print(weights_path)
+image = cv2.imread(path_name)
+file_name = os.path.basename(path_name)
+filename, ext = file_name.split(".")
+print("Your filename: " + filename)
 
 # alle klasselabels (objecten) inladen
 labels = open("coco.names").read().strip().split("\n")
@@ -29,19 +39,13 @@ colors = np.random.randint(0, 255, size=(len(labels), 3), dtype="uint8")
 net = cv2.dnn.readNetFromDarknet(config_path, weights_path)
 
 
-#afbeelding inladen, waarop de objecten gedetecteerd zullen worden
-#path_name = "images/hond-cake.jpg"
-path_name = sys.argv[1]
-image = cv2.imread(path_name)
-file_name = os.path.basename(path_name)
-filename, ext = file_name.split(".")
-
-
 h, w = image.shape[:2]
 # creeren van een 4D blob
+print("Creating blob from image")
 blob = cv2.dnn.blobFromImage(image, 1/255.0, (416, 416), swapRB=True, crop=False)
 r = blob[0, 0, :, :]
 # de blob instellen als input van het netwerk
+print("Forward network pass...")
 net.setInput(blob)
 # alle namen van de lagen opvragen
 ln = net.getLayerNames()
@@ -51,6 +55,7 @@ layer_outputs = net.forward(ln)
 font_scale = 1
 thickness = 1
 boxes, confidences, class_ids = [], [], []
+print("Select predictions with most confidence")
 # alle layeroutputs overlopen
 for output in layer_outputs:
     # alle objectdetecties overlopen
@@ -75,6 +80,7 @@ for output in layer_outputs:
             confidences.append(float(confidence))
             class_ids.append(class_id)
 
+print("Plot bounding boxes")
 idxs = cv2.dnn.NMSBoxes(boxes, confidences, SCORE_THRESHOLD, IOU_THRESHOLD)
 # zorg ervoor dat er ten minste één detectie bestaat
 if len(idxs) > 0:
@@ -99,4 +105,5 @@ if len(idxs) > 0:
         cv2.putText(image, text, (x, y - 5), cv2.FONT_HERSHEY_SIMPLEX,
             1, [0,0,0], 2)
 
+print("Showing file")
 plt_imshow(filename + "_yolo3." + ext, image)
