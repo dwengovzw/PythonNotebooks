@@ -1924,7 +1924,8 @@
 		"Resource": "L",
 		"Description": "Leerpad Machine learning landbouw",
 		"Name": "AI in de Landbouw",
-		"BasePath": "AIOpSchool/Landbouw"
+		"BasePath": "AIOpSchool/Landbouw",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"5000": {
 		"Files": ["AIOpSchool/Kunst/0100_Turtle.ipynb",
