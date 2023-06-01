@@ -1921,7 +1921,7 @@
 			  "AIOpSchool/Landbouw/scripts/utils.py", "AIOpSchool/Landbouw/scripts/yolov3.cfg", 
 			  "AIOpSchool/Landbouw/coco.names", "AIOpSchool/Landbouw/detect.py", 
 			  "AIOpSchool/Landbouw/detector.py", "AIOpSchool/Landbouw/utils.py", "AIOpSchool/Landbouw/yolov3.cfg"],
-		"Resource": "S",
+		"Resource": "L",
 		"Description": "Leerpad Machine learning landbouw",
 		"Name": "AI in de Landbouw",
 		"BasePath": "AIOpSchool/Landbouw"
