@@ -461,7 +461,7 @@
 		"BasePath": "Wiskunde/Statistiek"
 	},
 	"0370": {
-		"Files" : ["Wiskunde/Statistiek/0200_VisualisatieTaart.ipynb", "Wiskunde/Statistiek/0230_VisualisatieHist.ipynb", 
+		"Files" : ["Wiskunde/Statistiek/0200_DataVisualiserenTaart.ipynb", "Wiskunde/Statistiek/0230_DataVisualiserenHist.ipynb", 
 			   "Wiskunde/Statistiek/data/klimtemp.csv",
 		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
