@@ -450,6 +450,46 @@
 		"Name" : "Sinusregressie",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
+	"0360": {
+		"Files" : ["Wiskunde/Statistiek/0100_StatistischeBegrippen.ipynb", 
+			   "Wiskunde/Statistiek/data/klimtemp.csv",
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad statistiek",
+		"Name" : "Begrippen",
+		"BasePath": "Wiskunde/Statistiek"
+	},
+	"0370": {
+		"Files" : ["Wiskunde/Statistiek/0200_Visualisatie.ipynb", 
+			   "Wiskunde/Statistiek/data/klimtemp.csv",
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad statistiek",
+		"Name" : "Visualisatie",
+		"BasePath": "Wiskunde/Statistiek"
+	},
+	"0375": {
+		"Files" : ["Wiskunde/Statistiek/0200_Analyse.ipynb", 
+			   "Wiskunde/Statistiek/data/klimtemp.csv",
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad statistiek",
+		"Name" : "Analyse",
+		"BasePath": "Wiskunde/Statistiek"
+	},
+	"0380": {
+		"Files" : ["Wiskunde/Statistiek/0200_NormaleVerdeling.ipynb", 
+			   "Wiskunde/Statistiek/data/klimtemp.csv",
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad statistiek",
+		"Name" : "Normale verdeling",
+		"BasePath": "Wiskunde/Statistiek"
+	},
 	"0400": {
 		"Files" : ["Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb", "Wiskunde/GrafiekenFuncties/0200_Rechten.ipynb", "Wiskunde/GrafiekenFuncties/0300_OpmakenGrafieken.ipynb",
 			   "Wiskunde/GrafiekenFuncties/0310_OpmakenGrafiekenOefening.ipynb", "Wiskunde/GrafiekenFuncties/0400_RechtenPraktisch.ipynb", 
