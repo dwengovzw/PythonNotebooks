@@ -1598,7 +1598,7 @@
 			   "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun2.png", 
 			   "AIOpSchool/KIKS/MachineLearningClassificatie/data/vier.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/vier.npy", 
 			   "AIOpSchool/KIKS/MachineLearningClassificatie/data/twee.dat", "AIOpSchool/KIKS/MachineLearningClassificatie/data/zeven.dat"],
-		"Resource" : "S",
+		"Resource" : "M",
 		"Description" : "Leerpad Machine learning classificatie",
 		"Name" : "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie",
