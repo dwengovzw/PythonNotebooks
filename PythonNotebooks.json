@@ -451,6 +451,18 @@
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
 	"0360": {
+		"Files" : ["Wiskunde/Statistiek/0100_StatistischeBegrippen.ipynb", "Wiskunde/Statistiek/0200_DataVisualiserenTaart.ipynb", 
+			   "Wiskunde/Statistiek/0230_DataVisualiserenHist.ipynb", "Wiskunde/Statistiek/0300_DataAnalyseren.ipynb", 
+			   "Wiskunde/Statistiek/0900_NormaleVerdeling.ipynb",
+			   "Wiskunde/Statistiek/data/klimtemp.csv",
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad statistiek",
+		"Name" : "Begrippen",
+		"BasePath": "Wiskunde/Statistiek"
+	},
+	"0361": {
 		"Files" : ["Wiskunde/Statistiek/0100_StatistischeBegrippen.ipynb", 
 			   "Wiskunde/Statistiek/data/klimtemp.csv",
 		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
