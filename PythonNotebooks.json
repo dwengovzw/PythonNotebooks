@@ -485,6 +485,26 @@
 		"Name" : "Visualisatie",
 		"BasePath": "Wiskunde/Statistiek"
 	},
+	"0371": {
+		"Files" : ["Wiskunde/Statistiek/0200_DataVisualiserenTaart.ipynb", 
+			   "Wiskunde/Statistiek/data/klimtemp.csv",
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad statistiek",
+		"Name" : "Visualisatie",
+		"BasePath": "Wiskunde/Statistiek"
+	},
+	"0372": {
+		"Files" : ["Wiskunde/Statistiek/0230_DataVisualiserenHist.ipynb", 
+			   "Wiskunde/Statistiek/data/klimtemp.csv",
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
+		"Resource" : "S",
+		"Description" : "Leerpad statistiek",
+		"Name" : "Visualisatie",
+		"BasePath": "Wiskunde/Statistiek"
+	},
 	"0375": {
 		"Files" : ["Wiskunde/Statistiek/0300_DataAnalyseren.ipynb", 
 			   "Wiskunde/Statistiek/data/klimtemp.csv",
