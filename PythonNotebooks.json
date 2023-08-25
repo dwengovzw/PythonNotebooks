@@ -2028,14 +2028,14 @@
 			  "STEM/Insectbook/0500_ModelInteractieDifferentiaalvergelijkingen.ipynb", "STEM/Insectbook/0600_EindigeDifferentiemethode.ipynb",
 			  "STEM/Insectbook/images/cclic.png", "STEM/Insectbook/images/abstractiedwengo.png", "STEM/Insectbook/images/algoritmedwengo.png", 
 			  "STEM/Insectbook/images/bannerugentdwengo.png", "STEM/Insectbook/images/herhalingsstructuurdwengo.png", 
-			  "STEM/Insectbook/images/patroonherkenningdwengo.png", "STEM/Insectbook/images/logobavo.jpg"],
+			  "STEM/Insectbook/images/patroonherkenningdwengo.png", "STEM/Insectbook/images/logobavo.jpg", "STEM/Insectbook/data/covid.csv"],
 		"Resource": "M",
 		"Description": "Leerpad Insectbooks",
 		"Name": "Insectbooks",
 		"BasePath": "STEM/Insectbook"
 	},
 	"6010": {
-		"Files": ["STEM/Insectbook/0100_ExponentieelGroeimodel.ipynb", 
+		"Files": ["STEM/Insectbook/0100_ExponentieelGroeimodel.ipynb", "STEM/Insectbook/data/covid.csv",
 			  "STEM/Insectbook/images/cclic.png", "STEM/Insectbook/images/abstractiedwengo.png", "STEM/Insectbook/images/algoritmedwengo.png", 
 			  "STEM/Insectbook/images/bannerugentdwengo.png", "STEM/Insectbook/images/herhalingsstructuurdwengo.png", 
 			  "STEM/Insectbook/images/patroonherkenningdwengo.png", "STEM/Insectbook/images/logobavo.jpg"],
@@ -2045,7 +2045,7 @@
 		"BasePath": "STEM/Insectbook"
 	},
 	"6020": {
-		"Files": ["STEM/Insectbook/0200_LogistiekGroeimodel.ipynb",
+		"Files": ["STEM/Insectbook/0200_LogistiekGroeimodel.ipynb", 
 			  "STEM/Insectbook/images/cclic.png", "STEM/Insectbook/images/abstractiedwengo.png", "STEM/Insectbook/images/algoritmedwengo.png", 
 			  "STEM/Insectbook/images/bannerugentdwengo.png", "STEM/Insectbook/images/herhalingsstructuurdwengo.png", 
 			  "STEM/Insectbook/images/patroonherkenningdwengo.png", "STEM/Insectbook/images/logobavo.jpg"],
