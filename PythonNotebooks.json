@@ -498,7 +498,7 @@
 	},
 	"0372": {
 		"Files" : ["Wiskunde/Statistiek/0230_DataVisualiserenHist.ipynb", 
-			   "Wiskunde/Statistiek/data/klimtemp.csv",
+			   "Wiskunde/Statistiek/data/klimtemp.csv", "Wiskunde/Statistiek/data/happydata.csv",
 		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
 		"Resource" : "S",
