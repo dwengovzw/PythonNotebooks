@@ -467,7 +467,7 @@
 		"BasePath": "Wiskunde/Statistiek"
 	},
 	"0361": {
-		"Files" : ["Wiskunde/Statistiek/0100_StatistischeBegrippen.ipynb", "Wiskunde/Statistiek/0100_StatistischeBegrippenToepassing.ipynb", 
+		"Files" : ["Wiskunde/Statistiek/0100_StatistischeBegrippen.ipynb", "Wiskunde/Statistiek/0110_StatistischeBegrippenToepassing.ipynb", 
 			   "Wiskunde/Statistiek/data/missionlaunches.csv", "Wiskunde/Statistiek/data/datasetvoorbeeld.csv",
 		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
