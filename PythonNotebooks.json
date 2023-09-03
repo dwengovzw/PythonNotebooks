@@ -455,7 +455,7 @@
 			   "Wiskunde/Statistiek/0230_DataVisualiserenHist.ipynb", "Wiskunde/Statistiek/0300_DataAnalyseren.ipynb", 
 			   "Wiskunde/Statistiek/0900_NormaleVerdeling.ipynb", "Wiskunde/Statistiek/0910_NormaleVerdelingToepassing.ipynb", 
 			   "Wiskunde/Statistiek/data/artists.csv", "Wiskunde/Statistiek/data/datasetvoorbeeld.csv", "Wiskunde/Statistiek/data/happydata.csv",
-			   "Wiskunde/Statistiek/data/mcu_box_office.csv", "Wiskunde/Statistiek/data/mission_launches.csv", "Wiskunde/Statistiek/data/mrbeast.csv",
+			   "Wiskunde/Statistiek/data/mcu_box_office.csv", "Wiskunde/Statistiek/data/missionlaunches.csv", "Wiskunde/Statistiek/data/mrbeast.csv",
 			   "Wiskunde/Statistiek/data/top-500-movies.csv", "Wiskunde/Statistiek/data/us_tornado_dataset_1950_2021.csv", 
 			   "Wiskunde/Statistiek/data/video_games_sales.csv",
 			   "Wiskunde/Statistiek/data/weather_in_Antwerp_2012to2016.csv",  "Wiskunde/Statistiek/data/weather_in_Antwerp_2012to2019.csv",
@@ -508,7 +508,7 @@
 	},
 	"0375": {
 		"Files" : ["Wiskunde/Statistiek/0300_DataAnalyseren.ipynb", 
-			   "Wiskunde/Statistiek/data/klimtemp.csv",
+			   "Wiskunde/Statistiek/data/klimtemp.csv", "Wiskunde/Statistiek/data/mrbeast.csv",
 		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
 		"Resource" : "S",
