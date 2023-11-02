@@ -2102,5 +2102,14 @@
 		"Description": "Leerpad Insectbooks",
 		"Name": "Insectbooks",
 		"BasePath": "STEM/Insectbook"
+	},
+	"6210": {
+		"Files": ["Programmeerelementen/Algoritmen/0100_Tentjeboompje.ipynb",
+			  "Programmeerelementen/Algoritmen/images/cclic.png", "Programmeerelementen/Algoritmenimages/bannerugentdwengo.png", 
+			  "Programmeerelementen/Algoritmen/images/tentjeboompje.jpg"],
+		"Resource": "M",
+		"Description": "Leerpad Algoritmen",
+		"Name": "Algoritmen",
+		"BasePath": "Programmeerelementen/Algoritmen"
 	}
 }
