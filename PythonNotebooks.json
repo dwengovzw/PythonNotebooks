@@ -1156,7 +1156,7 @@
 		"BasePath": "STEM/DigitaleBeelden"
 	},
 	"1510": {
-		"Files" : ["STEM/DigitaleBeelden/0300_VanJPGnaarNPY.ipynb", "STEM/DigitaleBeelden/0310_MNISTDataset.ipynb"
+		"Files" : ["STEM/DigitaleBeelden/0300_VanJPGnaarNPY.ipynb", "STEM/DigitaleBeelden/0310_MNISTDataset.ipynb",
 			   "STEM/DigitaleBeelden/images/cclic.png","STEM/DigitaleBeelden/images/kiksmeisedwengougent.png", 
 			   "STEM/DigitaleBeelden/images/kikssteun.png", "STEM/DigitaleBeelden/images/kikssteun2.png", "STEM/DigitaleBeelden/images/grijswaarden.png",
 			   "STEM/DigitaleBeelden/images/begonia.jpg", "STEM/DigitaleBeelden/images/begoniamicroscoop.jpg", "STEM/DigitaleBeelden/images/begoniaselectie.jpg", 
