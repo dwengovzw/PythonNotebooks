@@ -1169,7 +1169,8 @@
 		"Resource" : "S",
 		"Description" : "Digitale beeldverwerking inleiding grijswaarden en kleur",
 		"Name" : "Digitale beelden",
-		"BasePath": "STEM/DigitaleBeelden"
+		"BasePath": "STEM/DigitaleBeelden",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1520": {
 		"Files" : ["STEM/DigitaleBeelden/0400_VerborgenBoodschap.ipynb",
