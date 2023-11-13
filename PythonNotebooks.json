@@ -1584,12 +1584,13 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1752": {
-		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb",
+		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb", "AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht.ipynb",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/relu.png",  
-			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/schemanb.png",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/schemanb.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/bannerugentdwengo.png",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
-			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png", "AIOpSchool/KIKS/DeepLearningGevorderd/data/data.csv"],
-		"Resource" : "S",
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png", "AIOpSchool/KIKS/DeepLearningGevorderd/data/data.csv", 
+			   "AIOpSchool/KIKS/DeepLearningGevorderd/data/punten.csv"],
+		"Resource" : "M",
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
