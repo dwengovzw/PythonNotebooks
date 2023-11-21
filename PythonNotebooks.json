@@ -1722,7 +1722,7 @@
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kiksmeisedwengougent.png", 
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/kikssteun.png",  
 			  "AIOpSchool/KIKS/MachineLearningRegressie/images/cclic.png"],
-		"Resource": "S",
+		"Resource": "M",
 		"Description": "Leerpad Machine learning regressie",
 		"Name": "Machine learning regressie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningRegressie"
