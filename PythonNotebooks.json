@@ -2113,5 +2113,15 @@
 		"Description": "Leerpad Algoritmes",
 		"Name": "Algoritmes",
 		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"9010": {
+		"Files": ["AIOpSchool/Kunst/0100_Turtle_en.ipynb",
+			  "AIOpSchool/Kunst/images/cclic.png", "AIOpSchool/Kunst/images/abstractiedwengo.png", "AIOpSchool/Kunst/images/algoritmedwengo.png", 
+			  "AIOpSchool/Kunst/images/bannerugentdwengo.png", "AIOpSchool/Kunst/images/herhalingsstructuurdwengo.png", 
+			  "AIOpSchool/Kunst/images/patroonherkenningdwengo.png", "AIOpSchool/Kunst/images/logobavo.jpg" ],
+		"Resource": "S",
+		"Description": "Leerpad Turtle",
+		"Name": "AI in de Kunst",
+		"BasePath": "AIOpSchool/Kunst"
 	}
 }
