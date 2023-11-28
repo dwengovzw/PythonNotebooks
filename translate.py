@@ -17,8 +17,6 @@ def translate_text(text, target_language):
         messages=[
             {"role": "system", "content": f"Translate the following text from dutch to {target_language}, keep html and markdown syntax and only return the translation. If no {target_language} text is found in the input, return the input. Keep Python syntax but translate comments.\n{text}"}
         ])
-    # Extract the translated text from the API response
-    #translated_text = response['choices'][0]['text'].strip()
     
     translated_text = response.choices[0].message.content
     print(f"Translated '{text}' to '{translated_text}'")
@@ -29,16 +27,6 @@ def translate_text(text, target_language):
 def containsText(text):
     return not re.match(r'^((<[^>]*>)*[\s]*[\.,;\'"!?]*)+$', text)
 
-
-# def translate_text(text, target_language):
-#     global totaltokens  # Use the global variable
-    
-#     # Set up your OpenAI API key
-#     #openai.api_key = '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'
-    
-#     totaltokens += len(text.split())
-    
-#     return text
 
 def translate_json(json_data, target_language):
     for cell in json_data['cells']:
