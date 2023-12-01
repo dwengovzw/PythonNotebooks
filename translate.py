@@ -13,7 +13,7 @@ def translate_text(text, target_language):
     client = OpenAI()
     # Call the OpenAI API for translation
     response = client.chat.completions.create(
-        model="gpt-4",
+        model="gpt-4-1106-preview",
         messages=[
             {"role": "system", "content": f"Translate the following text from dutch to {target_language}, keep html and markdown syntax and only return the translation. If no {target_language} text is found in the input, return the input. Keep Python syntax but translate comments.\n{text}"}
         ])
