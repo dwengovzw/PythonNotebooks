@@ -2114,6 +2114,22 @@
 		"Name": "Algoritmes",
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
+	"6510": {
+		"Files": ["Programmeerelementen/Algoritmes/0500_NumeriekeBepalingLimietRij.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6515": {
+		"Files": ["Programmeerelementen/Algoritmes/0600_NumeriekBepalingLimietFunctie.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
 	"9010": {
 		"Files": ["AIOpSchool/Kunst/0100_Turtle_en.ipynb",
 			  "AIOpSchool/Kunst/images/cclic.png", "AIOpSchool/Kunst/images/abstractiedwengo.png", "AIOpSchool/Kunst/images/algoritmedwengo.png", 
