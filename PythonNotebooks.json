@@ -2147,6 +2147,15 @@
 		"Name": "Numerieke methodes",
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
+	"6530": {
+		"Files": ["Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannInleiding.ipynb",
+			 "Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
 	"9010": {
 		"Files": ["AIOpSchool/Kunst/0100_Turtle_en.ipynb",
 			  "AIOpSchool/Kunst/images/cclic.png", "AIOpSchool/Kunst/images/abstractiedwengo.png", "AIOpSchool/Kunst/images/algoritmedwengo.png", 
