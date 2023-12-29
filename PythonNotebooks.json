@@ -2140,7 +2140,15 @@
 	},
 	"6520": {
 		"Files": ["Programmeerelementen/Algoritmes/0700_NumeriekeBepalingNulpuntenFunctieBissectie.ipynb",
-			 "Programmeerelementen/Algoritmes/0750_NumeriekeBepalingNulpuntenFunctieNewton.ipynb",
+			 "Programmeerelementen/Algoritmes/0750_NumeriekeBepalingNulpuntenFunctieNewton.ipynb", 
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6525": {
+		"Files": ["Programmeerelementen/Algoritmes/0790_NumeriekeBepalingNulpuntenEcononmie.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "S",
 		"Description": "Leerpad Numerieke methodes",
