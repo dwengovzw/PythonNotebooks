@@ -2123,7 +2123,15 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6515": {
-		"Files": ["Programmeerelementen/Algoritmes/0550_NumeriekeBepalingLimietFunctie.ipynb",
+		"Files": ["Programmeerelementen/Algoritmes/0550_NumeriekeBepalingLimietFunctie.ipynb", 
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6519": {
+		"Files": ["Programmeerelementen/Algoritmes/0590_NumeriekeBepalingLimietOefeningen.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "S",
 		"Description": "Leerpad Numerieke methodes",
