@@ -1661,7 +1661,7 @@
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.csv", "AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.csv"],
-		"Resource": "S",
+		"Resource": "M",
 		"Description": "Leerpad Machine learning classificatie",
 		"Name": "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
