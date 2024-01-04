@@ -1728,8 +1728,18 @@
 		"BasePath": "AIOpSchool/KIKS/MachineLearningRegressie"
 	},
         "1930": {
-		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
-			  "STEM/Klimaat/data/zeeniveau.csv",
+		"Files": ["STEM/Klimaat/0850_MorteratschgletsjerMLRegressie.ipynb",
+			  "STEM/Klimaat/data/morteratsch.csv", 
+			  "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning regressie",
+		"Name": "Machine learning regressie",
+		"BasePath": "STEM/Klimaat"
+	},
+	"1935": {
+		"Files": ["STEM/Klimaat/0851_SilvrettagletsjerMLRegressie.ipynb",
+			  "STEM/Klimaat/data/silvretta.csv",
 			  "STEM/Klimaat/images/kiksmeisedwengougent.png", 
 			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
 		"Resource": "S",
