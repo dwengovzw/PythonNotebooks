@@ -28,6 +28,15 @@
 		"Name" : "Leren werken met de notebooks",
 		"BasePath": "WerkingNotebooks"
 	},
+	"0101_en": {
+		"Files" : ["en/WerkingNotebooks/0100_Introductie_en.ipynb", "en/WerkingNotebooks/0200_DoorlopenNotebook_en.ipynb",
+			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
+		"Name" : "Leren werken met de notebooks",
+		"BasePath": "en/WerkingNotebooks"
+	},
 	"0102": {
 		"Files" : ["WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", 
 			   "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", 
@@ -37,12 +46,32 @@
 		"Name" : "Leren werken met de notebooks",
 		"BasePath": "WerkingNotebooks"
 	},
+	"0102_en": {
+		"Files" : ["en/WerkingNotebooks/0300_Basisfunctionaliteiten_en.ipynb", "en/WerkingNotebooks/0400_NotebooksOpslaan_en.ipynb", 
+			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
+		"Name" : "Leren werken met de notebooks",
+		"BasePath": "en/WerkingNotebooks"
+	},
 	"0103": {
-		"Files" : ["WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+		"Files" : ["WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/images/cclic.png", 
+			   "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", 
+			   "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
 		"Description" : "Doorlopen van een notebook",
 		"Name" : "Hoe een notebook doorlopen",
 		"BasePath": "WerkingNotebooks"
+	},
+	"0103_en": {
+		"Files" : ["en/WerkingNotebooks/0200_DoorlopenNotebook_en.ipynb", "en/WerkingNotebooks/images/cclic.png", 
+			   "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Doorlopen van een notebook",
+		"Name" : "Hoe een notebook doorlopen",
+		"BasePath": "en/WerkingNotebooks"
 	},
 	"0200": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
