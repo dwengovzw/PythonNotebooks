@@ -1197,6 +1197,15 @@
 		"Name" : "IP-adres",
 		"BasePath": "STEM/IPAdres"
 	},
+	"1300_en": {
+		"Files" : ["en/STEM/IPAdres/0100_IPAdres_en.ipynb", "en/STEM/IPAdres/images/cclic.png", "en/STEM/IPAdres/images/browser.png",
+			   "en/STEM/IPAdres/images/logodwengo.png", "en/STEM/IPAdres/images/binair.jpg", "en/STEM/IPAdres/images/hexadecimaal.jpg", 
+			   "en/STEM/IPAdres/images/tientallig.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Talstelsels over binaire, decimale en hexadecimale talstelsel a.d.h.v. context van IP-adres",
+		"Name" : "IP-adres",
+		"BasePath": "en/STEM/IPAdres"
+	},
 	"1400": {
 		"Files" : ["STEM/Vliegverkeer/0100_SpreidingsdiagramNavigatiepuntenLuchtverkeer.ipynb", 
 			   "STEM/Vliegverkeer/images/cclic.png","STEM/Vliegverkeer/images/logodwengo.png", 
