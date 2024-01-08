@@ -1068,7 +1068,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
 		"Name" : "Klimaatverandering",
-		"BasePath": "enSTEM/Klimaat"
+		"BasePath": "en/STEM/Klimaat"
 	},
 	"1130": {
 		"Files" : ["STEM/Klimaat/0600_Zeeniveau.ipynb", 
