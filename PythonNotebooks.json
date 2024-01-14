@@ -532,7 +532,7 @@
 	},
 	"0371": {
 		"Files" : ["Wiskunde/Statistiek/0200_DataVisualiserenTaart.ipynb", "Wiskunde/Statistiek/0220_DataVisualiserenHist.ipynb",
-			   "Wiskunde/Statistiek/0210_DataVisualiserenStaaf.ipynb", "Wiskunde/Statistiek/0230_DataVisualiserenHistToepassing.ipynb"
+			   "Wiskunde/Statistiek/0210_DataVisualiserenStaaf.ipynb", "Wiskunde/Statistiek/0230_DataVisualiserenHistToepassing.ipynb",
 			   "Wiskunde/Statistiek/data/klimtemp.csv", "Wiskunde/Statistiek/data/happydata.csv", 
 			   "Wiskunde/Statistiek/data/smartphoneafhankelijk.csv", "Wiskunde/Statistiek/data/artists.csv"
 			   "Wiskunde/Statistiek/data/belgischebevolking2023leeftijd.csv",
