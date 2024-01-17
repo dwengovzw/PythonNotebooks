@@ -2198,6 +2198,16 @@
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst"
 	},
+	"5010_en": {
+		"Files": ["en/AIOpSchool/Kunst/0100_Turtle_en.ipynb",
+			  "en/AIOpSchool/Kunst/images/cclic.png", "en/AIOpSchool/Kunst/images/abstractiedwengo.png", "en/AIOpSchool/Kunst/images/algoritmedwengo.png", 
+			  "en/AIOpSchool/Kunst/images/bannerugentdwengo.png", "en/AIOpSchool/Kunst/images/herhalingsstructuurdwengo.png", 
+			  "en/AIOpSchool/Kunst/images/patroonherkenningdwengo.png", "en/AIOpSchool/Kunst/images/logobavo.jpg" ],
+		"Resource": "S",
+		"Description": "Leerpad Turtle",
+		"Name": "AI in de Kunst",
+		"BasePath": "en/AIOpSchool/Kunst"
+	},
 	"6000": {
 		"Files": ["STEM/Insectbook/0100_ExponentieelGroeimodel.ipynb", "STEM/Insectbook/0200_LogistiekGroeimodel.ipynb",
 			  "STEM/Insectbook/0300_ModelLesliematrix.ipynb", "STEM/Insectbook/0400_ModelDifferentiaalvergelijking.ipynb",
