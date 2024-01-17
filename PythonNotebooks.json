@@ -1420,9 +1420,9 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1700_en": {
-		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk_en", "en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb",
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting_en.ipynb", 
-			   "en/AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller_en", 
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller_en.ipynb", 
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.npy",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/berlaymont.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/berlaymont.npy",
