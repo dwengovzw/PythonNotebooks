@@ -10,8 +10,8 @@
 		"BasePath": "WerkingNotebooks"
 	},
 	"0100_en": {
-		"Files" : ["en/WerkingNotebooks/0100_Introductie_en.ipynb", "en/WerkingNotebooks/0200_DoorlopenNotebook_en.ipynb", "en/WerkingNotebooks/0300_Basisfunctionaliteiten_en.ipynb", 
-			   "en/WerkingNotebooks/0400_NotebooksOpslaan_en.ipynb", 
+		"Files" : ["en/WerkingNotebooks/0100_Introduction_en.ipynb", "en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb", "en/WerkingNotebooks/0300_BasicFunctionalities_en.ipynb", 
+			   "en/WerkingNotebooks/0400_SaveNotebooks_en.ipynb", 
 			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
 			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
@@ -29,7 +29,7 @@
 		"BasePath": "WerkingNotebooks"
 	},
 	"0101_en": {
-		"Files" : ["en/WerkingNotebooks/0100_Introductie_en.ipynb", "en/WerkingNotebooks/0200_DoorlopenNotebook_en.ipynb",
+		"Files" : ["en/WerkingNotebooks/0100_Introduction_en.ipynb", "en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb",
 			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
 			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
@@ -47,7 +47,7 @@
 		"BasePath": "WerkingNotebooks"
 	},
 	"0102_en": {
-		"Files" : ["en/WerkingNotebooks/0300_Basisfunctionaliteiten_en.ipynb", "en/WerkingNotebooks/0400_NotebooksOpslaan_en.ipynb", 
+		"Files" : ["en/WerkingNotebooks/0300_BasicFunctionalities_en.ipynb", "en/WerkingNotebooks/0400_SaveNotebooks_en.ipynb", 
 			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
 			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
@@ -65,7 +65,7 @@
 		"BasePath": "WerkingNotebooks"
 	},
 	"0103_en": {
-		"Files" : ["en/WerkingNotebooks/0200_DoorlopenNotebook_en.ipynb", "en/WerkingNotebooks/images/cclic.png", 
+		"Files" : ["en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb", "en/WerkingNotebooks/images/cclic.png", 
 			   "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
 			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
