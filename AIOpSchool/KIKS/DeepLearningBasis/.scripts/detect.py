@@ -49,12 +49,13 @@ def choose_picture():
         return None
 
     first_key = next(iter(upload_widget.value))
-
-    if not upload_widget.value[first_key]['metadata']['type'].startswith('image'):
+    print(upload_widget.value)
+    print(first_key)
+    if not upload_widget.value[0]['type'].startswith('image'):
         print('Please select an image.')
         return None
 
-    image = Image.open(io.BytesIO(upload_widget.value[first_key]['content']))
+    image = Image.open(io.BytesIO(upload_widget.value[0]['content']))
     return image
 
 
