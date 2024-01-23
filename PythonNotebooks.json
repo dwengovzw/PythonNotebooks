@@ -1762,7 +1762,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "jupyter/tensorflow-notebook:ubuntu-22.04"
 	},
 	"1720": {
 		"Files": ["AIOpSchool/KIKS/DeepLearningGevorderd/0100_BladNaarLabel.ipynb",
