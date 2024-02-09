@@ -1270,10 +1270,11 @@
 			   "en/STEM/DigitaleBeelden/data/begonia.npy", "en/STEM/DigitaleBeelden/data/vier.npy", "en/STEM/DigitaleBeelden/data/verborgen.npy",
 			   "en/STEM/DigitaleBeelden/images/boom.npy", "en/STEM/DigitaleBeelden/images/stam.npy", "en/STEM/DigitaleBeelden/images/kruin.npy", 
 			   "en/STEM/DigitaleBeelden/images/achtergrond.npy", "en/STEM/DigitaleBeelden/scripts/helper.py"],
-		"Resource" : "S",
+		"Resource" : "L",
 		"Description" : "Digitale beeldverwerking inleiding grijswaarden en kleur",
 		"Name" : "Digitale beelden",
-		"BasePath": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"BasePath": "STEM/DigitaleBeelden",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1501": {
 		"Files" : ["STEM/DigitaleBeelden/0100_AfbeeldingenGrijswaarden.ipynb", "STEM/DigitaleBeelden/0600_MatricesBeeldbewerking.ipynb",
