@@ -1873,10 +1873,10 @@
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
 	},
 	"1800_en": {
-		"Files": ["en/AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
-			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht.ipynb",
-			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie.ipynb",
-			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieScheidingslijn.ipynb",
+		"Files": ["en/AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie_en.ipynb", 
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieScheidingslijn_en.ipynb",
 			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
 			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
 			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irissetosa.jpg", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irisVersicolor.jpg",
