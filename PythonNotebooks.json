@@ -1764,6 +1764,30 @@
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
 		"ImageName": "jupyter/tensorflow-notebook:ubuntu-22.04"
 	},
+	"1719_en": {
+		"Files": ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0100_LeafToLabelStomata.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU_en.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent_en.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/bannerugentdwengo.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/carapanegatief.jpg", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/carapapositief.jpg",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/sobelfilter.gif", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber1.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber2bis.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/boom.npy",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/prent.npy", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/schemanb.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/relu.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/logodwengo.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/stomatamethodologie.png"],
+		"Resource": "XL",
+		"Description": "Leerpad Deep learning gevorderd: blad naar label",
+		"Name": "Deep learning gevorderd",
+		"BasePath": "en/AIOpSchool/KIKS/DeepLearningGevorderd",
+		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+
+	},
 	"1720": {
 		"Files": ["AIOpSchool/KIKS/DeepLearningGevorderd/0100_BladNaarLabel.ipynb",
 			  "AIOpSchool/KIKS/DeepLearningGevorderd/0100_LeafToLabelStomata.ipynb",
