@@ -1847,6 +1847,26 @@
 		"Name": "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
 	},
+	"1800_en": {
+		"Files": ["en/AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie_en.ipynb", 
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieScheidingslijn_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irissetosa.jpg", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irisVersicolor.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irisvirginica.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kelkbaldkroonblad.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.csv", "en/AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.csv"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning classificatie",
+		"Name": "Machine learning classificatie",
+		"BasePath": "en/AIOpSchool/KIKS/MachineLearningClassificatie"
+	},
 	"1801": {
 		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht.ipynb",
