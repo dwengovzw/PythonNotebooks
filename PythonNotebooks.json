@@ -1568,7 +1568,7 @@
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
 			   "AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
-		"Resource" : "STUPID",
+		"Resource" : "L",
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
