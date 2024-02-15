@@ -1572,7 +1572,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "cschranz/gpu-jupyter:v1.6_cuda-11.8_ubuntu-22.04"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1711": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
