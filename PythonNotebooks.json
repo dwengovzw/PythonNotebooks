@@ -2034,8 +2034,7 @@
 			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/cclic.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
-		"Name" : "Sentimentanalyse",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"Name" : "Sentimentanalyse"
 	},
 	"2101": {
 		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0210_SentimentanalyseRegelgebaseerdInteractiever.ipynb", 
