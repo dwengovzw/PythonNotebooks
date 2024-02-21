@@ -2044,8 +2044,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
 		"Name" : "Sentimentanalyse",
-		"BasePath": "AIOpSchool/Chatbot",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"BasePath": "AIOpSchool/Chatbot"
 	},
 	"2105": {
 		"Files" : ["AIOpSchool/Chatbot/0400_SentimentanalyseDeepLearning.ipynb", 
