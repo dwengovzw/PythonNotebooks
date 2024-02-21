@@ -2064,8 +2064,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Chatbot",
 		"Name" : "Chatbot",
-		"BasePath": "AIOpSchool/Chatbot",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"BasePath": "AIOpSchool/Chatbot"
 	},
 	"2120": {
 		"Files" : ["AIOpSchool/Chatbot/0100_Vervoegingen.ipynb",
