@@ -1074,7 +1074,7 @@
 		"BasePath": "STEM/Klimaat"
 	},
 	"1120_en": {
-		"Files" : ["en/STEM/Klimaat/0400_Morteratschgletsjer_en.ipynb", "STEM/Klimaat/0500_SilvrettagletsjerOpdracht_en.ipynb",  
+		"Files" : ["en/STEM/Klimaat/0400_Morteratschgletsjer_en.ipynb", "en/STEM/Klimaat/0500_SilvrettagletsjerOpdracht_en.ipynb",  
 			   "en/STEM/Klimaat/data/antarcticaCO2.csv", "en/STEM/Klimaat/data/globaletemperatuur.csv", 
 			   "en/STEM/Klimaat/data/keeling.csv", "en/STEM/Klimaat/data/keelingCO230111958.csv", "en/STEM/Klimaat/data/keelingCO21959.csv", 
 			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", "en/STEM/Klimaat/data/zeeniveau.csv",
