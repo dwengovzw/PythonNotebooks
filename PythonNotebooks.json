@@ -2072,7 +2072,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Chatbot",
 		"Name" : "Regels van ervoegingen",
-		"BasePath": "AIOpSchool/Chatbot",
+		"BasePath": "AIOpSchool/Chatbot"
 	},
 	"3000": {
 		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
