@@ -2244,24 +2244,24 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"5000": {
-		"Files": ["AIOpSchool/Kunst/0100_Turtle.ipynb",
-			  "AIOpSchool/Kunst/images/cclic.png", "AIOpSchool/Kunst/images/abstractiedwengo.png", "AIOpSchool/Kunst/images/algoritmedwengo.png", 
-			  "AIOpSchool/Kunst/images/bannerugentdwengo.png", "AIOpSchool/Kunst/images/herhalingsstructuurdwengo.png", 
-			  "AIOpSchool/Kunst/images/patroonherkenningdwengo.png", "AIOpSchool/Kunst/images/logobavo.jpg"],
+		"Files": ["AIOpSchool/Kunst/turtle/0100_Turtle.ipynb",
+			  "AIOpSchool/Kunst/turtle/images/cclic.png", "AIOpSchool/Kunst/turtle/images/abstractiedwengo.png", "AIOpSchool/Kunst/turtle/images/algoritmedwengo.png", 
+			  "AIOpSchool/Kunst/turtle/images/bannerugentdwengo.png", "AIOpSchool/Kunst/turtle/images/herhalingsstructuurdwengo.png", 
+			  "AIOpSchool/Kunst/turtle/images/patroonherkenningdwengo.png", "AIOpSchool/Kunst/turtle/images/logobavo.jpg"],
 		"Resource": "S",
 		"Description": "Leerpad Turtle",
 		"Name": "AI in de Kunst",
-		"BasePath": "AIOpSchool/Kunst"
+		"BasePath": "AIOpSchool/Kunst/turtle"
 	},
 	"5010": {
-		"Files": ["AIOpSchool/Kunst/0100_Turtle.ipynb",
-			  "AIOpSchool/Kunst/images/cclic.png", "AIOpSchool/Kunst/images/abstractiedwengo.png", "AIOpSchool/Kunst/images/algoritmedwengo.png", 
-			  "AIOpSchool/Kunst/images/bannerugentdwengo.png", "AIOpSchool/Kunst/images/herhalingsstructuurdwengo.png", 
-			  "AIOpSchool/Kunst/images/patroonherkenningdwengo.png", "AIOpSchool/Kunst/images/logobavo.jpg" ],
+		"Files": ["AIOpSchool/Kunst/turtle/0100_Turtle.ipynb",
+			  "AIOpSchool/Kunst/turtle/images/cclic.png", "AIOpSchool/Kunst/turtle/images/abstractiedwengo.png", "AIOpSchool/Kunst/turtle/images/algoritmedwengo.png", 
+			  "AIOpSchool/Kunst/turtle/images/bannerugentdwengo.png", "AIOpSchool/Kunst/turtle/images/herhalingsstructuurdwengo.png", 
+			  "AIOpSchool/Kunst/turtle/images/patroonherkenningdwengo.png", "AIOpSchool/Kunst/turtle/images/logobavo.jpg" ],
 		"Resource": "S",
 		"Description": "Leerpad Turtle",
 		"Name": "AI in de Kunst",
-		"BasePath": "AIOpSchool/Kunst"
+		"BasePath": "AIOpSchool/Kunst/turtle"
 	},
 	"5010_en": {
 		"Files": ["en/AIOpSchool/Kunst/0100_Turtle_en.ipynb",
@@ -2413,14 +2413,14 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"9010": {
-		"Files": ["AIOpSchool/Kunst/0100_Turtle_en.ipynb",
-			  "AIOpSchool/Kunst/images/cclic.png", "AIOpSchool/Kunst/images/abstractiedwengo.png", "AIOpSchool/Kunst/images/algoritmedwengo.png", 
-			  "AIOpSchool/Kunst/images/bannerugentdwengo.png", "AIOpSchool/Kunst/images/herhalingsstructuurdwengo.png", 
-			  "AIOpSchool/Kunst/images/patroonherkenningdwengo.png", "AIOpSchool/Kunst/images/logobavo.jpg" ],
+		"Files": ["AIOpSchool/Kunst/turtle/0100_Turtle_en.ipynb",
+			  "AIOpSchool/Kunst/turtle/images/cclic.png", "AIOpSchool/Kunst/turtle/images/abstractiedwengo.png", "AIOpSchool/Kunst/turtle/images/algoritmedwengo.png", 
+			  "AIOpSchool/Kunst/turtle/images/bannerugentdwengo.png", "AIOpSchool/Kunst/turtle/images/herhalingsstructuurdwengo.png", 
+			  "AIOpSchool/Kunst/turtle/images/patroonherkenningdwengo.png", "AIOpSchool/Kunst/turtle/images/logobavo.jpg" ],
 		"Resource": "S",
 		"Description": "Leerpad Turtle",
 		"Name": "AI in de Kunst",
-		"BasePath": "AIOpSchool/Kunst"
+		"BasePath": "AIOpSchool/Kunst/turtle"
 	},
 	"9020": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb", 
@@ -2477,6 +2477,19 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
+	"10010": {
+		"Files": ["AIOpSchool/Kunst/jommeke/jommeke.ipynb",
+			  "AIOpSchool/Kunst/jommeke/images/banner_jommeke_2.png", "AIOpSchool/Kunst/jommeke/images/jommeke0.png", "AIOpSchool/Kunst/jommeke/images/jommeke1.png", 
+			  "AIOpSchool/Kunst/jommeke/images/jommeke2.png", "AIOpSchool/Kunst/jommeke/images/jommeke3.png", 
+			  "AIOpSchool/Kunst/jommeke/images/jommeke4.png", "AIOpSchool/Kunst/jommeke/images/jommeke5.png",
+			  "AIOpSchool/Kunst/jommeke/images/luckyluke7.png", "AIOpSchool/Kunst/jommeke/images/urbanus6.png", "AIOpSchool/Kunst/jommeke/images/jupyterlab_upload.png",
+			  "AIOpSchool/Kunst/jommeke/images/dwengologo.png" ],
+		"Resource": "S",
+		"Description": "Leerpad Turtle",
+		"Name": "AI in de Kunst",
+		"BasePath": "AIOpSchool/Kunst/jommeke",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	}
 }
