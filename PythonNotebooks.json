@@ -1074,7 +1074,7 @@
 		"BasePath": "STEM/Klimaat"
 	},
 	"1120_en": {
-		"Files" : ["en/STEM/Klimaat/0400_Morteratschgletsjer_en.ipynb", "STEM/Klimaat/0500_SilvrettagletsjerOpdracht_en.ipynb",  
+		"Files" : ["en/STEM/Klimaat/0400_Morteratschgletsjer_en.ipynb", "en/STEM/Klimaat/0500_SilvrettagletsjerOpdracht_en.ipynb",  
 			   "en/STEM/Klimaat/data/antarcticaCO2.csv", "en/STEM/Klimaat/data/globaletemperatuur.csv", 
 			   "en/STEM/Klimaat/data/keeling.csv", "en/STEM/Klimaat/data/keelingCO230111958.csv", "en/STEM/Klimaat/data/keelingCO21959.csv", 
 			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", "en/STEM/Klimaat/data/zeeniveau.csv",
@@ -1568,11 +1568,11 @@
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
 			   "AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
-		"Resource" : "L",
+		"Resource" : "XL",
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "cschranz/gpu-jupyter:v1.6_cuda-12.0_ubuntu-22.04_python-only"
+		"ImageName": "dwengo-jupyter-gpu:cuda12-ubuntu22"
 	},
 	"1711": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
@@ -1762,7 +1762,31 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "jupyter/tensorflow-notebook:ubuntu-22.04"
+	},
+	"1719_en": {
+		"Files": ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0100_LeafToLabelStomata.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU_en.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent_en.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/bannerugentdwengo.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/carapanegatief.jpg", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/carapapositief.jpg",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/sobelfilter.gif", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber1.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber2bis.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/boom.npy",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/prent.npy", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/schemanb.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/relu.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/logodwengo.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/stomatamethodologie.png"],
+		"Resource": "XL",
+		"Description": "Leerpad Deep learning gevorderd: blad naar label",
+		"Name": "Deep learning gevorderd",
+		"BasePath": "en/AIOpSchool/KIKS/DeepLearningGevorderd",
+		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+
 	},
 	"1720": {
 		"Files": ["AIOpSchool/KIKS/DeepLearningGevorderd/0100_BladNaarLabel.ipynb",
@@ -1846,6 +1870,26 @@
 		"Description": "Leerpad Machine learning classificatie",
 		"Name": "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
+	},
+	"1800_en": {
+		"Files": ["en/AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie_en.ipynb", 
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieScheidingslijn_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irissetosa.jpg", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irisVersicolor.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irisvirginica.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kelkbaldkroonblad.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.csv", "en/AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.csv"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning classificatie",
+		"Name": "Machine learning classificatie",
+		"BasePath": "en/AIOpSchool/KIKS/MachineLearningClassificatie"
 	},
 	"1801": {
 		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
@@ -1990,8 +2034,7 @@
 			   "Programmeerelementen/Datatypes/images/runknop.jpg", "Programmeerelementen/Datatypes/images/schaal.png", "Programmeerelementen/Datatypes/images/cclic.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
-		"Name" : "Sentimentanalyse",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"Name" : "Sentimentanalyse"
 	},
 	"2101": {
 		"Files" : ["AIOpSchool/Chatbot/0200_SentimentanalyseRegelgebaseerd.ipynb", "AIOpSchool/Chatbot/0210_SentimentanalyseRegelgebaseerdInteractiever.ipynb", 
@@ -2001,8 +2044,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Sentimentanalyse over positieve, negatieve en neutrale reviews",
 		"Name" : "Sentimentanalyse",
-		"BasePath": "AIOpSchool/Chatbot",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"BasePath": "AIOpSchool/Chatbot"
 	},
 	"2105": {
 		"Files" : ["AIOpSchool/Chatbot/0400_SentimentanalyseDeepLearning.ipynb", 
@@ -2021,8 +2063,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Chatbot",
 		"Name" : "Chatbot",
-		"BasePath": "AIOpSchool/Chatbot",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"BasePath": "AIOpSchool/Chatbot"
 	},
 	"2120": {
 		"Files" : ["AIOpSchool/Chatbot/0100_Vervoegingen.ipynb",
@@ -2031,8 +2072,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Chatbot",
 		"Name" : "Regels van ervoegingen",
-		"BasePath": "AIOpSchool/Chatbot",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"BasePath": "AIOpSchool/Chatbot"
 	},
 	"3000": {
 		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 

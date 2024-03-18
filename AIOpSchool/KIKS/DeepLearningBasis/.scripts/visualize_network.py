@@ -30,7 +30,7 @@ def add_padding(im, height):
 
 def resize_keep_ratio(im, height):
     new_width = int(im.size[0] * (height / im.size[1]))
-    new_im = im.resize((new_width, height), Image.ANTIALIAS)
+    new_im = im.resize((new_width, height), Image.Resampling.LANCZOS)
     return new_im
 
 
@@ -133,7 +133,7 @@ def get_network_image(base='conv_base', n_conv_layers=1, dropout=False, n_ff_lay
                 dropout_location = calculate_point(full_im_width + ff_layer_im_local.size[0], tussen_layer_local.size, 0, 0.35, extra_width=2)
                 draw.text(dropout_location, 'dropout', 0, font=font)
 
-            ff_layer_im_local = ff_layer_im_local.resize((ff_layer_im_local.size[0], int(ff_layer_im_local.size[1] / 2)), Image.ANTIALIAS)
+            ff_layer_im_local = ff_layer_im_local.resize((ff_layer_im_local.size[0], int(ff_layer_im_local.size[1] / 2)), Image.Resampling.LANCZOS)
 
     full_im_r = np.hstack([np.asarray(full_im), np.asarray(add_padding(last_layer_im, im_height))])
     full_im = Image.fromarray(full_im_r)
