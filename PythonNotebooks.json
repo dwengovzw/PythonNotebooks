@@ -2521,12 +2521,12 @@
 	},
 	"10010": {
 		"Files": ["AIOpSchool/Kunst/jommeke/jommeke.ipynb",
-			  "AIOpSchool/Kunst/jommeke/.images/banner_jommeke_2.png", "AIOpSchool/Kunst/jommeke/images/jommeke0.png", "AIOpSchool/Kunst/jommeke/images/jommeke1.png", 
+			  "AIOpSchool/Kunst/jommeke/content/banner_jommeke_2.png", "AIOpSchool/Kunst/jommeke/images/jommeke0.png", "AIOpSchool/Kunst/jommeke/images/jommeke1.png", 
 			  "AIOpSchool/Kunst/jommeke/images/jommeke2.png", "AIOpSchool/Kunst/jommeke/images/jommeke3.png", 
 			  "AIOpSchool/Kunst/jommeke/images/jommeke4.png", "AIOpSchool/Kunst/jommeke/images/jommeke5.png",
-			  "AIOpSchool/Kunst/jommeke/images/luckyluke7.png", "AIOpSchool/Kunst/jommeke/images/urbanus6.png", "AIOpSchool/Kunst/jommeke/.images/jupyterlab_upload.png",
-			  "AIOpSchool/Kunst/jommeke/.images/su.png", "AIOpSchool/Kunst/jommeke/.images/dwengo-groen-zwart.png",
-			  "AIOpSchool/Kunst/jommeke/.images/dwengologo.png", "AIOpSchool/Kunst/jommeke/scripts/data.py", "AIOpSchool/Kunst/jommeke/scripts/detect.py",
+			  "AIOpSchool/Kunst/jommeke/images/luckyluke7.png", "AIOpSchool/Kunst/jommeke/images/urbanus6.png", "AIOpSchool/Kunst/jommeke/content/jupyterlab_upload.png",
+			  "AIOpSchool/Kunst/jommeke/content/su.png", "AIOpSchool/Kunst/jommeke/content/dwengo-groen-zwart.png",
+			  "AIOpSchool/Kunst/jommeke/images/dwengologo.png", "AIOpSchool/Kunst/jommeke/scripts/data.py", "AIOpSchool/Kunst/jommeke/scripts/detect.py",
 			  "AIOpSchool/Kunst/jommeke/scripts/utils.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_model.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_parts.py",
 			  "AIOpSchool/Kunst/jommeke/scripts/models/netG-l1-discriminator-total-variation.torch"  
 			 ],
