@@ -2533,6 +2533,6 @@
 		"Description": "Leerpad Turtle",
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst/jommeke",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "dwengo-jupyter-gpu:cuda12-ubuntu22"
 	}
 }
