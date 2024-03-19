@@ -2530,8 +2530,8 @@
 			  "AIOpSchool/Kunst/jommeke/scripts/utils.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_model.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_parts.py",
 			  "AIOpSchool/Kunst/jommeke/scripts/models/netG-l1-discriminator-total-variation.torch"  
 			 ],
-		"Resource": "S",
-		"Description": "Leerpad Turtle",
+		"Resource": "L",
+		"Description": "Automatisch inkleuren van Jommeke strips.",
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst/jommeke",
 		"ImageName": "dwengo-jupyter-gpu:cuda12-ubuntu22"
