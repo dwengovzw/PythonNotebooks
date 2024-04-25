@@ -2568,7 +2568,7 @@
 		"Resource": "M",
 		"Description": "Auteur herkennen.",
 		"Name": "Schriftherkenning",
-		"BasePath": "wAIsda/taal/intro_murder_mistery"
+		"BasePath": "wAIsda/taal/intro_murder_mistery/schriftherkenning"
 	},
 	"waisda_taal_geheimschrift": {
 		"Files": [ "wAIsda/taal/intro_murder_mistery/geheimschrift/geheimschrift.ipynb",
@@ -2599,6 +2599,6 @@
 		"Resource": "M",
 		"Description": "Code kraken.",
 		"Name": "Schriftherkenning",
-		"BasePath": "wAIsda/taal/intro_murder_mistery"
+		"BasePath": "wAIsda/taal/intro_murder_mistery/geheimschrift"
 	}
 }
