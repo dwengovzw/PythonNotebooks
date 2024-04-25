@@ -2572,7 +2572,7 @@
 	},
 	"waisda_taal_geheimschrift": {
 		"Files": [ "waisda/taal/intro_murder_mistery/geheimschrift/geheimschrift.ipynb",
-		"taal/intro_murder_mistery/geheimschrift/wikipedia.txt",
+		"waisda/taal/intro_murder_mistery/geheimschrift/wikipedia.txt",
 		"waisda/taal/intro_murder_mistery/geheimschrift/brieven/met_letters/brief_geheim_0.txt",
 		"waisda/taal/intro_murder_mistery/geheimschrift/brieven/met_letters/brief_geheim_1.txt",
 		"waisda/taal/intro_murder_mistery/geheimschrift/brieven/met_letters/brief_geheim_2.txt",
