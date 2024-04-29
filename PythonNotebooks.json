@@ -2395,7 +2395,7 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6510": {
-		"Files": ["Programmeerelementen/Algoritmes/0500_NumeriekeBepalingLimietRij.ipynb",
+		"Files": ["Programmeerelementen/Algoritmes/0500_NumeriekeBepalingLimietRij.ipynb", "Programmeerelementen/Algoritmes/0400_RijBegrippen.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "S",
 		"Description": "Leerpad Numerieke methodes",
