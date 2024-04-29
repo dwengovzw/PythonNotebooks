@@ -2600,5 +2600,23 @@
 		"Description": "Code kraken.",
 		"Name": "Schriftherkenning",
 		"BasePath": "wAIsda/taal/intro_murder_mistery/geheimschrift"
+	},
+	"waisda_beelden_emoties": {
+		"Files": [ "wAIsda/beelden/emoties_herkennen/emoties.ipynb",
+		"wAIsda/beelden/emoties_herkennen/dataset/blij",
+		"wAIsda/beelden/emoties_herkennen/dataset/verbaasd",
+		"wAIsda/beelden/emoties_herkennen/images/formaat_labels.png",
+		"wAIsda/beelden/emoties_herkennen/images/hoe_uploaden.png",
+		"wAIsda/beelden/emoties_herkennen/images/raster.svg",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_blij.png",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_confusion_matrix.png",
+		"wAIsda/beelden/emoties_herkennen/images.voorbeeld_raster.jpg",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_verbaasd.png",
+		"wAIsda/beelden/emoties_herkennen/scripts/helpers.py"
+		],
+		"Resource": "L",
+		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
+		"Name": "Emotiedetectie",
+		"BasePath": "wAIsda/beelden/emoties_herkennen"
 	}
 }
