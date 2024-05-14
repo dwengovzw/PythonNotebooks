@@ -2619,5 +2619,42 @@
 		"Name": "Emotiedetectie",
 		"BasePath": "wAIsda/beelden/emoties_herkennen",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
+	"test_001": {
+		"Files": [ "wAIsda/beelden/emoties_herkennen/emoties.ipynb",
+		"wAIsda/beelden/emoties_herkennen/dataset/blij",
+		"wAIsda/beelden/emoties_herkennen/dataset/verbaasd",
+		"wAIsda/beelden/emoties_herkennen/images/formaat_labels.png",
+		"wAIsda/beelden/emoties_herkennen/images/hoe_uploaden.png",
+		"wAIsda/beelden/emoties_herkennen/images/raster.svg",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_blij.png",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_confusion_matrix.png",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_raster_blij.jpg",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_verbaasd.png",
+		"wAIsda/beelden/emoties_herkennen/scripts/helpers.py"
+		],
+		"Resource": "L",
+		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
+		"Name": "Emotiedetectie",
+		"BasePath": "wAIsda/beelden/emoties_herkennen",
+		"ImageName": "tensorflow/tensorflow:latest-gpu-py3-jupyter"
+	},
+	"test_002": {
+		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/DL_stomata_methodology.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/fig_Ipomaea_eriocarpa_Faulkner_203424_blad1-vlak1.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/logodwengo.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/data/detecting_stomata_model_VGG19FT.h5",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/detect.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
+		"Resource" : "XL",
+		"Description" : "Leerpad Basis van Deep learning",
+		"Name" : "Detectie van Stomata",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
+		"ImageName": "tensorflow/tensorflow:latest-gpu-py3-jupyter"
 	}
 }
