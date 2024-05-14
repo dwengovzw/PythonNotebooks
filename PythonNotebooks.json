@@ -2655,6 +2655,6 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "tensorflow/tensorflow:nightly-gpu-jupyter"
 	}
 }
