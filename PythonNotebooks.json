@@ -2637,7 +2637,7 @@
 		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
 		"Name": "Emotiedetectie",
 		"BasePath": "wAIsda/beelden/emoties_herkennen",
-		"ImageName": "tensorflow/tensorflow:2.16.1-gpu-jupyter"
+		"ImageName": "tensorflow/tensorflow:2.15.0-gpu-jupyter"
 	},
 	"test_002": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
@@ -2655,6 +2655,6 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "tensorflow/tensorflow:2.16.1-gpu-jupyter"
+		"ImageName": "tensorflow/tensorflow:2.15.0-gpu-jupyter"
 	}
 }
