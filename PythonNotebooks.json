@@ -2655,6 +2655,6 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "cschranz/gpu-jupyter:v1.5_cuda-11.8_ubuntu-22.04_python-only"
+		"ImageName": "cschranz/gpu-jupyter:v1.7_cuda-12.3_ubuntu-22.04_python-only"
 	}
 }
