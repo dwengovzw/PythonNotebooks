@@ -4,6 +4,7 @@ import torch
 from scripts.unet.unet_model import UNet
 from tqdm import tqdm
 import os
+import gc
 
 import numpy as np
 
@@ -112,6 +113,12 @@ def afbeeldingen_naar_lijntekening(data_set):
     return lijntekeningen
     
     
+def release_model_mem(model):
+    model.cpu()
+    del model
+    gc.collect()
+    torch.cuda.empty_cache()
+    
 def kleur_afbeeldingen_inkleuren(model, data_set):
     # maak map voor uitvoer als die nog niet zou bestaan.
     try:
@@ -141,5 +148,7 @@ def kleur_afbeeldingen_inkleuren(model, data_set):
             a = a.astype(np.uint8)
             im = Image.fromarray(a)
             ingekleurd.append(im)
+    
+    release_model_mem(model)
     return ingekleurd
     
