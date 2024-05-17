@@ -2656,5 +2656,22 @@
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
 		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+	},
+	"test_003": {
+		"Files": ["AIOpSchool/Kunst/jommeke/jommeke.ipynb",
+			  "AIOpSchool/Kunst/jommeke/content/banner_jommeke_2.png", "AIOpSchool/Kunst/jommeke/images/jommeke0.png", "AIOpSchool/Kunst/jommeke/images/jommeke1.png", 
+			  "AIOpSchool/Kunst/jommeke/images/jommeke2.png", "AIOpSchool/Kunst/jommeke/images/jommeke3.png", 
+			  "AIOpSchool/Kunst/jommeke/images/jommeke4.png", "AIOpSchool/Kunst/jommeke/images/jommeke5.png",
+			  "AIOpSchool/Kunst/jommeke/images/luckyluke7.png", "AIOpSchool/Kunst/jommeke/images/urbanus6.png", "AIOpSchool/Kunst/jommeke/content/jupyterlab_upload.png",
+			  "AIOpSchool/Kunst/jommeke/content/su.png", "AIOpSchool/Kunst/jommeke/content/dwengo-groen-zwart.png",
+			  "AIOpSchool/Kunst/jommeke/images/dwengologo.png", "AIOpSchool/Kunst/jommeke/scripts/data.py", "AIOpSchool/Kunst/jommeke/scripts/detect.py",
+			  "AIOpSchool/Kunst/jommeke/scripts/utils.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_model.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_parts.py",
+			  "AIOpSchool/Kunst/jommeke/scripts/models/netG-l1-discriminator-total-variation.torch"  
+			 ],
+		"Resource": "L",
+		"Description": "Automatisch inkleuren van Jommeke strips.",
+		"Name": "AI in de Kunst",
+		"BasePath": "AIOpSchool/Kunst/jommeke",
+		"ImageName": "cschranz/gpu-jupyter:v1.5_cuda-11.8_ubuntu-22.04_python-only"
 	}
 }
