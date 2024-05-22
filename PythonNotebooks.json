@@ -2563,7 +2563,8 @@
 			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag2.txt",
 			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag3.txt",
 			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag4.txt",
-			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag5.txt "
+			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag5.txt",
+			"wAIsda/taal/intro_murder_mistery/schriftherkenning/images/vlaio.png"
 			 ],
 		"Resource": "M",
 		"Description": "Auteur herkennen.",
@@ -2594,7 +2595,8 @@
 		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_6.txt",
 		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_7.txt",
 		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_8.txt",
-		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_9.txt"
+		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_9.txt",
+		"wAIsda/taal/intro_murder_mistery/geheimschrift/images/vlaio.png"
 			 ],
 		"Resource": "M",
 		"Description": "Code kraken.",
@@ -2612,6 +2614,7 @@
 		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_confusion_matrix.png",
 		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_raster_blij.jpg",
 		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_verbaasd.png",
+		"wAIsda/beelden/emoties_herkennen/images/vlaio.png",
 		"wAIsda/beelden/emoties_herkennen/scripts/helpers.py"
 		],
 		"Resource": "L",
