@@ -20,7 +20,7 @@ def save_afbeelding():
 
     first_key = next(iter(upload_image_widget.value))
 
-    image = Image.open(io.BytesIO(upload_image_widget.value[first_key]['content']))
+    image = Image.open(io.BytesIO(first_key['content']))
     image.save('./images/eigen_afbeelding.jpg')
     return image
 

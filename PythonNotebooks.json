@@ -9,6 +9,16 @@
 		"Name" : "Leren werken met de notebooks",
 		"BasePath": "WerkingNotebooks"
 	},
+	"0100_en": {
+		"Files" : ["en/WerkingNotebooks/0100_Introduction_en.ipynb", "en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb", "en/WerkingNotebooks/0300_BasicFunctionalities_en.ipynb", 
+			   "en/WerkingNotebooks/0400_SaveNotebooks_en.ipynb", 
+			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
+		"Name" : "Leren werken met de notebooks",
+		"BasePath": "en/WerkingNotebooks"
+	},
 	"0101": {
 		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb",
 			   "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", 
@@ -17,6 +27,15 @@
 		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
 		"Name" : "Leren werken met de notebooks",
 		"BasePath": "WerkingNotebooks"
+	},
+	"0101_en": {
+		"Files" : ["en/WerkingNotebooks/0100_Introduction_en.ipynb", "en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb",
+			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
+		"Name" : "Leren werken met de notebooks",
+		"BasePath": "en/WerkingNotebooks"
 	},
 	"0102": {
 		"Files" : ["WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", 
@@ -27,12 +46,32 @@
 		"Name" : "Leren werken met de notebooks",
 		"BasePath": "WerkingNotebooks"
 	},
+	"0102_en": {
+		"Files" : ["en/WerkingNotebooks/0300_BasicFunctionalities_en.ipynb", "en/WerkingNotebooks/0400_SaveNotebooks_en.ipynb", 
+			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
+		"Name" : "Leren werken met de notebooks",
+		"BasePath": "en/WerkingNotebooks"
+	},
 	"0103": {
-		"Files" : ["WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+		"Files" : ["WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/images/cclic.png", 
+			   "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", 
+			   "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
 		"Resource" : "S",
 		"Description" : "Doorlopen van een notebook",
 		"Name" : "Hoe een notebook doorlopen",
 		"BasePath": "WerkingNotebooks"
+	},
+	"0103_en": {
+		"Files" : ["en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb", "en/WerkingNotebooks/images/cclic.png", 
+			   "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+		"Resource" : "S",
+		"Description" : "Doorlopen van een notebook",
+		"Name" : "Hoe een notebook doorlopen",
+		"BasePath": "en/WerkingNotebooks"
 	},
 	"0200": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0100_Tekenvenster.ipynb", "Wiskunde/Spreidingsdiagram/0200_SpreidingsdiagramDataManueel.ipynb", 
@@ -462,7 +501,7 @@
 			   "Wiskunde/Statistiek/data/top-500-movies.csv", "Wiskunde/Statistiek/data/us_tornado_dataset_1950_2021.csv", 
 			   "Wiskunde/Statistiek/data/video_games_sales.csv",
 			   "Wiskunde/Statistiek/data/weather_in_Antwerp_2012to2016.csv",  "Wiskunde/Statistiek/data/weather_in_Antwerp_2012to2019.csv",
-		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/fign2o.png", 
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/happykolom.png", 
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerpad statistiek",
@@ -484,7 +523,7 @@
 			   "Wiskunde/Statistiek/0210_DataVisualiserenStaaf.ipynb",
 			   "Wiskunde/Statistiek/data/klimtemp.csv", "Wiskunde/Statistiek/data/happydata.csv", 
 			   "Wiskunde/Statistiek/data/smartphoneafhankelijk.csv",
-		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", "Wiskunde/Statistiek/images/happykolom.png",
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerpad statistiek",
@@ -493,11 +532,11 @@
 	},
 	"0371": {
 		"Files" : ["Wiskunde/Statistiek/0200_DataVisualiserenTaart.ipynb", "Wiskunde/Statistiek/0220_DataVisualiserenHist.ipynb",
-			   "Wiskunde/Statistiek/0210_DataVisualiserenStaaf.ipynb",
+			   "Wiskunde/Statistiek/0210_DataVisualiserenStaaf.ipynb", "Wiskunde/Statistiek/0230_DataVisualiserenHistToepassing.ipynb",
 			   "Wiskunde/Statistiek/data/klimtemp.csv", "Wiskunde/Statistiek/data/happydata.csv", 
-			   "Wiskunde/Statistiek/data/smartphoneafhankelijk.csv",
+			   "Wiskunde/Statistiek/data/smartphoneafhankelijk.csv", "Wiskunde/Statistiek/data/artists.csv",
 			   "Wiskunde/Statistiek/data/belgischebevolking2023leeftijd.csv",
-		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", "Wiskunde/Statistiek/images/happykolom.png",  
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerpad statistiek",
@@ -507,7 +546,7 @@
 	"0372": {
 		"Files" : ["Wiskunde/Statistiek/0230_DataVisualiserenHist.ipynb", 
 			   "Wiskunde/Statistiek/data/klimtemp.csv", "Wiskunde/Statistiek/data/happydata.csv",
-		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", 
+		           "Wiskunde/Statistiek/images/cclic.png", "Wiskunde/Statistiek/images/decompositiedwengo.png", "Wiskunde/Statistiek/images/happykolom.png", 
 			   "Wiskunde/Statistiek/images/bannerugentdwengo.png"],
 		"Resource" : "S",
 		"Description" : "Leerpad statistiek",
@@ -974,6 +1013,23 @@
 		"Name" : "Klimaatverandering",
 		"BasePath": "STEM/Klimaat"
 	},
+	"1100_en": {
+		"Files" : ["en/STEM/Klimaat/0100_CO2_en.ipynb", "en/STEM/Klimaat/0200_CO2Temperatuur_en.ipynb", "en/STEM/Klimaat/0300_Keeling_en.ipynb", "en/STEM/Klimaat/0400_Morteratschgletsjer_en.ipynb", 
+			   "en/STEM/Klimaat/0500_SilvrettagletsjerOpdracht_en.ipynb", "en/STEM/Klimaat/0600_Zeeniveau_en.ipynb", "STEM/Klimaat/0700_ZeeniveauLineaireRegressie.ipynb",
+			   "en/STEM/Klimaat/0900_ZeeniveauRegressie_en.ipynb",
+			   "en/STEM/Klimaat/0800_MorteratschgletsjerRegressie_en.ipynb", "en/STEM/Klimaat/0801_SilvrettagletsjerRegressie_en.ipynb",
+			   "en/STEM/Klimaat/data/antarcticaCO2.csv", "en/STEM/Klimaat/data/globaletemperatuur.csv", 
+			   "en/STEM/Klimaat/data/keeling.csv", "en/STEM/Klimaat/data/keelingCO230111958.csv", "en/STEM/Klimaat/data/keelingCO21959.csv", 
+			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", "en/STEM/Klimaat/data/zeeniveau.csv",
+			   "en/STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", "en/STEM/Klimaat/images/cclic.png", "en/STEM/Klimaat/images/csvantarctica.jpg",
+			   "en/STEM/Klimaat/images/logosnb2.png", "en/STEM/Klimaat/images/logosnb.png", "en/STEM/Klimaat/images/kikssteun.png", "en/STEM/Klimaat/images/kikssteun2.png", 
+			   "en/STEM/Klimaat/images/kiksmeisedwengougent.png",
+			   "en/STEM/Klimaat/images/lvtmorteratsch2018.jpg", "en/STEM/Klimaat/images/morteratschsimulatie.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Klimaatverandering",
+		"BasePath": "en/STEM/Klimaat"
+	},
 	"1110": {
 		"Files" : ["STEM/Klimaat/0100_CO2.ipynb", "STEM/Klimaat/0200_CO2Temperatuur.ipynb", "STEM/Klimaat/0300_Keeling.ipynb",
 			   "STEM/Klimaat/data/antarcticaCO2.csv", "STEM/Klimaat/data/globaletemperatuur.csv", 
@@ -987,6 +1043,21 @@
 		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
 		"Name" : "Klimaatverandering",
 		"BasePath": "STEM/Klimaat"
+	},
+	"1110_en": {
+		"Files" : ["en/STEM/Klimaat/0100_CO2_en.ipynb", "en/STEM/Klimaat/0200_CO2Temperatuur_en.ipynb", "en/STEM/Klimaat/0300_Keeling_en.ipynb",
+			   "en/STEM/Klimaat/data/antarcticaCO2.csv", "en/STEM/Klimaat/data/globaletemperatuur.csv", 
+			   "en/STEM/Klimaat/data/keeling.csv", "en/STEM/Klimaat/data/keelingCO230111958.csv", "en/STEM/Klimaat/data/keelingCO21959.csv", 
+			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", "en/STEM/Klimaat/data/zeeniveau.csv",
+			   "en/STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", "en/STEM/Klimaat/images/cclic.png", "en/STEM/Klimaat/images/csvantarctica.jpg",
+			   "en/STEM/Klimaat/images/logosnb2.png", "en/STEM/Klimaat/images/logosnb.png", "en/STEM/Klimaat/images/kikssteun.png", 
+			   "en/STEM/Klimaat/images/kikssteun2.png",
+			   "en/STEM/Klimaat/images/kiksmeisedwengougent.png",
+			   "en/STEM/Klimaat/images/lvtmorteratsch2018.jpg", "en/STEM/Klimaat/images/morteratschsimulatie.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Klimaatverandering",
+		"BasePath": "en/STEM/Klimaat"
 	},
 	"1120": {
 		"Files" : ["STEM/Klimaat/0400_Morteratschgletsjer.ipynb", "STEM/Klimaat/0500_SilvrettagletsjerOpdracht.ipynb",  
@@ -1002,6 +1073,20 @@
 		"Name" : "Klimaatverandering",
 		"BasePath": "STEM/Klimaat"
 	},
+	"1120_en": {
+		"Files" : ["en/STEM/Klimaat/0400_Morteratschgletsjer_en.ipynb", "en/STEM/Klimaat/0500_SilvrettagletsjerOpdracht_en.ipynb",  
+			   "en/STEM/Klimaat/data/antarcticaCO2.csv", "en/STEM/Klimaat/data/globaletemperatuur.csv", 
+			   "en/STEM/Klimaat/data/keeling.csv", "en/STEM/Klimaat/data/keelingCO230111958.csv", "en/STEM/Klimaat/data/keelingCO21959.csv", 
+			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", "en/STEM/Klimaat/data/zeeniveau.csv",
+			   "en/STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", "en/STEM/Klimaat/images/cclic.png", "en/STEM/Klimaat/images/csvantarctica.jpg",
+			   "en/STEM/Klimaat/images/logosnb2.png", "en/STEM/Klimaat/images/logosnb.png", "en/STEM/Klimaat/images/kikssteun.png", "en/STEM/Klimaat/images/kikssteun2.png",
+			   "en/STEM/Klimaat/images/kiksmeisedwengougent.png",
+			   "en/STEM/Klimaat/images/lvtmorteratsch2018.jpg", "en/STEM/Klimaat/images/morteratschsimulatie.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Klimaatverandering",
+		"BasePath": "en/STEM/Klimaat"
+	},
 	"1130": {
 		"Files" : ["STEM/Klimaat/0600_Zeeniveau.ipynb", 
 			   "STEM/Klimaat/data/antarcticaCO2.csv", "STEM/Klimaat/data/globaletemperatuur.csv", 
@@ -1016,6 +1101,20 @@
 		"Name" : "Klimaatverandering",
 		"BasePath": "STEM/Klimaat"
 	},
+	"1130_en": {
+		"Files" : ["en/STEM/Klimaat/0600_Zeeniveau_en.ipynb", 
+			   "en/STEM/Klimaat/data/antarcticaCO2.csv", "en/STEM/Klimaat/data/globaletemperatuur.csv", 
+			   "en/STEM/Klimaat/data/keeling.csv", "en/STEM/Klimaat/data/keelingCO230111958.csv", "en/STEM/Klimaat/data/keelingCO21959.csv", 
+			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", "en/STEM/Klimaat/data/zeeniveau.csv",
+			   "en/STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", "en/STEM/Klimaat/images/cclic.png", "en/STEM/Klimaat/images/csvantarctica.jpg",
+			   "en/STEM/Klimaat/images/logosnb2.png", "en/STEM/Klimaat/images/logosnb.png", "en/STEM/Klimaat/images/kikssteun.png", "en/STEM/Klimaat/images/kikssteun2.png",
+			   "en/STEM/Klimaat/images/kiksmeisedwengougent.png",
+			   "en/STEM/Klimaat/images/lvtmorteratsch2018.jpg", "en/STEM/Klimaat/images/morteratschsimulatie.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Klimaatverandering",
+		"BasePath": "en/STEM/Klimaat"
+	},
 	"1140": {
 		"Files" : ["STEM/Klimaat/0800_MorteratschgletsjerRegressie.ipynb", "STEM/Klimaat/0801_SilvrettagletsjerRegressie.ipynb",  
 			   "STEM/Klimaat/data/morteratsch.csv", "STEM/Klimaat/data/silvretta.csv", 
@@ -1027,6 +1126,18 @@
 		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
 		"Name" : "Klimaatverandering",
 		"BasePath": "STEM/Klimaat"
+	},
+	"1140_en": {
+		"Files" : ["en/STEM/Klimaat/0800_MorteratschgletsjerRegressie_en.ipynb", "en/STEM/Klimaat/0801_SilvrettagletsjerRegressie_en.ipynb",  
+			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", 
+			   "en/STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", "en/STEM/Klimaat/images/cclic.png", "en/STEM/Klimaat/images/csvantarctica.jpg",
+			   "en/STEM/Klimaat/images/logosnb2.png", "en/STEM/Klimaat/images/logosnb.png", "en/STEM/Klimaat/images/kikssteun.png", "en/STEM/Klimaat/images/kikssteun2.png",
+			   "en/STEM/Klimaat/images/kiksmeisedwengougent.png",
+			   "en/STEM/Klimaat/images/lvtmorteratsch2018.jpg", "en/STEM/Klimaat/images/morteratschsimulatie.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Klimaatverandering",
+		"BasePath": "en/STEM/Klimaat"
 	},
 	"1150": {
 		"Files" : ["STEM/Klimaat/0700_ZeeniveauLineaireRegressie.ipynb", "STEM/Klimaat/0900_ZeeniveauRegressie.ipynb", 
@@ -1041,6 +1152,20 @@
 		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
 		"Name" : "Klimaatverandering",
 		"BasePath": "STEM/Klimaat"
+	},
+	"1150_en": {
+		"Files" : ["en/STEM/Klimaat/0700_ZeeniveauLineaireRegressie_en.ipynb", "en/STEM/Klimaat/0900_ZeeniveauRegressie_en.ipynb", 
+			   "en/STEM/Klimaat/data/antarcticaCO2.csv", "en/STEM/Klimaat/data/globaletemperatuur.csv", 
+			   "en/STEM/Klimaat/data/keeling.csv", "en/STEM/Klimaat/data/keelingCO230111958.csv", "en/STEM/Klimaat/data/keelingCO21959.csv", 
+			   "en/STEM/Klimaat/data/morteratsch.csv", "en/STEM/Klimaat/data/silvretta.csv", "en/STEM/Klimaat/data/zeeniveau.csv",
+			   "en/STEM/Klimaat/images/bruegeljagersindesneeuw.jpg", "en/STEM/Klimaat/images/cclic.png", "en/STEM/Klimaat/images/csvantarctica.jpg",
+			   "en/STEM/Klimaat/images/logosnb2.png", "en/STEM/Klimaat/images/logosnb.png", "en/STEM/Klimaat/images/kikssteun.png", 
+			   "en/STEM/Klimaat/images/kikssteun2.png", "en/STEM/Klimaat/images/kiksmeisedwengougent.png",
+			   "en/STEM/Klimaat/images/lvtmorteratsch2018.jpg", "en/STEM/Klimaat/images/morteratschsimulatie.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Klimaatverandering met evolutie atmosferische CO2, verband met temperatuur, afsmeltende landgletsjers",
+		"Name" : "Klimaatverandering",
+		"BasePath": "en/STEM/Klimaat"
 	},
 	"1200": {
 		"Files" : ["STEM/Epidemie/0100_ExponentieleGroeiCovid.ipynb", "STEM/Epidemie/0200_SIRModel.ipynb", 
@@ -1089,6 +1214,15 @@
 		"Name" : "IP-adres",
 		"BasePath": "STEM/IPAdres"
 	},
+	"1300_en": {
+		"Files" : ["en/STEM/IPAdres/0100_IPAdres_en.ipynb", "en/STEM/IPAdres/images/cclic.png", "en/STEM/IPAdres/images/browser.png",
+			   "en/STEM/IPAdres/images/logodwengo.png", "en/STEM/IPAdres/images/binair.jpg", "en/STEM/IPAdres/images/hexadecimaal.jpg", 
+			   "en/STEM/IPAdres/images/tientallig.jpg"],
+		"Resource" : "S",
+		"Description" : "Leerlijn Talstelsels over binaire, decimale en hexadecimale talstelsel a.d.h.v. context van IP-adres",
+		"Name" : "IP-adres",
+		"BasePath": "en/STEM/IPAdres"
+	},
 	"1400": {
 		"Files" : ["STEM/Vliegverkeer/0100_SpreidingsdiagramNavigatiepuntenLuchtverkeer.ipynb", 
 			   "STEM/Vliegverkeer/images/cclic.png","STEM/Vliegverkeer/images/logodwengo.png", 
@@ -1101,7 +1235,8 @@
 	},
 	"1500": {
 		"Files" : ["STEM/DigitaleBeelden/0100_AfbeeldingenGrijswaarden.ipynb", "STEM/DigitaleBeelden/0200_AfbeeldingenKleur.ipynb", 
-			   "STEM/DigitaleBeelden/0300_VanJPGnaarNPY.ipynb", "STEM/DigitaleBeelden/0400_VerborgenBoodschap.ipynb", 
+			   "STEM/DigitaleBeelden/0300_VanJPGnaarNPY.ipynb", "STEM/DigitaleBeelden/0310_MNISTDataset.ipynb",
+			   "STEM/DigitaleBeelden/0400_VerborgenBoodschap.ipynb", 
 			   "STEM/DigitaleBeelden/0500_TensorBeeldKleur.ipynb", "STEM/DigitaleBeelden/0600_MatricesBeeldbewerking.ipynb",
 			   "STEM/DigitaleBeelden/images/cclic.png","STEM/DigitaleBeelden/images/kiksmeisedwengougent.png", 
 			   "STEM/DigitaleBeelden/images/kikssteun.png", "STEM/DigitaleBeelden/images/kikssteun2.png", "STEM/DigitaleBeelden/images/grijswaarden.png",
@@ -1113,12 +1248,33 @@
 			   "STEM/DigitaleBeelden/images/monalisa.npy", "STEM/DigitaleBeelden/images/boom.npy", "STEM/DigitaleBeelden/images/boom2.npy",
 			   "STEM/DigitaleBeelden/data/begonia.npy", "STEM/DigitaleBeelden/data/vier.npy", "STEM/DigitaleBeelden/data/verborgen.npy",
 			   "STEM/DigitaleBeelden/images/boom.npy", "STEM/DigitaleBeelden/images/stam.npy", "STEM/DigitaleBeelden/images/kruin.npy", 
-			   "STEM/DigitaleBeelden/images/achtergrond.npy",
-		           "STEM/DigitaleBeelden/scripts/helper.py"],
+			   "STEM/DigitaleBeelden/images/achtergrond.npy", "STEM/DigitaleBeelden/scripts/helper.py"],
 		"Resource" : "S",
 		"Description" : "Digitale beeldverwerking inleiding grijswaarden en kleur",
 		"Name" : "Digitale beelden",
 		"BasePath": "STEM/DigitaleBeelden"
+	},
+	"1500_en": {
+		"Files" : ["en/STEM/DigitaleBeelden/0100_AfbeeldingenGrijswaarden_en.ipynb", "en/STEM/DigitaleBeelden/0200_AfbeeldingenKleur_en.ipynb", 
+			   "en/STEM/DigitaleBeelden/0300_VanJPGnaarNPY_en.ipynb", "en/STEM/DigitaleBeelden/0310_MNISTDataset_en.ipynb",
+			   "en/STEM/DigitaleBeelden/0400_VerborgenBoodschap_en.ipynb", 
+			   "en/STEM/DigitaleBeelden/0500_TensorBeeldKleur_en.ipynb", "en/STEM/DigitaleBeelden/0600_MatricesBeeldbewerking_en.ipynb",
+			   "en/STEM/DigitaleBeelden/images/cclic.png","en/STEM/DigitaleBeelden/images/kiksmeisedwengougent.png", 
+			   "en/STEM/DigitaleBeelden/images/kikssteun.png", "en/STEM/DigitaleBeelden/images/kikssteun2.png", "en/STEM/DigitaleBeelden/images/grijswaarden.png",
+			   "en/STEM/DigitaleBeelden/images/begonia.jpg", "en/STEM/DigitaleBeelden/images/begoniamicroscoop.jpg", "en/STEM/DigitaleBeelden/images/begoniaselectie.jpg", 
+			   "en/STEM/DigitaleBeelden/images/begoniazoom.png", "en/STEM/DigitaleBeelden/images/spectrum.png", "en/STEM/DigitaleBeelden/images/vier.jpg",
+			   "en/STEM/DigitaleBeelden/images/coffeaeugenioides.jpg", "en/STEM/DigitaleBeelden/images/coffeapseudozanguebariae.jpg",
+			   "en/STEM/DigitaleBeelden/images/boodschapbis.jpg", "en/STEM/DigitaleBeelden/images/bezondblad.jpg", "en/STEM/DigitaleBeelden/images/schaduwblad.jpg", 
+			   "en/STEM/DigitaleBeelden/images/lvtmorteratsch2018.jpg", "en/STEM/DigitaleBeelden/images/bannerugentdwengo.png", 
+			   "en/STEM/DigitaleBeelden/images/monalisa.npy", "en/STEM/DigitaleBeelden/images/boom.npy", "en/STEM/DigitaleBeelden/images/boom2.npy",
+			   "en/STEM/DigitaleBeelden/data/begonia.npy", "en/STEM/DigitaleBeelden/data/vier.npy", "en/STEM/DigitaleBeelden/data/verborgen.npy",
+			   "en/STEM/DigitaleBeelden/images/boom.npy", "en/STEM/DigitaleBeelden/images/stam.npy", "en/STEM/DigitaleBeelden/images/kruin.npy", 
+			   "en/STEM/DigitaleBeelden/images/achtergrond.npy", "en/STEM/DigitaleBeelden/scripts/helper.py"],
+		"Resource" : "L",
+		"Description" : "Digitale beeldverwerking inleiding grijswaarden en kleur",
+		"Name" : "Digitale beelden",
+		"BasePath": "STEM/DigitaleBeelden",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"1501": {
 		"Files" : ["STEM/DigitaleBeelden/0100_AfbeeldingenGrijswaarden.ipynb", "STEM/DigitaleBeelden/0600_MatricesBeeldbewerking.ipynb",
@@ -1264,6 +1420,71 @@
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
+	"1700_en": {
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting_en.ipynb", 
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller_en.ipynb", 
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.npy",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/berlaymont.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/berlaymont.npy",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/brug.npy",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/maxpooling.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/chihuahuamuffin.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_gayana_Burtt_6637_blad3_vlak2_2_3.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_gayana_Burtt_6637_blad5_vlak1_2.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_gayana_Burtt_6637_blad5_vlak3_0_0.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_gayana_Schlieben_2541_blad2_vlak3.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_gayana_Schlieben_2541_blad2_vlak3_9.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_gayana_Taylor_7459_blad1_vlak2_22_4.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_gayana_Taylor_7459_blad5_vlak2_10_3.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_pilosa_Champluvier_5130_blad5_vlak1_8.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_pychnotrix_Bequart_5748_blad3_vlak1_2.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chloris_pychnotrix_Germain_5743_blad5_vlak3_13.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Chlorophytum_ruahense_Farnshame_2627_blad3_vlak2_2.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/clustering.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/dataaugmentatie.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Diospyros_bipindensis_Michelson_551_blad4_vak3_6.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Diospyros_kirkii_Angus_1430_blad1_vak2_9_4.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Diospyros_kirkii_Angus_1430_blad4_vak1_12.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Diospyros_kirkii_Angus_2612_blad1_vak3_13.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Diospyros_kirkii_Angus_2612_blad2_vak1_5_2.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Diospyros_mespiliformis_Audry_B74_blad1_vak1.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/dropout.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Euphorbia_matabelensis_Polhill_Paulo_1190_blad2_vlak2_1_1.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/fietsenstallingkask.npy",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/fietsenstallingkask.png",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/igent.npy",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/igent.png",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Ipomaea_eriocarpa_Faulkner_2718_blad2_vlak1_3_5.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Ipomaea_eriocarpa_Faulkner_3424_blad4_vlak3.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Ipomoea_cairica_De_Wild_293_blad3_vlak3_9.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/kat.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/kikssteun.png", 
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/koffieplant.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/koffieplant.npy",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/logosnb2.png",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/overfitting.jpg", "en/AIOpSchool/KIKS/DeepLearningBasis/images/referentienetwerk.png", 
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/eugenioides.npy", "en/AIOpSchool/KIKS/DeepLearningBasis/images/pseudozanguebariae.npy",  
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/relu.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/stoma.jpg", 
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/conv_layer.jpg", "en/AIOpSchool/KIKS/DeepLearningBasis/images/tussen_layer.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/feedforward_layer.jpg", "en/AIOpSchool/KIKS/DeepLearningBasis/images/last_layer.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/slidingwindow.gif", "en/AIOpSchool/KIKS/DeepLearningBasis/images/sobelfilter.gif",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Strychnos_cocculoides_Kewensi_6345_blad2_vak1_21_3.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Strychnos_cocculoides_Kewensi_6345_blad3_vak2_9_0.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Strychnos_cocculoides_Schlieben_5570_blad1_vak1_13.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Strychnos_usambarensis_BREYSE_3584__blad5_vak2_13_0.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Strychnos_usambarensis_JANS_765_blad4_vak1_1.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/Strychnos_usambarensis_Louis_3852_blad5_vak3_6_3.jpg",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/valencia.npy",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/scripts/helper.py",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py", "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
+			   "en/AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
+		"Resource" : "S",
+		"Description" : "Leerpad Basis van Deep learning",
+		"Name" : "Basis Deep Learning",
+		"BasePath": "en/AIOpSchool/KIKS/DeepLearningBasis",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
 	"1701": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk.ipynb", 
 			   "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
@@ -1352,7 +1573,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+		"ImageName": "infuseai/docker-stacks:tensorflow-notebook-v2-13-0-f8c0b92b-gpu-cuda-12"
 	},
 	"1711": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
@@ -1544,6 +1765,30 @@
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
+	"1719_en": {
+		"Files": ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0100_LeafToLabelStomata.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU_en.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent_en.ipynb",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/bannerugentdwengo.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/carapanegatief.jpg", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/carapapositief.jpg",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/sobelfilter.gif", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber1.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber2bis.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/boom.npy",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/prent.npy", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/schemanb.png", 
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/relu.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/logodwengo.png",
+			  "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/stomatamethodologie.png"],
+		"Resource": "L",
+		"Description": "Leerpad Deep learning gevorderd: blad naar label",
+		"Name": "Deep learning gevorderd",
+		"BasePath": "en/AIOpSchool/KIKS/DeepLearningGevorderd",
+		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+
+	},
 	"1720": {
 		"Files": ["AIOpSchool/KIKS/DeepLearningGevorderd/0100_BladNaarLabel.ipynb",
 			  "AIOpSchool/KIKS/DeepLearningGevorderd/0100_LeafToLabelStomata.ipynb",
@@ -1552,7 +1797,7 @@
 			  "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png",
 			  "AIOpSchool/KIKS/DeepLearningGevorderd/images/logodwengo.png",
 			  "AIOpSchool/KIKS/DeepLearningGevorderd/images/stomatamethodologie.png"],
-		"Resource": "XL",
+		"Resource": "L",
 		"Description": "Leerpad Deep learning gevorderd: blad naar label",
 		"Name": "Deep learning gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
@@ -1627,6 +1872,26 @@
 		"Name": "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
 	},
+	"1800_en": {
+		"Files": ["en/AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie_en.ipynb", 
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0300_StomataZonSchaduwClassificatie_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/0400_StomataZonSchaduwClassificatieScheidingslijn_en.ipynb",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/andirobaamazonica.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/crabwoodtree.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irissetosa.jpg", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irisVersicolor.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/irisvirginica.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kelkbaldkroonblad.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/cclic.png",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kiksmeisedwengougent.png", 
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "en/AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
+			  "en/AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.csv", "en/AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.csv"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning classificatie",
+		"Name": "Machine learning classificatie",
+		"BasePath": "en/AIOpSchool/KIKS/MachineLearningClassificatie"
+	},
 	"1801": {
 		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/0200_IrisClassificatieOpdracht.ipynb",
@@ -1661,7 +1926,7 @@
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/kikssteun.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/logosnb.png",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptron3weights.png", "AIOpSchool/KIKS/MachineLearningClassificatie/images/perceptronalgoritme.jpg",
 			  "AIOpSchool/KIKS/MachineLearningClassificatie/data/iris.csv", "AIOpSchool/KIKS/MachineLearningClassificatie/data/schaduwzon.csv"],
-		"Resource": "S",
+		"Resource": "M",
 		"Description": "Leerpad Machine learning classificatie",
 		"Name": "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie"
@@ -1728,8 +1993,18 @@
 		"BasePath": "AIOpSchool/KIKS/MachineLearningRegressie"
 	},
         "1930": {
-		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
-			  "STEM/Klimaat/data/zeeniveau.csv",
+		"Files": ["STEM/Klimaat/0850_MorteratschgletsjerMLRegressie.ipynb",
+			  "STEM/Klimaat/data/morteratsch.csv", 
+			  "STEM/Klimaat/images/kiksmeisedwengougent.png", 
+			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
+		"Resource": "S",
+		"Description": "Leerpad Machine learning regressie",
+		"Name": "Machine learning regressie",
+		"BasePath": "STEM/Klimaat"
+	},
+	"1935": {
+		"Files": ["STEM/Klimaat/0851_SilvrettagletsjerMLRegressie.ipynb",
+			  "STEM/Klimaat/data/silvretta.csv",
 			  "STEM/Klimaat/images/kiksmeisedwengougent.png", 
 			  "STEM/Klimaat/images/kikssteun.png", "STEM/Klimaat/images/logosnb.png", "STEM/Klimaat/images/logosnb2.png"],
 		"Resource": "S",
@@ -1801,8 +2076,7 @@
 		"Resource" : "S",
 		"Description" : "Leerlijn Chatbot",
 		"Name" : "Regels van ervoegingen",
-		"BasePath": "AIOpSchool/Chatbot",
-		"ImageName": "zimcke/aiopschool-chatbot-notebook:latest"
+		"BasePath": "AIOpSchool/Chatbot"
 	},
 	"3000": {
 		"Files" : ["AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb", "AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb", "AIOpSchool/Zorg/0200_OefeningZonnecreme.ipynb", 
@@ -2033,6 +2307,16 @@
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst"
 	},
+	"5010_en": {
+		"Files": ["en/AIOpSchool/Kunst/0100_Turtle_en.ipynb",
+			  "en/AIOpSchool/Kunst/images/cclic.png", "en/AIOpSchool/Kunst/images/abstractiedwengo.png", "en/AIOpSchool/Kunst/images/algoritmedwengo.png", 
+			  "en/AIOpSchool/Kunst/images/bannerugentdwengo.png", "en/AIOpSchool/Kunst/images/herhalingsstructuurdwengo.png", 
+			  "en/AIOpSchool/Kunst/images/patroonherkenningdwengo.png", "en/AIOpSchool/Kunst/images/logobavo.jpg" ],
+		"Resource": "S",
+		"Description": "Leerpad Turtle",
+		"Name": "AI in de Kunst",
+		"BasePath": "en/AIOpSchool/Kunst"
+	},
 	"6000": {
 		"Files": ["STEM/Insectbook/0100_ExponentieelGroeimodel.ipynb", "STEM/Insectbook/0200_LogistiekGroeimodel.ipynb",
 			  "STEM/Insectbook/0300_ModelLesliematrix.ipynb", "STEM/Insectbook/0400_ModelDifferentiaalvergelijking.ipynb",
@@ -2112,6 +2396,64 @@
 		"Resource": "M",
 		"Description": "Leerpad Algoritmes",
 		"Name": "Algoritmes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6510": {
+		"Files": ["Programmeerelementen/Algoritmes/0500_NumeriekeBepalingLimietRij.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6515": {
+		"Files": ["Programmeerelementen/Algoritmes/0550_NumeriekeBepalingLimietFunctie.ipynb", 
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6519": {
+		"Files": ["Programmeerelementen/Algoritmes/0590_NumeriekeBepalingLimietOefeningen.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6520": {
+		"Files": ["Programmeerelementen/Algoritmes/0700_NumeriekeBepalingNulpuntenFunctieBissectie.ipynb",
+			 "Programmeerelementen/Algoritmes/0750_NumeriekeBepalingNulpuntenFunctieNewton.ipynb", 
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6525": {
+		"Files": ["Programmeerelementen/Algoritmes/0790_NumeriekeBepalingNulpuntenEconomie.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6530": {
+		"Files": ["Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannInleiding.ipynb",
+			 "Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
+	"6540": {
+		"Files": ["Programmeerelementen/Algoritmes/0600_NumeriekeBepalingLimietDifferentiequotient.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"9010": {
