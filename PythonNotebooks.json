@@ -2534,7 +2534,7 @@
 		"Description": "Automatisch inkleuren van Jommeke strips.",
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst/jommeke",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
+		"ImageName": "cschranz/gpu-jupyter:v1.5_cuda-11.8_ubuntu-22.04_python-only"
 	},
 	"waisda_taal_schriftherkenning": {
 		"Files": [ "wAIsda/taal/intro_murder_mistery/schriftherkenning/auteur_herkennen.ipynb",
