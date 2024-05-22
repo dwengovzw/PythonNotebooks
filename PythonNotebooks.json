@@ -1325,7 +1325,7 @@
 		"Description" : "Digitale beeldverwerking inleiding grijswaarden en kleur",
 		"Name" : "Digitale beelden",
 		"BasePath": "STEM/DigitaleBeelden",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1520": {
 		"Files" : ["STEM/DigitaleBeelden/0400_VerborgenBoodschap.ipynb",
@@ -1353,7 +1353,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Dataset verkennen",
 		"BasePath": "STEM/DigitaleBeelden",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1700": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
@@ -1417,7 +1417,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1700_en": {
 		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb",
@@ -1482,7 +1482,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "en/AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1701": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk.ipynb", 
@@ -1554,7 +1554,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1710": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
@@ -1635,7 +1635,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1712": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb", 
@@ -1699,7 +1699,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1713": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", 
@@ -1812,7 +1812,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1751": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", 
@@ -1825,7 +1825,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1752": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb", "AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht.ipynb",
@@ -1838,7 +1838,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1760": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent.ipynb",
@@ -1849,7 +1849,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1800": {
 		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
@@ -1940,7 +1940,7 @@
 		"Description" : "Leerpad Machine learning classificatie",
 		"Name" : "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1810": {
 		"Files" : ["AIOpSchool/KIKS/MachineLearningClassificatie/0600_MNISTConvnet.ipynb", "AIOpSchool/KIKS/MachineLearningClassificatie/0550_MNIST.ipynb", 
@@ -1952,7 +1952,7 @@
 		"Description" : "Leerpad Machine learning classificatie",
 		"Name" : "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1900": {
 		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
@@ -2281,7 +2281,7 @@
 		"Description": "Leerpad Machine learning landbouw",
 		"Name": "AI in de Landbouw",
 		"BasePath": "AIOpSchool/Landbouw",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"5000": {
 		"Files": ["AIOpSchool/Kunst/turtle/0100_Turtle.ipynb",
@@ -2517,7 +2517,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"10010": {
 		"Files": ["AIOpSchool/Kunst/jommeke/jommeke.ipynb",
@@ -2618,7 +2618,7 @@
 		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
 		"Name": "Emotiedetectie",
 		"BasePath": "wAIsda/beelden/emoties_herkennen",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"test_001": {
 		"Files": [ "wAIsda/beelden/emoties_herkennen/emoties.ipynb",
