@@ -1785,7 +1785,7 @@
 		"Description": "Leerpad Deep learning gevorderd: blad naar label",
 		"Name": "Deep learning gevorderd",
 		"BasePath": "en/AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 
 	},
 	"1720": {
@@ -1800,7 +1800,7 @@
 		"Description": "Leerpad Deep learning gevorderd: blad naar label",
 		"Name": "Deep learning gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "cschranz/gpu-jupyter:v1.6_cuda-12.0_ubuntu-22.04_python-only"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 
 	},
 	"1750": {
@@ -2534,7 +2534,7 @@
 		"Description": "Automatisch inkleuren van Jommeke strips.",
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst/jommeke",
-		"ImageName": "dwengo-jupyter-gpu:cuda12-ubuntu22"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"waisda_taal_schriftherkenning": {
 		"Files": [ "wAIsda/taal/intro_murder_mistery/schriftherkenning/auteur_herkennen.ipynb",
@@ -2637,7 +2637,7 @@
 		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
 		"Name": "Emotiedetectie",
 		"BasePath": "wAIsda/beelden/emoties_herkennen",
-		"ImageName": "cschranz/gpu-jupyter:v1.5_cuda-11.8_ubuntu-22.04_python-only"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"test_002": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
