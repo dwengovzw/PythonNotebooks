@@ -2436,8 +2436,8 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6530": {
-		"Files": ["Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannInleiding.ipynb",
-			 "Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
+		"Files": ["Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannInleiding.ipynb",
+			 "Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "S",
 		"Description": "Leerpad Numerieke methodes",
