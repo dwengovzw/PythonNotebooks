@@ -2419,7 +2419,7 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6520": {
-		"Files": ["Programmeerelementen/Algoritmes/0700_NumeriekeBepalingNulpuntenFunctieBissectie.ipynb",
+		"Files": ["Programmeerelementen/Algoritmes/0700_NumeriekeBepalingNulwaardenFunctieBisectie.ipynb",
 			 "Programmeerelementen/Algoritmes/0750_NumeriekeBepalingNulpuntenFunctieNewton.ipynb", 
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "S",
