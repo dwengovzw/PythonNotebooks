@@ -2385,6 +2385,15 @@
 		"Name": "Insectbooks",
 		"BasePath": "STEM/Insectbook"
 	},
+	"6065": {
+		"Files": ["Programmeerelementen/Algoritmes/0600_EindigeDifferentiemethode.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", 
+			  "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "M",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
 	"6210": {
 		"Files": ["Programmeerelementen/Algoritmes/0100_TentjeBoompje.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png", 
