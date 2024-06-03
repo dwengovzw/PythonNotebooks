@@ -2386,7 +2386,7 @@
 		"BasePath": "STEM/Insectbook"
 	},
 	"6065": {
-		"Files": ["Programmeerelementen/Algoritmes/0600_EindigeDifferentiemethode.ipynb",
+		"Files": ["Programmeerelementen/Algoritmes/0620_EindigeDifferentiemethode.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", 
 			  "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "M",
