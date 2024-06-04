@@ -2634,7 +2634,8 @@
 	},
 	"physical_computing_fysica_valbeweging": {
 		"Files": [ "PhysicalComputing/Fysica/Valbeweging/valbeweging.ipynb",
-		"PhysicalComputing/Fysica/Valbeweging/data/drop_data_sonar_2.csv"
+					"PhysicalComputing/Fysica/Valbeweging/data/drop_data_sonar_2.csv",
+					"PhysicalComputing/Fysica/Valbeweging/data/drop_data_sonar.csv"
 		],
 		"Resource": "M",
 		"Description": "Analyseer de valbeweging van een object met behulp van een microcontroller en een ultrasone sensor.",
