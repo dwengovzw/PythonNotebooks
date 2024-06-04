@@ -1325,7 +1325,7 @@
 		"Description" : "Digitale beeldverwerking inleiding grijswaarden en kleur",
 		"Name" : "Digitale beelden",
 		"BasePath": "STEM/DigitaleBeelden",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1520": {
 		"Files" : ["STEM/DigitaleBeelden/0400_VerborgenBoodschap.ipynb",
@@ -1353,7 +1353,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Dataset verkennen",
 		"BasePath": "STEM/DigitaleBeelden",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1700": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb",
@@ -1413,11 +1413,11 @@
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
 			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
 			   "AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
-		"Resource" : "S",
+		"Resource" : "L",
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1700_en": {
 		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb",
@@ -1478,11 +1478,11 @@
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py", "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "en/AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
-		"Resource" : "S",
+		"Resource" : "L",
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "en/AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1701": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0100_BasisDiepNeuraalNetwerk.ipynb", 
@@ -1554,7 +1554,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1710": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
@@ -1572,7 +1572,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Detectie van Stomata",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "dwengo-jupyter-gpu:cuda12-ubuntu22"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1711": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0500_StomataDetectie.ipynb",
@@ -1635,7 +1635,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1712": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb", 
@@ -1699,7 +1699,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1713": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", 
@@ -1785,7 +1785,7 @@
 		"Description": "Leerpad Deep learning gevorderd: blad naar label",
 		"Name": "Deep learning gevorderd",
 		"BasePath": "en/AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "cschranz/gpu-jupyter:v1.4_cuda-11.2_ubuntu-20.04_python-only"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 
 	},
 	"1720": {
@@ -1800,7 +1800,7 @@
 		"Description": "Leerpad Deep learning gevorderd: blad naar label",
 		"Name": "Deep learning gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "cschranz/gpu-jupyter:v1.6_cuda-12.0_ubuntu-22.04_python-only"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 
 	},
 	"1750": {
@@ -1812,7 +1812,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1751": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", 
@@ -1825,7 +1825,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1752": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb", "AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht.ipynb",
@@ -1838,7 +1838,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1760": {
 		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent.ipynb",
@@ -1849,7 +1849,7 @@
 		"Description" : "Leerpad Deep learning gevorderd",
 		"Name" : "Deep Learning Gevorderd",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningGevorderd",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1800": {
 		"Files": ["AIOpSchool/KIKS/MachineLearningClassificatie/0100_IrisClassificatie.ipynb", 
@@ -1940,7 +1940,7 @@
 		"Description" : "Leerpad Machine learning classificatie",
 		"Name" : "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1810": {
 		"Files" : ["AIOpSchool/KIKS/MachineLearningClassificatie/0600_MNISTConvnet.ipynb", "AIOpSchool/KIKS/MachineLearningClassificatie/0550_MNIST.ipynb", 
@@ -1952,7 +1952,7 @@
 		"Description" : "Leerpad Machine learning classificatie",
 		"Name" : "Machine learning classificatie",
 		"BasePath": "AIOpSchool/KIKS/MachineLearningClassificatie",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1900": {
 		"Files": ["STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
@@ -2281,7 +2281,7 @@
 		"Description": "Leerpad Machine learning landbouw",
 		"Name": "AI in de Landbouw",
 		"BasePath": "AIOpSchool/Landbouw",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"5000": {
 		"Files": ["AIOpSchool/Kunst/turtle/0100_Turtle.ipynb",
@@ -2385,6 +2385,15 @@
 		"Name": "Insectbooks",
 		"BasePath": "STEM/Insectbook"
 	},
+	"6065": {
+		"Files": ["Programmeerelementen/Algoritmes/0620_EindigeDifferentiemethode.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", 
+			  "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Resource": "M",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
 	"6210": {
 		"Files": ["Programmeerelementen/Algoritmes/0100_TentjeBoompje.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png", 
@@ -2419,7 +2428,7 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6520": {
-		"Files": ["Programmeerelementen/Algoritmes/0700_NumeriekeBepalingNulpuntenFunctieBissectie.ipynb",
+		"Files": ["Programmeerelementen/Algoritmes/0700_NumeriekeBepalingNulwaardenFunctieBisectie.ipynb",
 			 "Programmeerelementen/Algoritmes/0750_NumeriekeBepalingNulpuntenFunctieNewton.ipynb", 
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "S",
@@ -2436,8 +2445,8 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6530": {
-		"Files": ["Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannInleiding.ipynb",
-			 "Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
+		"Files": ["Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannInleiding.ipynb",
+			 "Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
 			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
 		"Resource": "S",
 		"Description": "Leerpad Numerieke methodes",
@@ -2517,7 +2526,7 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"10010": {
 		"Files": ["AIOpSchool/Kunst/jommeke/jommeke.ipynb",
@@ -2525,7 +2534,7 @@
 			  "AIOpSchool/Kunst/jommeke/images/jommeke2.png", "AIOpSchool/Kunst/jommeke/images/jommeke3.png", 
 			  "AIOpSchool/Kunst/jommeke/images/jommeke4.png", "AIOpSchool/Kunst/jommeke/images/jommeke5.png",
 			  "AIOpSchool/Kunst/jommeke/images/luckyluke7.png", "AIOpSchool/Kunst/jommeke/images/urbanus6.png", "AIOpSchool/Kunst/jommeke/content/jupyterlab_upload.png",
-			  "AIOpSchool/Kunst/jommeke/content/su.png", "AIOpSchool/Kunst/jommeke/content/dwengo-groen-zwart.png",
+			  "AIOpSchool/Kunst/jommeke/content/su.png", "AIOpSchool/Kunst/jommeke/content/dwengo-groen-zwart.png", "AIOpSchool/Kunst/jommeke/content/vlaio.png",
 			  "AIOpSchool/Kunst/jommeke/images/dwengologo.png", "AIOpSchool/Kunst/jommeke/scripts/data.py", "AIOpSchool/Kunst/jommeke/scripts/detect.py",
 			  "AIOpSchool/Kunst/jommeke/scripts/utils.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_model.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_parts.py",
 			  "AIOpSchool/Kunst/jommeke/scripts/models/netG-l1-discriminator-total-variation.torch"  
@@ -2534,7 +2543,7 @@
 		"Description": "Automatisch inkleuren van Jommeke strips.",
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst/jommeke",
-		"ImageName": "dwengo-jupyter-gpu:cuda12-ubuntu22"
+		"ImageName": "cschranz/gpu-jupyter:v1.5_cuda-11.8_ubuntu-22.04_python-only"
 	},
 	"waisda_taal_schriftherkenning": {
 		"Files": [ "wAIsda/taal/intro_murder_mistery/schriftherkenning/auteur_herkennen.ipynb",
@@ -2563,7 +2572,8 @@
 			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag2.txt",
 			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag3.txt",
 			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag4.txt",
-			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag5.txt "
+			"wAIsda/taal/intro_murder_mistery/schriftherkenning/documenten/Johannes/verslag5.txt",
+			"wAIsda/taal/intro_murder_mistery/schriftherkenning/images/vlaio.png"
 			 ],
 		"Resource": "M",
 		"Description": "Auteur herkennen.",
@@ -2594,7 +2604,8 @@
 		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_6.txt",
 		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_7.txt",
 		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_8.txt",
-		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_9.txt"
+		"wAIsda/taal/intro_murder_mistery/geheimschrift/brieven/met_tekens/brief_geheim_9.txt",
+		"wAIsda/taal/intro_murder_mistery/geheimschrift/images/vlaio.png"
 			 ],
 		"Resource": "M",
 		"Description": "Code kraken.",
@@ -2612,6 +2623,7 @@
 		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_confusion_matrix.png",
 		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_raster_blij.jpg",
 		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_verbaasd.png",
+		"wAIsda/beelden/emoties_herkennen/images/vlaio.png",
 		"wAIsda/beelden/emoties_herkennen/scripts/helpers.py"
 		],
 		"Resource": "L",
@@ -2628,5 +2640,59 @@
 		"Description": "Analyseer de valbeweging van een object met behulp van een microcontroller en een ultrasone sensor.",
 		"Name": "Valbeweging",
 		"BasePath": "PhysicalComputing/Fysica/Valbeweging"
+	},
+	"test_001": {
+		"Files": [ "wAIsda/beelden/emoties_herkennen/emoties.ipynb",
+		"wAIsda/beelden/emoties_herkennen/dataset/blij",
+		"wAIsda/beelden/emoties_herkennen/dataset/verbaasd",
+		"wAIsda/beelden/emoties_herkennen/images/formaat_labels.png",
+		"wAIsda/beelden/emoties_herkennen/images/hoe_uploaden.png",
+		"wAIsda/beelden/emoties_herkennen/images/raster.svg",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_blij.png",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_confusion_matrix.png",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_raster_blij.jpg",
+		"wAIsda/beelden/emoties_herkennen/images/voorbeeld_verbaasd.png",
+		"wAIsda/beelden/emoties_herkennen/scripts/helpers.py"
+		],
+		"Resource": "L",
+		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
+		"Name": "Emotiedetectie",
+		"BasePath": "wAIsda/beelden/emoties_herkennen",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
+	},
+	"test_002": {
+		"Files" : ["AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/DL_stomata_methodology.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/fig_Ipomaea_eriocarpa_Faulkner_203424_blad1-vlak1.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/images/logodwengo.png",
+			   "AIOpSchool/KIKS/DeepLearningBasis/data/detecting_stomata_model_VGG19FT.h5",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/__init__.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/detect.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/diep_neuraal_netwerk.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.scripts/vind_stomata.py", "AIOpSchool/KIKS/DeepLearningBasis/.scripts/visualize_network.py",
+			   "AIOpSchool/KIKS/DeepLearningBasis/.style/BebasNeue-Regular.ttf"],
+		"Resource" : "XL",
+		"Description" : "Leerpad Basis van Deep learning",
+		"Name" : "Detectie van Stomata",
+		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
+	},
+	"test_003": {
+		"Files": ["AIOpSchool/Kunst/jommeke/jommeke.ipynb",
+			  "AIOpSchool/Kunst/jommeke/content/banner_jommeke_2.png", "AIOpSchool/Kunst/jommeke/images/jommeke0.png", "AIOpSchool/Kunst/jommeke/images/jommeke1.png", 
+			  "AIOpSchool/Kunst/jommeke/images/jommeke2.png", "AIOpSchool/Kunst/jommeke/images/jommeke3.png", 
+			  "AIOpSchool/Kunst/jommeke/images/jommeke4.png", "AIOpSchool/Kunst/jommeke/images/jommeke5.png",
+			  "AIOpSchool/Kunst/jommeke/images/luckyluke7.png", "AIOpSchool/Kunst/jommeke/images/urbanus6.png", "AIOpSchool/Kunst/jommeke/content/jupyterlab_upload.png",
+			  "AIOpSchool/Kunst/jommeke/content/su.png", "AIOpSchool/Kunst/jommeke/content/dwengo-groen-zwart.png",
+			  "AIOpSchool/Kunst/jommeke/images/dwengologo.png", "AIOpSchool/Kunst/jommeke/scripts/data.py", "AIOpSchool/Kunst/jommeke/scripts/detect.py",
+			  "AIOpSchool/Kunst/jommeke/scripts/utils.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_model.py", "AIOpSchool/Kunst/jommeke/scripts/unet/unet_parts.py",
+			  "AIOpSchool/Kunst/jommeke/scripts/models/netG-l1-discriminator-total-variation.torch"  
+			 ],
+		"Resource": "L",
+		"Description": "Automatisch inkleuren van Jommeke strips.",
+		"Name": "AI in de Kunst",
+		"BasePath": "AIOpSchool/Kunst/jommeke",
+		"ImageName": "cschranz/gpu-jupyter:v1.5_cuda-11.8_ubuntu-22.04_python-only"
 	}
 }

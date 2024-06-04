@@ -4,6 +4,7 @@ import torch
 from scripts.unet.unet_model import UNet
 from tqdm import tqdm
 import os
+import gc
 
 import numpy as np
 
@@ -17,11 +18,59 @@ import matplotlib.pyplot as plt
 import scripts.data as data
 import scripts.utils as utils
 
+
+import subprocess
+
+def get_gpu_memory_map():
+    """Get the current gpu usage.
+
+    Returns
+    -------
+    usage: dict
+        Keys are device ids as integers.
+        Values are memory usage as integers in MB.
+    """
+    result = subprocess.check_output(
+        [
+            'nvidia-smi', '--query-gpu=memory.used',
+            '--format=csv,nounits,noheader'
+        ])
+    result = result.decode('utf-8')
+    # Convert lines into a dictionary
+    gpu_memory = [int(x) for x in result.strip().split('\n')]
+    gpu_memory_map = dict(zip(range(len(gpu_memory)), gpu_memory))
+    return gpu_memory_map
+
+def find_lowest_value_index(dictionary):
+    if not dictionary:
+        return None  # Return None if the dictionary is empty
+
+    # Initialize variables to store the minimum value and its corresponding index
+    min_index = None
+    min_value = float('inf')  # Use infinity as the initial minimum value
+
+    # Iterate through the dictionary to find the minimum value and its index
+    for index, value in dictionary.items():
+        if value < min_value:
+            min_value = value
+            min_index = index
+
+    return min_index
+
+gpu_map = get_gpu_memory_map()
+
+print(gpu_map)
+print(str(find_lowest_value_index(gpu_map)))
+
+# Select the gpu with the least memory used.
+print(",".join([str(key) for key in gpu_map.keys()]))
+os.environ["CUDA_VISIBLE_DEVICES"] = ",".join([str(key) for key in gpu_map.keys()])
+
 max_dim = 700
 
 no_cuda = False
 use_cuda = torch.cuda.is_available() and not no_cuda
-device = torch.device('cuda' if use_cuda else 'cpu')
+device = torch.device('cuda:' + str(find_lowest_value_index(gpu_map)) if use_cuda else 'cpu')
 
 def afbeeldingen_naar_dataset(filenames = ["./images/jommeke0.png"]):
     assigned_set = 'validation'
@@ -45,6 +94,7 @@ def afbeeldingen_naar_dataset(filenames = ["./images/jommeke0.png"]):
 
 def model_klaarmaken():
     print('running inference on ' + device.__str__())
+    torch.cuda.set_device(find_lowest_value_index(gpu_map))
     model = UNet(1, 3).to(device)
     model.load_state_dict(torch.load('scripts/models/netG-l1-discriminator-total-variation.torch', map_location=device))
     model.eval()
@@ -62,6 +112,12 @@ def afbeeldingen_naar_lijntekening(data_set):
         lijntekeningen.append(im)
     return lijntekeningen
     
+    
+def release_model_mem(model):
+    model.cpu()
+    del model
+    gc.collect()
+    torch.cuda.empty_cache()
     
 def kleur_afbeeldingen_inkleuren(model, data_set):
     # maak map voor uitvoer als die nog niet zou bestaan.
@@ -92,5 +148,7 @@ def kleur_afbeeldingen_inkleuren(model, data_set):
             a = a.astype(np.uint8)
             im = Image.fromarray(a)
             ingekleurd.append(im)
+    
+    release_model_mem(model)
     return ingekleurd
     
