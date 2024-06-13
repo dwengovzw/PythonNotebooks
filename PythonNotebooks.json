@@ -1700,7 +1700,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1710_en": {
-		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller.ipynb",
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0600_StomataTeller_en.ipynb",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/cclic.png",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/DL_stomata_methodology.png",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/fig_Ipomaea_eriocarpa_Faulkner_203424_blad1-vlak1.png",
@@ -1845,7 +1845,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1712_en": {
-		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolutie.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling.ipynb", 
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningBasis/0300_ReLUMaxPooling_en.ipynb", 
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/0200_Convolution_en.ipynb", 
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.npy",
@@ -1972,7 +1972,7 @@
 		"ImageName": "jupyter/tensorflow-notebook:ubuntu-22.04"
 	},
 	"1713_en": {
-		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting.ipynb", 
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningBasis/0400_Overfitting_en.ipynb", 
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialglasses.jpg", "en/AIOpSchool/KIKS/DeepLearningBasis/images/adversarialpanda.jpg",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/bamboe.npy",
 			   "en/AIOpSchool/KIKS/DeepLearningBasis/images/berlaymont.png", "en/AIOpSchool/KIKS/DeepLearningBasis/images/berlaymont.npy",
