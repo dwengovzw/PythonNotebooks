@@ -2113,7 +2113,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1751_en": {
-		"Files" : ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", 
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking_en.ipynb", 
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg", 
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/sobelfilter.gif", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber1.png",
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/convber2bis.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/boom.npy",
