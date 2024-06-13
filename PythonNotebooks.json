@@ -244,6 +244,26 @@
 		"Name" : "Standaardiseren",
 		"BasePath": "Wiskunde/Spreidingsdiagram"
 	},
+	"0207_en": {
+		"Files" : ["en/Wiskunde/Spreidingsdiagram/0900_Standaardiseren.ipynb", 
+			   "en/Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "en/Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
+			   "en/Wiskunde/Spreidingsdiagram/data/anscombe3.csv", "en/Wiskunde/Spreidingsdiagram/data/anscombe4.csv",
+			   "en/Wiskunde/Spreidingsdiagram/data/bevolkingbelgie.csv",   
+			   "en/Wiskunde/Spreidingsdiagram/data/data.csv", "en/Wiskunde/Spreidingsdiagram/data/data2.csv",
+			   "en/Wiskunde/Spreidingsdiagram/data/datastandaard1.dat", "en/Wiskunde/Spreidingsdiagram/data/datastandaard2.dat", "en/Wiskunde/Spreidingsdiagram/data/datastandaard3.dat", 
+			   "en/Wiskunde/Spreidingsdiagram/data/nmbsstations.csv", "en/Wiskunde/Spreidingsdiagram/data/oldfaithfulgeiser.csv",  "en/Wiskunde/Spreidingsdiagram/data/punten.csv", 
+			   "en/Wiskunde/Spreidingsdiagram/images/bevolking.png", "en/Wiskunde/Spreidingsdiagram/images/cclic.png", "en/Wiskunde/Spreidingsdiagram/images/csv.jpg",
+			   "en/Wiskunde/Spreidingsdiagram/images/dataenvisualisatie.png", "en/Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "en/Wiskunde/Spreidingsdiagram/images/logodwengo.png",
+			   "en/Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "en/Wiskunde/Spreidingsdiagram/images/schema.png", 
+			   "en/Wiskunde/Spreidingsdiagram/images/oldfaithful.jpg", "en/Wiskunde/Spreidingsdiagram/images/abstractiedwengo.png", "en/Wiskunde/Spreidingsdiagram/images/algoritmedwengo.png",
+			   "en/Wiskunde/Spreidingsdiagram/images/patroonherkenningdwengo.png", "en/Wiskunde/Spreidingsdiagram/images/debuggendwengo.png", "en/Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png",
+			   "en/Wiskunde/Spreidingsdiagram/images/sequentiedwengo.png",
+			   "en/Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "en/Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.png"],
+		"Resource" : "S",
+		"Description" : "Notebook uit leerlijn Spreidingsdiagram a.d.h.v. puntenwolk, standaardiseren en lineaire regressie",
+		"Name" : "Standaardiseren",
+		"BasePath": "en/Wiskunde/Spreidingsdiagram"
+	},
 	"0208": {
 		"Files" : ["Wiskunde/Spreidingsdiagram/0301_SpreidingsdiagramDataBestandPraktisch.ipynb",
 			   "Wiskunde/Spreidingsdiagram/data/anscombe1.csv", "Wiskunde/Spreidingsdiagram/data/anscombe2.csv",
@@ -2080,7 +2100,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1751": {
-		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking.ipynb", 
+		"Files" : ["AIOpSchool/KIKS/DeepLearningGevorderd/0200_ConvolutieBewerking_en.ipynb", 
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg", 
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/sobelfilter.gif", "AIOpSchool/KIKS/DeepLearningGevorderd/images/convber1.png",
 			   "AIOpSchool/KIKS/DeepLearningGevorderd/images/convber2bis.png", "AIOpSchool/KIKS/DeepLearningGevorderd/images/boom.npy",
@@ -2119,7 +2139,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1752_en": {
-		"Files" : ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht.ipynb",
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0400_ReLU_en.ipynb", "en/AIOpSchool/KIKS/DeepLearningGevorderd/0500_ReLUOpdracht_en.ipynb",
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/relu.png",  
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/schemanb.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/bannerugentdwengo.png",
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
@@ -2143,7 +2163,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook:cuda-11.8-latest"
 	},
 	"1760_en": {
-		"Files" : ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent.ipynb",
+		"Files" : ["en/AIOpSchool/KIKS/DeepLearningGevorderd/0300_GradientDescent_en.ipynb",
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/cclic.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/maxpooling.jpg",
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kiksmeisedwengougent.png", "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/kikssteun.png", 
 			   "en/AIOpSchool/KIKS/DeepLearningGevorderd/images/logosnb2.png"],
