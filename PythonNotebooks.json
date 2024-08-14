@@ -3067,5 +3067,21 @@
 		"Name": "AI in de Kunst",
 		"BasePath": "AIOpSchool/Kunst/jommeke",
 		"ImageName": "cschranz/gpu-jupyter:v1.5_cuda-11.8_ubuntu-22.04_python-only"
+	},
+	"visualisaties_en": {
+		"Files" : ["en/Visualisaties/1_introduction_to_matplotlib.ipynb", "en/Visualisaties/2_manipulating_data_with_pandas.ipynb", "en/Visualisaties/3_visualisation_exercises.ipynb",
+		"en/Visualisaties/data/most_populated_cities_per_continent.csv", "en/Visualisaties/data/olympic_medals.csv", "en/Visualisaties/data/revenues_per_music_format.csv", "en/Visualisaties/data/sample_data.csv"],
+		"Resource" : "S",
+		"Description" : "Leerlijn datavisualisatie in Python met Matplotlib",
+		"Name" : "Leren werken met Matplotlib",
+		"BasePath": "en/Visualisaties"
+	},
+	"predicties_en": {
+		"Files" : ["en/Predicties/1_linear_regression.ipynb", "en/Predicties/2_polynomial_regression.ipynb", "en/Predicties/3_combining_features.ipynb",
+		"en/Predicties/data/crop_yield.csv"],
+		"Resource" : "S",
+		"Description" : "Leerlijn voorspellende analyse in Python met Scikit-Learn",
+		"Name" : "Leren werken met Scikit-Learn",
+		"BasePath": "en/Predicties"
 	}
 }
