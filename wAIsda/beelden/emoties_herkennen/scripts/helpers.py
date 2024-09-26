@@ -51,7 +51,7 @@ def emoticons_inladen(bestandsnaam_afbeelding_raster, emotie):
     
     # Check of allevier de markers zijn gevonden.
     if len(id_lijst) != 4:
-        print("Niet alle markers zijn gevonden.")
+        print(f"Niet alle markers zijn gevonden zijn gevonden in afbeelding {bestandsnaam_afbeelding_raster}.")
         print("Probeer een nieuwe foto te maken van je raster waarop de markers duidelijk zichtbaar zijn en in focus zijn.")
         return [], []
     
