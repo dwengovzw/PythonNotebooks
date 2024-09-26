@@ -91,7 +91,7 @@ def laadt_bestanden_in_map_met_label(path, label):
     afbeeldingen = []
     labels = []
     for bestandsnaam in os.listdir(path):
-        if bestandsnaam.endswith('.png') or bestandsnaam.endswith('.jpg'):
+        if bestandsnaam.endswith('.png') or bestandsnaam.endswith('.jpg') or bestandsnaam.endswith('.jpeg'):
             afbeeldingen_emoticon, labels_emoticon = emoticons_inladen(os.path.join(path, bestandsnaam), label)
             afbeeldingen.extend(afbeeldingen_emoticon)
             labels.extend(labels_emoticon)
