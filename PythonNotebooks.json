@@ -13,7 +13,7 @@
 		"Files" : ["en/WerkingNotebooks/0100_Introduction_en.ipynb", "en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb", "en/WerkingNotebooks/0300_BasicFunctionalities_en.ipynb", 
 			   "en/WerkingNotebooks/0400_SaveNotebooks_en.ipynb", 
 			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
-			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg", "en/WerkingNotebooks/images/nbcopypaste.png", "en/WerkingNotebooks/images/nbknoppen.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
 		"Name" : "Leren werken met de notebooks",
@@ -22,7 +22,7 @@
 	"0101": {
 		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb",
 			   "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", 
-			   "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+			   "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg", "WerkingNotebooks/images/nbcopypaste.png", "WerkingNotebooks/images/nbknoppen.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
 		"Name" : "Leren werken met de notebooks",
@@ -31,7 +31,7 @@
 	"0101_en": {
 		"Files" : ["en/WerkingNotebooks/0100_Introduction_en.ipynb", "en/WerkingNotebooks/0200_WalkThroughNotebook_en.ipynb",
 			   "en/WerkingNotebooks/images/cclic.png", "en/WerkingNotebooks/images/logodwengo.png", "en/WerkingNotebooks/images/knipknop.jpg", 
-			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg"],
+			   "en/WerkingNotebooks/images/knipcopypasteknop.jpg", "en/WerkingNotebooks/images/runknop.jpg", "en/WerkingNotebooks/images/nbcopypaste.png", "en/WerkingNotebooks/images/nbknoppen.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
 		"Name" : "Leren werken met de notebooks",
