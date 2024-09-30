@@ -3,7 +3,7 @@
 		"Files" : ["WerkingNotebooks/0100_Introductie.ipynb", "WerkingNotebooks/0200_DoorlopenNotebook.ipynb", "WerkingNotebooks/0300_Basisfunctionaliteiten.ipynb", 
 			   "WerkingNotebooks/0400_NotebooksOpslaan.ipynb", 
 			   "WerkingNotebooks/images/cclic.png", "WerkingNotebooks/images/logodwengo.png", "WerkingNotebooks/images/knipknop.jpg", 
-			   "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg"],
+			   "WerkingNotebooks/images/knipcopypasteknop.jpg", "WerkingNotebooks/images/runknop.jpg", "WerkingNotebooks/images/nbcopypaste.png", "WerkingNotebooks/images/nbknoppen.png"],
 		"Resource" : "S",
 		"Description" : "Leerlijn Leren werken met de notebooks, uitgebreid met sneltoetsen, printen en opslaan",
 		"Name" : "Leren werken met de notebooks",
