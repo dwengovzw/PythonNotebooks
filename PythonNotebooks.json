@@ -2834,6 +2834,14 @@
 		"Name": "Numerieke methodes",
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
+	"6550": {
+		"Files": ["Programmeerelementen/Algoritmes/0810_McLaurin.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/logodwengo.png"],
+		"Resource": "S",
+		"Description": "Leerpad Numerieke methodes",
+		"Name": "Numerieke methodes",
+		"BasePath": "Programmeerelementen/Algoritmes"
+	},
 	"9010": {
 		"Files": ["AIOpSchool/Kunst/turtle/0100_Turtle_en.ipynb",
 			  "AIOpSchool/Kunst/turtle/images/cclic.png", "AIOpSchool/Kunst/turtle/images/abstractiedwengo.png", "AIOpSchool/Kunst/turtle/images/algoritmedwengo.png", 
