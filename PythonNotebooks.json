@@ -489,6 +489,7 @@
 		"Files" : ["Wiskunde/Spreidingsdiagram/2000_RegressieSchuineWorp.ipynb",  
 			   "Wiskunde/Spreidingsdiagram/data/klimtemp.csv", "Wiskunde/Spreidingsdiagram/data/schuineworp2.csv",
 		           "Wiskunde/Spreidingsdiagram/images/cclic.png", "Wiskunde/Spreidingsdiagram/images/logobavo.jpg", 
+			   "Wiskunde/Spreidingsdiagram/images/bannerugentdwengo.png",
 			   "Wiskunde/Spreidingsdiagram/images/decompositiedwengo.png", "Wiskunde/Spreidingsdiagram/images/logodwengo.png",
 			   "Wiskunde/Spreidingsdiagram/images/overeenkomst.png", "Wiskunde/Spreidingsdiagram/images/schema.png", 
 			   "Wiskunde/Spreidingsdiagram/images/schemadatainlezen.png", "Wiskunde/Spreidingsdiagram/images/spreidingsdiagram.jpg"],
