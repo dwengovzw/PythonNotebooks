@@ -3023,6 +3023,21 @@
 		"BasePath": "wAIsda/beelden/emoties_herkennen",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
+	"waisda_teachable_machine": {
+		"Files": [ 
+			"wAIsda/beelden/teachable_machine/teachable_machine.ipynb",
+			"wAIsda/beelden/teachable_machine/images/neural_network_with_extra_layer.svg",
+			"wAIsda/beelden/teachable_machine/images/neural_network_with_labels_and_layer_highlight.svg",
+			"wAIsda/beelden/teachable_machine/images/neural_network_with_labels_fat_lines.svg",
+			"wAIsda/beelden/teachable_machine/images/neural_network_with_labels.svg",
+			"wAIsda/beelden/teachable_machine/images/neural_network.svg"
+		],
+		"Resource": "L",
+		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
+		"Name": "Emotiedetectie",
+		"BasePath": "wAIsda/beelden/emoties_herkennen",
+		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
+	},
 	"physical_computing_fysica_valbeweging": {
 		"Files": [ "PhysicalComputing/Fysica/Valbeweging/valbeweging.ipynb",
 					"PhysicalComputing/Fysica/Valbeweging/data/valbeweging1.csv"
