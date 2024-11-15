@@ -3114,8 +3114,8 @@
 		],
 		"Resource": "L",
 		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
-		"Name": "Emotiedetectie",
-		"BasePath": "wAIsda/beelden/emoties_herkennen",
+		"Name": "DIY teachable machine",
+		"BasePath": "wAIsda/beelden/teachable_machine",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"physical_computing_fysica_valbeweging": {
