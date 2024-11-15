@@ -3031,6 +3031,7 @@
 			"wAIsda/beelden/teachable_machine/images/neural_network_with_labels_fat_lines.svg",
 			"wAIsda/beelden/teachable_machine/images/neural_network_with_labels.svg",
 			"wAIsda/beelden/teachable_machine/images/neural_network.svg",
+			"wAIsda/beelden/teachable_machine/scripts/helpers.py",
 			"wAIsda/beelden/teachable_machine/dataset/pmd/pmd_1.jpg",
 			"wAIsda/beelden/teachable_machine/dataset/pmd/pmd_2.jpg",
 			"wAIsda/beelden/teachable_machine/dataset/pmd/pmd_3.jpg",
@@ -3113,7 +3114,7 @@
 			"wAIsda/beelden/teachable_machine/dataset/papier/papier_40.jpg"
 		],
 		"Resource": "L",
-		"Description": "Leer hoe je aan de hand van een neuraal netwerk de emoties van smileys kan herkennen.",
+		"Description": "Leer hoe de teachable machine van Google achter de schermen werkt.",
 		"Name": "DIY teachable machine",
 		"BasePath": "wAIsda/beelden/teachable_machine",
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
