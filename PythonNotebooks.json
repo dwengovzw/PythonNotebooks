@@ -3033,6 +3033,7 @@
 			"wAIsda/beelden/teachable_machine/images/neural_network.svg",
 			"wAIsda/beelden/teachable_machine/images/voorbeeld_one_hot.png",
 			"wAIsda/beelden/teachable_machine/scripts/helpers.py",
+			"wAIsda/beelden/teachable_machine/scripts/test_het_model_lokaal.py",
 			"wAIsda/beelden/teachable_machine/dataset/pmd/pmd_1.jpg",
 			"wAIsda/beelden/teachable_machine/dataset/pmd/pmd_2.jpg",
 			"wAIsda/beelden/teachable_machine/dataset/pmd/pmd_3.jpg",
