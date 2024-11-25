@@ -1,9 +1,22 @@
+import subprocess
+import sys
+
+# List of required packages
+required_packages = ["opencv-python", "numpy", "tensorflow"]
+
+# Install required packages
+for package in required_packages:
+    try:
+        __import__(package)
+    except ImportError:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
 import cv2
 import numpy as np
 import tensorflow as tf
 
 # Load the model
-uitgebreid_model = tf.keras.models.load_model("wAIsda\\beelden\\teachable_machine\\scripts\\model.keras")
+uitgebreid_model = tf.keras.models.load_model("model.h5")
 
 img_size = (224, 224)
 
