@@ -10,22 +10,17 @@ import tensorflow as tf
 #os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 
-import random
-
-# List all physical GPUs
-physical_devices = tf.config.list_physical_devices('GPU')
-
-# Randomly select a GPU
-selected_gpu = random.choice(physical_devices)
-
 # Limit the GPU memory growth
-tf.config.experimental.set_memory_growth(selected_gpu, True)
+physical_devices = tf.config.list_physical_devices('GPU')
+print(physical_devices)
+for device in physical_devices:
+    tf.config.experimental.set_memory_growth(device, True)
 
-# Set a memory limit (e.g., 2 GB)
-tf.config.experimental.set_virtual_device_configuration(
-    selected_gpu,
-    [tf.config.experimental.VirtualDeviceConfiguration(memory_limit=2048)]
-)
+    # Set a memory limit (e.g., 2 GB)
+    tf.config.experimental.set_virtual_device_configuration(
+        device,
+        [tf.config.experimental.VirtualDeviceConfiguration(memory_limit=2048)]
+    )
 
 def laadt_bestanden_in_map_met_label(path, label):
     afbeeldingen = []
