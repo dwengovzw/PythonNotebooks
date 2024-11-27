@@ -19,7 +19,7 @@ for device in physical_devices:
     # Set a memory limit (e.g., 2 GB)
     tf.config.experimental.set_virtual_device_configuration(
         device,
-        [tf.config.experimental.VirtualDeviceConfiguration(memory_limit=1024)]
+        [tf.config.experimental.VirtualDeviceConfiguration(memory_limit=256)]
     )
 
 def laadt_bestanden_in_map_met_label(path, label):
