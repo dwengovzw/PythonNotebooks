@@ -1,4 +1,8 @@
 import os
+
+# Suppress CUDA and other backend-related messages
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
 from PIL import Image
 import numpy as np
 import math
@@ -25,8 +29,7 @@ for device in physical_devices:
 # Supress warnings
 tf.get_logger().setLevel('ERROR')
 
-# Suppress CUDA and other backend-related messages
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
 
 
 import warnings
