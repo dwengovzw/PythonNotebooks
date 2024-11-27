@@ -67,87 +67,31 @@ def druk_imagenet_labels_af():
     # Extract and print labels
     imagenet_labels = [label for (imagenet_id, label, _) in decoded_labels]
     print(imagenet_labels)
-    
-    
-import cv2
-import matplotlib.pyplot as plt
-import threading
-import time
-import ipywidgets as widgets
-from IPython.display import display, clear_output
-
-# Global variables to control the live feed and store the captured frame
-running = True
-captured_frame = None  
-nn_model = None
-
-# Function to display the live webcam feed
-def live_feed():
-    global captured_frame, running
-
-    cap = cv2.VideoCapture(0)  # Open webcam
-    if not cap.isOpened():
-        print("Error: Could not open webcam.")
-        return
-    
-    while running:
-        ret, frame = cap.read()
-        if ret:
-            # create PIL image 
-            pil_image = Image.fromarray(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))
-            # Resize the image
-            pil_image = pil_image.resize((224, 224))
-            # predict the class of the image
-            prediction = nn_model.predict(np.expand_dims(np.array(pil_image), axis=0))
-            # Get the predicted class
-            mapped_labels_predicted = ["PMD" if np.argmax(label) == 0 else "Papier" for label in prediction]
-            time.sleep(1)
-            print(mapped_labels_predicted)
-            
-            captured_frame = frame
-            # Convert frame to RGB for matplotlib
-            frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-            clear_output(wait=True)  # Clear previous output
-            plt.imshow(frame_rgb)
-            plt.axis('off')
-            plt.show()
-        else:
-            print("Failed to grab frame")
-            break
         
-        time.sleep(1)  # Add a small delay for smoother updates
-
-    cap.release()
-
-# Function to capture an image when the button is clicked
-def capture_image(button):
-    global captured_frame
-    if captured_frame is not None:
-        # Save the captured frame
-        cv2.imwrite("captured_image.jpg", captured_frame)
-        print("Image captured and saved as 'captured_image.jpg'.")
-        # display the captured image
-        clear_output(wait=True)
-        plt.imshow(cv2.cvtColor(captured_frame, cv2.COLOR_BGR2RGB))
-        plt.axis('off')
-        plt.show()
-
-    else:
-        print("No frame available to capture.")
-        
-thread = None
-        
-def start_video_stream(model):
-    global captured_frame, running, thread, nn_model
-    nn_model = model
-    # Start the live feed in a separate thread
-    thread = threading.Thread(target=live_feed)
-    thread.start()
-
-    # Stop the live feed after 30 seconds (or when you manually interrupt)
-    time.sleep(15)
-    running = False
-    thread.join()  # Wait for the live feed thread to finish
-    print("Live feed stopped.")
     
+import urllib.parse
+from IPython.display import HTML
+
+def maak_jupyterhub_download_link(file_path, link_text="Download"):
+    """
+    Create a download link for a file in a JupyterHub environment.
+    """
+    # Extract the file name from the path
+    file_name = file_path.split("/")[-1]
+    
+    # Encode the file path for URL safety
+    encoded_file_path = urllib.parse.quote(file_path)
+    
+    # Construct the download URL
+    # Adjust the base URL as needed to match your JupyterHub's configuration
+    base_url = "/user-redirect/"  # Default user-redirect path in JupyterHub
+    download_url = f"{base_url}files/{encoded_file_path}"
+    
+    # Return an HTML download link
+    html = f"""
+    <a href="{download_url}" target="_blank" download="{file_name}">
+        {link_text}
+    </a>
+    """
+    return HTML(html)
  
