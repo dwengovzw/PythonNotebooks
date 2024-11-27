@@ -21,6 +21,16 @@ for device in physical_devices:
         device,
         [tf.config.experimental.VirtualDeviceConfiguration(memory_limit=512)]
     )
+    
+# Supress warnings
+tf.get_logger().setLevel('ERROR')
+
+# Suppress CUDA and other backend-related messages
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
+
+import warnings
+warnings.filterwarnings('ignore')
 
 def laadt_bestanden_in_map_met_label(path, label):
     afbeeldingen = []
