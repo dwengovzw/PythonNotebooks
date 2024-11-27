@@ -6,8 +6,19 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.applications.mobilenet import decode_predictions
 import tensorflow as tf
 
-import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+#import os
+#os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
+
+
+# Limit the GPU memory growth
+physical_devices = tf.config.list_physical_devices('GPU')
+tf.config.experimental.set_memory_growth(physical_devices[0], True)
+
+# Set a memory limit (e.g., 4 GB)
+tf.config.experimental.set_virtual_device_configuration(
+    physical_devices[0],
+    [tf.config.experimental.VirtualDeviceConfiguration(memory_limit=4096)]
+)
 
 def laadt_bestanden_in_map_met_label(path, label):
     afbeeldingen = []
