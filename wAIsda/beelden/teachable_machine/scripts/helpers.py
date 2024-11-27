@@ -4,6 +4,10 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 from tensorflow.keras.applications.mobilenet import decode_predictions
+import tensorflow as tf
+
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
 def laadt_bestanden_in_map_met_label(path, label):
     afbeeldingen = []
@@ -94,4 +98,5 @@ def maak_jupyterhub_download_link(file_path, link_text="Download"):
     </a>
     """
     return HTML(html)
- 
+
+
