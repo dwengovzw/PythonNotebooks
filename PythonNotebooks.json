@@ -3125,18 +3125,18 @@
 	},
 	"waisda_sociale_netwerken_euler": {
 		"Files": [ "wAIsda/sociale_netwerken/eulerpad/eulerpad.ipynb",
-		"waisda/sociale_netwerken/eulerpad/scripts/helpers.py",
-		"waisda/sociale_netwerken/eulerpad/img/euler1_graph.svg", 
-		"waisda/sociale_netwerken/eulerpad/img/euler1_graph_numbered.svg",
-		"waisda/sociale_netwerken/eulerpad/img/euler2_graph_numbered.svg",
-		"waisda/sociale_netwerken/eulerpad/img/euler3_graph_numbered.svg",
-		"waisda/sociale_netwerken/eulerpad/img/euler4_graph_numbered.svg",
-		"waisda/sociale_netwerken/eulerpad/img/koningsbergen_numbered.svg"
+		"wAIsda/sociale_netwerken/eulerpad/scripts/helpers.py",
+		"wAIsda/sociale_netwerken/eulerpad/img/euler1_graph.svg", 
+		"wAIsda/sociale_netwerken/eulerpad/img/euler1_graph_numbered.svg",
+		"wAIsda/sociale_netwerken/eulerpad/img/euler2_graph_numbered.svg",
+		"wAIsda/sociale_netwerken/eulerpad/img/euler3_graph_numbered.svg",
+		"wAIsda/sociale_netwerken/eulerpad/img/euler4_graph_numbered.svg",
+		"wAIsda/sociale_netwerken/eulerpad/img/koningsbergen_numbered.svg"
 		],
 		"Resource": "M",
 		"Description": "Leer hoe je een graaf kan voorstellen op de computer en hoe je de Eulerpad kan vinden in een graaf.",
 		"Name": "Eulerpad",
-		"BasePath": "waisda/sociale_netwerken/eulerpad"
+		"BasePath": "wAIsda/sociale_netwerken/eulerpad"
 	},
 	"physical_computing_fysica_valbeweging": {
 		"Files": [ "PhysicalComputing/Fysica/Valbeweging/valbeweging.ipynb",
