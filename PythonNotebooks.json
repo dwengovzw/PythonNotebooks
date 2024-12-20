@@ -3138,6 +3138,20 @@
 		"Name": "Eulerpad",
 		"BasePath": "wAIsda/sociale_netwerken/eulerpad"
 	},
+	"waisda_sociale_netwerken_dna": {
+		"Files": [ "wAIsda/sociale_netwerken/dna/dna.ipynb",
+		"wAIsda/sociale_netwerken/dna/scripts/helpers.py",
+		"wAIsda/sociale_netwerken/dna/img/dwengo-groen-zwart.png", 
+		"wAIsda/sociale_netwerken/dna/img/vlaio.png",
+		"wAIsda/sociale_netwerken/dna/img/splitting_dna_into_overlapping_sequences.png",
+		"wAIsda/sociale_netwerken/dna/sequenties/ms2_phage_genome_shotgun_30mers.txt",
+		"wAIsda/sociale_netwerken/dna/sequenties/ms2_phage_genome.txt"
+		],
+		"Resource": "M",
+		"Description": "Leer hoe je een DNA sequentie kan reconstrueren aan de hand van een graaf",
+		"Name": "Eulerpad",
+		"BasePath": "wAIsda/sociale_netwerken/dna"
+	},
 	"physical_computing_fysica_valbeweging": {
 		"Files": [ "PhysicalComputing/Fysica/Valbeweging/valbeweging.ipynb",
 					"PhysicalComputing/Fysica/Valbeweging/data/valbeweging1.csv"
