@@ -3152,6 +3152,17 @@
 		"Name": "Eulerpad",
 		"BasePath": "wAIsda/sociale_netwerken/dna"
 	},
+	"waisda_sociale_netwerken_super_sociaal_netwerk": {
+		"Files": [ "wAIsda/sociale_netwerken/super_sociaal_netwerk/super_sociaal_netwerk.ipynb",
+		"wAIsda/sociale_netwerken/super_sociaal_netwerk/dataset/hero-network-small-sample.csv",
+		"wAIsda/sociale_netwerken/super_sociaal_netwerk/img/dwengo-groen-zwart.png", 
+		"wAIsda/sociale_netwerken/super_sociaal_netwerk/img/vlaio.png"
+		],
+		"Resource": "M",
+		"Description": "Leer over hoe analyses gebeuren op sociale netwerken.",
+		"Name": "Super sociaal netwerk",
+		"BasePath": "wAIsda/sociale_netwerken/super_sociaal_netwerk"
+	},
 	"physical_computing_fysica_valbeweging": {
 		"Files": [ "PhysicalComputing/Fysica/Valbeweging/valbeweging.ipynb",
 					"PhysicalComputing/Fysica/Valbeweging/data/valbeweging1.csv"
