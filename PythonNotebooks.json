@@ -2819,9 +2819,11 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6530": {
-		"Files": ["Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannInleiding.ipynb",
-			 "Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
-			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png"],
+		"Files": ["Programmeerelementen/Algoritmes/0900_NumeriekeBepalingIntegralenRiemannInleiding.ipynb", 
+			  "Programmeerelementen/Algoritmes/0901_NumeriekeBepalingIntegralenRiemannRechthoek.ipynb",
+			  "Programmeerelementen/Algoritmes/0910_NumeriekeBepalingIntegralenRiemannTrapezium.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/bannerugentdwengo.png",
+		          "Programmeerelementen/Algoritmes/images/ptikortrijk.jpg"],
 		"Resource": "S",
 		"Description": "Leerpad Numerieke methodes",
 		"Name": "Numerieke methodes",
@@ -2844,8 +2846,10 @@
 		"BasePath": "Programmeerelementen/Algoritmes"
 	},
 	"6560": {
-		"Files": ["Programmeerelementen/Algoritmes/0850_MatricesGaussJordan.ipynb",
-			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/logodwengo.png"],
+		"Files": ["Programmeerelementen/Algoritmes/0850_MatricesGaussJordan.ipynb", 
+			  "Programmeerelementen/Algoritmes/0851_MatricesGaussJordan.ipynb",
+			  "Programmeerelementen/Algoritmes/images/cclic.png", "Programmeerelementen/Algoritmes/images/logodwengo.png", 
+			  "Programmeerelementen/Algoritmes/images/ptikortrijk.jpg"],
 		"Resource": "S",
 		"Description": "Leerpad Numerieke methodes",
 		"Name": "Numerieke methodes",
