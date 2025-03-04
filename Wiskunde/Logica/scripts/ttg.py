@@ -98,12 +98,15 @@ def solve_phrase(phrase):
         if len(phrase) == 1:
             return solve_phrase(phrase[0])
         # single operand operation
-        if len(phrase) == 2:
+        elif len(phrase) == 2:
             return OPERATIONS[phrase[0]](solve_phrase(phrase[1]))
         # double operand operation
-        else:
+        elif len(phrase) == 3:
             return OPERATIONS[phrase[1]](solve_phrase(phrase[0]),
                                          solve_phrase([phrase[2]]))
+        else:
+            print("A list of operations longer than 3 is not allowed, make sure you split te phrase in the correct subprases!")
+            return None
 
 
 def group_operations(phrase):
@@ -114,32 +117,34 @@ def group_operations(phrase):
         not, and, or, implication
     """
     if isinstance(phrase, list):
+        # if there are subphrases in their own list. Group them first.
         if any(isinstance(phrase_item, list) for phrase_item in phrase):
             for phrase_item in phrase:
-                index = phrase.index(phrase_item)
-                phrase[index] = group_operations(phrase_item)
-        else:
-            for operator in ['not', '~', '-']:
-                while operator in phrase:
-                    index = phrase.index(operator)
-                    phrase[index] = [operator, group_operations(phrase[index+1])]
-                    phrase.pop(index+1)
-            for operator in ['and', 'nand']:
-                while operator in phrase:
-                    index = phrase.index(operator)
-                    phrase[index] = [group_operations(phrase[index-1]),
-                                     operator,
-                                     group_operations(phrase[index+1])]
-                    phrase.pop(index+1)
-                    phrase.pop(index-1)
-            for operator in ['or', 'nor', 'xor']:
-                while operator in phrase:
-                    index = phrase.index(operator)
-                    phrase[index] = [group_operations(phrase[index-1]),
-                                    operator,
-                                    group_operations(phrase[index+1])]
-                    phrase.pop(index+1)
-                    phrase.pop(index-1)
+                if isinstance(phrase_item, list):
+                    index = phrase.index(phrase_item)
+                    phrase[index] = group_operations(phrase_item)
+        
+        for operator in ['not', '~', '-']:
+            while operator in phrase:
+                index = phrase.index(operator)
+                phrase[index] = [operator, group_operations(phrase[index+1])]
+                phrase.pop(index+1)
+        for operator in ['and', 'nand']:
+            while operator in phrase:
+                index = phrase.index(operator)
+                phrase[index] = [group_operations(phrase[index-1]),
+                                 operator,
+                                 group_operations(phrase[index+1])]
+                phrase.pop(index+1)
+                phrase.pop(index-1)
+        for operator in ['or', 'nor', 'xor']:
+            while operator in phrase:
+                index = phrase.index(operator)
+                phrase[index] = [group_operations(phrase[index-1]),
+                                operator,
+                                group_operations(phrase[index+1])]
+                phrase.pop(index+1)
+                phrase.pop(index-1)
     return phrase
 
 
