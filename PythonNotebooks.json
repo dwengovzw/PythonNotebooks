@@ -3029,7 +3029,7 @@
 		"ImageName": "gitlab.ilabt.imec.be:4567/ilabt/gpu-docker-stacks/tensorflow-notebook"
 	},
 	"waisda_beelden_emoties_fr": {
-		"Files": [ "wAIsda/beelden/emoties_herkennen/emoties.ipynb",
+		"Files": [ "wAIsda/fr/beelden/emoties_herkennen/emoties.ipynb",
 		"wAIsda/fr/beelden/emoties_herkennen/dataset/blij",
 		"wAIsda/fr/beelden/emoties_herkennen/dataset/verbaasd",
 		"wAIsda/fr/beelden/emoties_herkennen/images/formaat_labels.png",
