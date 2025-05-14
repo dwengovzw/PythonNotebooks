@@ -3030,8 +3030,8 @@
 	},
 	"waisda_beelden_emoties_fr": {
 		"Files": [ "wAIsda/fr/beelden/emoties_herkennen/emoties.ipynb",
-		"wAIsda/fr/beelden/emoties_herkennen/dataset/blij",
-		"wAIsda/fr/beelden/emoties_herkennen/dataset/verbaasd",
+		"wAIsda/fr/beelden/emoties_herkennen/dataset/heureux",
+		"wAIsda/fr/beelden/emoties_herkennen/dataset/etonne",
 		"wAIsda/fr/beelden/emoties_herkennen/images/formaat_labels.png",
 		"wAIsda/fr/beelden/emoties_herkennen/images/hoe_uploaden.png",
 		"wAIsda/fr/beelden/emoties_herkennen/images/neural_network_visualized.png",
