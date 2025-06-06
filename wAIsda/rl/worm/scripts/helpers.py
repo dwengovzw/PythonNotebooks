@@ -146,3 +146,87 @@ class Worm:
         ax.set_ylim(0, 1.5)
         ax.axis('off')
         plt.show()
+
+
+import matplotlib.pyplot as plt
+from matplotlib.patches import Rectangle
+from IPython.display import display
+from copy import copy, deepcopy
+from matplotlib.animation import FuncAnimation
+
+class WormMatplotlibAnimator:
+    def __init__(self, worm, scale=1.0):
+        self.worm = Worm(len(worm))  # Create a new Worm instance with the same length
+        self.worm.segments = deepcopy(worm.segmenten())
+        self.worm.segment_positions = deepcopy(worm.posities_van_de_segmenten())
+        self.scale = scale
+        
+        self.fig, self.ax = plt.subplots()
+        self.ax.set_aspect('equal')
+        self.ax.set_ylim(0, 2)
+        self.ax.get_yaxis().set_visible(False)
+        self.ax.set_xlim(-1, max(worm.posities_van_de_segmenten()) * scale + 30)
+
+        self.patches = []
+        self.draw_initial_worm()
+
+    def draw_initial_worm(self):
+        for state, pos in zip(self.worm.segmenten(), self.worm.posities_van_de_segmenten()):
+            rect = self.make_patch(state, pos)
+            self.ax.add_patch(rect)
+            self.patches.append(rect)
+        self.fig.canvas.draw()
+        self.fig.canvas.flush_events()
+
+    def make_patch(self, state, pos):
+        x = pos * self.scale
+        if state == self.worm.states["CONTRACTED"]:
+            return Rectangle((x - self.scale, 0), self.scale, self.scale, color='blue')
+        else:
+            return Rectangle((x - 2 * self.scale, self.scale/4), 2 * self.scale, 0.5 * self.scale, color='green')
+
+    def update_patches(self):
+        # Remove old patches
+        for patch in self.patches:
+            patch.remove()
+        self.patches = []
+
+        for state, pos in zip(self.worm.segmenten(), self.worm.posities_van_de_segmenten()):
+            rect = self.make_patch(state, pos)
+            self.ax.add_patch(rect)
+            self.patches.append(rect)
+
+        self.fig.canvas.draw()
+        self.fig.canvas.flush_events()
+        
+        
+    def update(self, worm):
+        """
+        Update the internal worm and redraw the patches.
+        This method is called to update the worm's state and redraw it.
+        """
+        assert isinstance(worm, Worm), "Argument must be a Worm instance"
+        assert len(worm) == len(self.worm), "Worm length mismatch"
+
+        # Update internal worm's segments and segment_positions
+        self.worm.segments = deepcopy(worm.segmenten())
+        self.worm.segment_positions = deepcopy(worm.posities_van_de_segmenten())
+
+        # Redraw the worm
+        self.update_patches()
+        
+from IPython.display import Video
+
+def create_worm_animation(worm_states, scale=1.0, interval=500, filename="worm_animation.mp4"):
+    """
+    Create an animation of the worm's states.
+    
+    Parameters:
+    - worm_states: List of Worm instances representing the states of the worm.
+    - scale: Scaling factor for the worm's size.
+    - interval: Time interval between frames in milliseconds.
+    """
+    animator = WormMatplotlibAnimator(worm_states[0], scale)
+    anim = FuncAnimation(animator.fig, animator.update, frames=worm_states, interval=interval, repeat=False)
+    anim.save(filename, writer="ffmpeg", fps=1)
+    Video(filename, width=640, height=360)

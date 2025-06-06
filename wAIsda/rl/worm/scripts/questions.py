@@ -1,6 +1,6 @@
 import json
 import ipywidgets as widgets
-from IPython.display import display, clear_output
+from IPython.display import display, clear_output, HTML, Javascript
 
 class Questions:
     def __init__(self):
@@ -17,6 +17,8 @@ class Questions:
             self.display_multi_choice(q)
         elif q["type"] == "matching":
             self.display_matching_question(q)
+        elif q["type"] == "matching_dragdrop":
+            self.display_matching_dragdrop(question_id=hash(q["question"]) % 10000, q=q)
         elif q["type"] == "open":
             self.display_open_question(q)
         else:
@@ -119,6 +121,96 @@ class Questions:
         submit_button.on_click(on_submit)
 
         display(widgets.VBox(list(dropdowns.values()) + [submit_button, output]))
+        
+    def display_matching_dragdrop(self, question_id, q):
+        left_items = q["left"]
+        right_items = q["right"]
+        correct_answer = q["answer"]
+
+        html = f"""
+        <style>
+            .drag-container {{
+                display: flex;
+                gap: 50px;
+                margin-bottom: 20px;
+            }}
+            .column {{
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+            }}
+            .dropzone {{
+                border: 2px dashed #aaa;
+                padding: 10px;
+                min-width: 100px;
+                min-height: 20px;
+            }}
+            .draggable {{
+                padding: 5px 10px;
+                background-color: #f0f0f0;
+                border: 1px solid #ccc;
+                cursor: move;
+            }}
+        </style>
+
+        <div class="drag-container" id="dragmatch-{question_id}">
+            <div class="column">
+                <h4>Countries</h4>
+                {''.join(f'<div>{country}<div class="dropzone" data-country="{country}"></div></div>' for country in left_items)}
+            </div>
+            <div class="column">
+                <h4>Capitals</h4>
+                {''.join(f'<div class="draggable" draggable="true" data-capital="{capital}">{capital}</div>' for capital in right_items)}
+            </div>
+        </div>
+
+        <button onclick="checkMatch_{question_id}()">Submit</button>
+        <div id="result-{question_id}"></div>
+
+        <script>
+            const draggables = document.querySelectorAll('#dragmatch-{question_id} .draggable');
+            const dropzones = document.querySelectorAll('#dragmatch-{question_id} .dropzone');
+
+            draggables.forEach(elem => {{
+                elem.addEventListener('dragstart', e => {{
+                    e.dataTransfer.setData('text/plain', e.target.dataset.capital);
+                }});
+            }});
+
+            dropzones.forEach(zone => {{
+                zone.addEventListener('dragover', e => {{
+                    e.preventDefault();
+                }});
+                zone.addEventListener('drop', e => {{
+                    e.preventDefault();
+                    const capital = e.dataTransfer.getData('text/plain');
+                    zone.textContent = capital;
+                    zone.dataset.selected = capital;
+                }});
+            }});
+
+            function checkMatch_{question_id}() {{
+                const correct = {correct_answer};
+                let correctCount = 0;
+                let total = 0;
+                dropzones.forEach(zone => {{
+                    const country = zone.dataset.country;
+                    const selected = zone.dataset.selected;
+                    total++;
+                    if (correct[country] === selected) {{
+                        correctCount++;
+                    }}
+                }});
+                const result = document.getElementById('result-{question_id}');
+                if (correctCount === total) {{
+                    result.innerHTML = "✅ Correct!";
+                }} else {{
+                    result.innerHTML = '❌' +  correctCount + ' out of ' + total + ' correct.';
+                }}
+            }}
+        </script>
+        """
+        display(HTML(html))
         
     def stel_vraag(self, index=0):
         if 0 <= index < len(self.questions):

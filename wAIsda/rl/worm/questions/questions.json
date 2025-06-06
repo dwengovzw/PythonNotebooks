@@ -1,5 +1,29 @@
 [
   {
+  "type": "matching",
+  "question": "Match de begrippen met de juiste principes van het versterkend leren.",
+  "left": ["Agent", "Omgeving", "Toestand", "Acties", "Beloning"],
+  "right": ["De vorm van de worm (bv. LLKKL)", "De afstand die de worm heeft afgelegd.", "Een segment lang of kort maken.", "De grond", "De worm"],
+  "answer": {
+    "Agent": "De worm",
+    "Omgeving": "De grond",
+    "Toestand": "De vorm van de worm (bv. LLKKL)",
+    "Acties": "Een segment lang of kort maken.",
+    "Beloning": "De afstand die de worm heeft afgelegd."
+    }
+  },
+  {
+  "type": "matching_dragdrop",
+  "question": "Match the countries to their capitals.",
+  "left": ["France", "Germany", "Spain"],
+  "right": ["Berlin", "Madrid", "Paris"],
+  "answer": {
+    "France": "Paris",
+    "Germany": "Berlin",
+    "Spain": "Madrid"
+    }
+  },
+  {
     "type": "open",
     "question": "Wat is in dit probleem de agent?",
     "answer": ["worm", "de worm", "een worm"]
