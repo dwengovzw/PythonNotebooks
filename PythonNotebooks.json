@@ -3231,9 +3231,9 @@
 		"wAIsda/rl/worm/img/vlaio.png"
 		],
 		"Resource": "M",
-		"Description": "Leer over hoe analyses gebeuren op sociale netwerken.",
-		"Name": "Super sociaal netwerk",
-		"BasePath": "wAIsda/sociale_netwerken/super_sociaal_netwerk"
+		"Description": "Leer hoe je een worm leert om te kruipen aan de hand van versterkend leren.",
+		"Name": "Versterkend leren met een worm",
+		"BasePath": "wAIsda/rl/worm"
 	},
 	"physical_computing_fysica_valbeweging": {
 		"Files": [ "PhysicalComputing/Fysica/Valbeweging/valbeweging.ipynb",
