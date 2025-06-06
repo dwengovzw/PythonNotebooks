@@ -13,20 +13,14 @@
     }
   },
   {
-  "type": "matching_dragdrop",
-  "question": "Match the countries to their capitals.",
-  "left": ["France", "Germany", "Spain"],
-  "right": ["Berlin", "Madrid", "Paris"],
-  "answer": {
-    "France": "Paris",
-    "Germany": "Berlin",
-    "Spain": "Madrid"
-    }
+    "type": "open",
+    "question": "Hoeveel verschillende toestanden kan een worm met 3 segmenten hebben?",
+    "answer": ["8", "acht", "8 toestanden", "acht toestanden"]
   },
   {
     "type": "open",
-    "question": "Wat is in dit probleem de agent?",
-    "answer": ["worm", "de worm", "een worm"]
+    "question": "Hoeveel verschillende acties zijn er mogelijk voor een worm met 3 segmenten?",
+    "answer": ["6", "zes", "6 acties", "zes acties"]
   },
   {
     "type": "multiple_choice",

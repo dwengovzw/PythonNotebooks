@@ -102,6 +102,11 @@ class Worm:
     def positie_van_het_hoofd(self):
         if self.segment_positions:
             return self.segment_positions[len(self.segment_positions) - 1]  # Return the position of the last segment
+        
+    def toestand(self):
+        string_state = ''.join(['L' if state == self.states['EXPANDED'] else 'K' for state in self.segments])
+        tuple_state = tuple(string_state)
+        return tuple_state
     
     # String representation of the worm
     def __str__(self):
@@ -230,3 +235,21 @@ def create_worm_animation(worm_states, scale=1.0, interval=500, filename="worm_a
     anim = FuncAnimation(animator.fig, animator.update, frames=worm_states, interval=interval, repeat=False)
     anim.save(filename, writer="ffmpeg", fps=1)
     Video(filename, width=640, height=360)
+    
+from itertools import product
+import numpy as np
+def maak_q_tabel(aantal_segmenten):
+    toestanden = list(product("KL", repeat= aantal_segmenten))
+    acties = []
+    for i in range(3):
+        acties.append("L" + str(i + 1))
+        acties.append("K" + str(i + 1))
+    q_tabel = np.zeros((len(toestanden), len(acties)))
+    
+    return q_tabel, toestanden, acties
+
+def print_q_tabel(q_tabel, toestanden, acties):
+    print("Q-tabel:")
+    print("Toestand\t" + "\t".join([''.join(map(str, actie)) for actie in acties]))
+    for i, toestand in enumerate(toestanden):
+        print(f"{''.join(map(str, toestand))}\t\t" + "\t".join(map(str, q_tabel[i])))
