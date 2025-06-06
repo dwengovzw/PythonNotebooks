@@ -3223,6 +3223,16 @@
 		"Name": "Super sociaal netwerk",
 		"BasePath": "wAIsda/sociale_netwerken/super_sociaal_netwerk"
 	},
+	"waisda_rl_worm": {
+		"Files": [ "wAIsda/rl/worm/worm.ipynb",
+		"wAIsda/rl/worm/scripts/helpers.py",
+		"wAIsda/rl/worm/img/vlaio.png"
+		],
+		"Resource": "M",
+		"Description": "Leer over hoe analyses gebeuren op sociale netwerken.",
+		"Name": "Super sociaal netwerk",
+		"BasePath": "wAIsda/sociale_netwerken/super_sociaal_netwerk"
+	},
 	"physical_computing_fysica_valbeweging": {
 		"Files": [ "PhysicalComputing/Fysica/Valbeweging/valbeweging.ipynb",
 					"PhysicalComputing/Fysica/Valbeweging/data/valbeweging1.csv"
