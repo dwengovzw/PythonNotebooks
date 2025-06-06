@@ -3226,6 +3226,8 @@
 	"waisda_rl_worm": {
 		"Files": [ "wAIsda/rl/worm/worm.ipynb",
 		"wAIsda/rl/worm/scripts/helpers.py",
+		"wAIsda/rl/worm/scripts/questions.py",
+		"wAIsda/rl/worm/questions/questions.json",
 		"wAIsda/rl/worm/img/vlaio.png"
 		],
 		"Resource": "M",
