@@ -250,6 +250,48 @@ def maak_q_tabel(aantal_segmenten):
 
 def print_q_tabel(q_tabel, toestanden, acties):
     print("Q-tabel:")
-    print("Toestand\t" + "\t".join([''.join(map(str, actie)) for actie in acties]))
+    print("Toestand\\actie\t" + "\t".join([''.join(map(str, actie)) for actie in acties]))
     for i, toestand in enumerate(toestanden):
-        print(f"{''.join(map(str, toestand))}\t\t" + "\t".join(map(str, q_tabel[i])))
+        print(f"{''.join(map(str, toestand))}\t\t" + "\t".join(map(lambda x: str("%.2f" % round(x, 2)), q_tabel[i])))
+        
+        
+def voer_policy_uit(q_tabel, toestanden, acties, bestandsnaam="worm_geleerde_policy.mp4"):
+    worm_length = q_tabel.shape[1]//2 # Number of segments is half the number of actions
+    # Execute the learned policy and add the states to the worm_states list
+    worm_toestanden = []
+    worm = Worm(worm_length)
+    toestand_index = toestanden.index(worm.toestand())
+    worm_toestanden.append(deepcopy(worm))
+    for stap in range(100):
+        actie_index = np.argmax(q_tabel[toestand_index])  # Choose the action with the highest Q-value
+        action = acties[actie_index]
+        index = int(action[1])
+        if action[0] == 'E':
+            worm.maak_segment_langer(index)
+        else:
+            worm.maak_segment_korter(index)
+            
+        nieuwe_toestand_index = toestanden.index(worm.toestand())
+        worm_toestanden.append(deepcopy(worm))
+        toestand_index = nieuwe_toestand_index
+        
+    # Create the animation of the learned policy
+    create_worm_animation(worm_toestanden, scale=1.0, interval=500, filename=bestandsnaam)
+    
+    
+def lees_bestaande_q_tabel(bestandsnaam):
+    """
+    Lees een bestaande Q-tabel uit een npy bestand.
+    
+    Parameters:
+    - bestandsnaam: Naam van het bestand waarin de Q-tabel is opgeslagen.
+    
+    Returns:
+    - q_tabel: De geladen Q-tabel.
+    """
+    try:
+        q_tabel = np.load(bestandsnaam)
+        return q_tabel
+    except FileNotFoundError:
+        print(f"Bestand {bestandsnaam} niet gevonden.")
+        return None
