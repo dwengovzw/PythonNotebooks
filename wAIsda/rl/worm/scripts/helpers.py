@@ -1,6 +1,7 @@
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+from copy import deepcopy
 
 # Maak een worm klasse die n segmenten heeft, een segment kan ofwel lang ofwel kort zijn.
 class Worm:
@@ -108,6 +109,20 @@ class Worm:
         tuple_state = tuple(string_state)
         return tuple_state
     
+    def toestand_kopie(self):
+        """
+        Returns a copy of the current state of the worm.
+        This is useful for saving the state before making changes.
+        """
+        return deepcopy(self.toestand())
+    
+    def maak_kopie(self):
+        """
+        Returns a deep copy of the current worm instance.
+        This is useful for saving the state before making changes.
+        """
+        return deepcopy(self)
+    
     # String representation of the worm
     def __str__(self):
         return ''.join(['L' if state == self.states['EXPANDED'] else 'K' for state in self.segments])
@@ -186,9 +201,9 @@ class WormMatplotlibAnimator:
     def make_patch(self, state, pos):
         x = pos * self.scale
         if state == self.worm.states["CONTRACTED"]:
-            return Rectangle((x - self.scale, 0), self.scale, self.scale, color='blue')
+            return Rectangle((x - self.scale, 0), self.scale, self.scale, color='pink')
         else:
-            return Rectangle((x - 2 * self.scale, self.scale/4), 2 * self.scale, 0.5 * self.scale, color='green')
+            return Rectangle((x - 2 * self.scale, self.scale/4), 2 * self.scale, 0.5 * self.scale, color='pink')
 
     def update_patches(self):
         # Remove old patches
@@ -277,6 +292,9 @@ def voer_policy_uit(q_tabel, toestanden, acties, bestandsnaam="worm_geleerde_pol
         
     # Create the animation of the learned policy
     create_worm_animation(worm_toestanden, scale=1.0, interval=500, filename=bestandsnaam)
+    
+def maak_animatie_van_worm(toestanden_van_de_worm, bestandsnaam="worm_animatie.mp4"):
+    create_worm_animation(toestanden_van_de_worm, scale=1.0, interval=500, filename=bestandsnaam)
     
     
 def lees_bestaande_q_tabel(bestandsnaam):

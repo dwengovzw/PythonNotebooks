@@ -3233,7 +3233,8 @@
 		"wAIsda/rl/worm/img/worm_contracted.png",
 		"wAIsda/rl/worm/img/worm_expanded_segment.png",
 		"wAIsda/rl/worm/img/worm_long_and_short_muscles.png",
-		"wAIsda/rl/worm/img/worm_long_muscles.png"
+		"wAIsda/rl/worm/img/worm_long_muscles.png",
+		"wAIsda/rl/worm/bestanden/q_tabel_korte_worm.npy"
 		],
 		"Resource": "M",
 		"Description": "Leer hoe je een worm leert om te kruipen aan de hand van versterkend leren.",
