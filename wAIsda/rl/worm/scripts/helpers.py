@@ -249,7 +249,7 @@ def create_worm_animation(worm_states, scale=1.0, interval=500, filename="worm_a
     animator = WormMatplotlibAnimator(worm_states[0], scale)
     anim = FuncAnimation(animator.fig, animator.update, frames=worm_states, interval=interval, repeat=False)
     anim.save(filename, writer="ffmpeg", fps=fps)
-    Video(filename, width=640, height=360)
+    # Video(filename, width=640, height=360) 
     
 from itertools import product
 import numpy as np
@@ -294,7 +294,7 @@ def voer_policy_uit(q_tabel, toestanden, acties, bestandsnaam="worm_geleerde_pol
     create_worm_animation(worm_toestanden, scale=1.0, interval=500, filename=bestandsnaam)
     
 def maak_animatie_van_worm(toestanden_van_de_worm, bestandsnaam="worm_animatie.mp4", interval=500, fps=1):
-    create_worm_animation(toestanden_van_de_worm, scale=1.0, interval=interval, filename=bestandsnaam, fps=fps)
+    return create_worm_animation(toestanden_van_de_worm, scale=1.0, interval=interval, filename=bestandsnaam, fps=fps)
     
     
 def lees_bestaande_q_tabel(bestandsnaam):
