@@ -3377,6 +3377,6 @@
 		"Description" : "Leerpad Basis van Deep learning",
 		"Name" : "Basis Deep Learning",
 		"BasePath": "AIOpSchool/KIKS/DeepLearningBasis",
-		"ImageName": "ghcr.io/twalcari/dwengo-docker"
+		"ImageName": "dwengo-docker"
 	}
 }
