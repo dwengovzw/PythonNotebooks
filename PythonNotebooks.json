@@ -5582,5 +5582,79 @@
         "Description": "Leer hoe je een worm leert om te kruipen aan de hand van versterkend leren.",
         "Name": "Versterkend leren met een worm",
         "BasePath": "en\\wAIsda/rl/worm"
+    },
+    "1910_en": {
+        "Files": [
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/0100_IrisVirginicaRegressie.ipynb",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/0150_IrisVirginicaRegressieRechteAlgoritme.ipynb",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/data/virginica.csv",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/irisvirginica.jpg",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/kelkbladkroonblad.jpg",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/kiksmeisedwengougent.png",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/kikssteun.png",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/cclic.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad Machine learning regressie",
+        "Name": "Machine learning regressie",
+        "BasePath": "en\\AIOpSchool/KIKS/MachineLearningRegressie"
+    },
+    "1920_en": {
+        "Files": [
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/0200_StomataHoogteBomen.ipynb",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/0250_StomataHoogteBomenMLRegressie.ipynb",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/0280_StomataHoogteBomenMLRegressieOpdracht.ipynb",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/data/amazone.csv",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/kiksmeisedwengougent.png",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/kikssteun.png",
+            "en\\AIOpSchool/KIKS/MachineLearningRegressie/images/cclic.png"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Machine learning regressie",
+        "Name": "Machine learning regressie",
+        "BasePath": "en\\AIOpSchool/KIKS/MachineLearningRegressie"
+    },
+    "1930_en": {
+        "Files": [
+            "en\\STEM/Klimaat/0850_MorteratschgletsjerMLRegressie.ipynb",
+            "en\\STEM/Klimaat/data/morteratsch.csv",
+            "en\\STEM/Klimaat/images/kiksmeisedwengougent.png",
+            "en\\STEM/Klimaat/images/kikssteun.png",
+            "en\\STEM/Klimaat/images/logosnb.png",
+            "en\\STEM/Klimaat/images/logosnb2.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad Machine learning regressie",
+        "Name": "Machine learning regressie",
+        "BasePath": "en\\STEM/Klimaat"
+    },
+    "1935_en": {
+        "Files": [
+            "en\\STEM/Klimaat/0851_SilvrettagletsjerMLRegressie.ipynb",
+            "en\\STEM/Klimaat/data/silvretta.csv",
+            "en\\STEM/Klimaat/images/kiksmeisedwengougent.png",
+            "en\\STEM/Klimaat/images/kikssteun.png",
+            "en\\STEM/Klimaat/images/logosnb.png",
+            "en\\STEM/Klimaat/images/logosnb2.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad Machine learning regressie",
+        "Name": "Machine learning regressie",
+        "BasePath": "en\\STEM/Klimaat"
+    },
+    "1940_en": {
+        "Files": [
+            "en\\STEM/Klimaat/1000_ZeeniveauMLRegressie.ipynb",
+            "en\\STEM/Klimaat/data/zeeniveau.csv",
+            "en\\STEM/Klimaat/images/kiksmeisedwengougent.png",
+            "en\\STEM/Klimaat/images/cclic.png",
+            "en\\STEM/Klimaat/images/kikssteun.png",
+            "en\\STEM/Klimaat/images/logosnb.png",
+            "en\\STEM/Klimaat/images/logosnb2.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad Machine learning regressie",
+        "Name": "Machine learning regressie",
+        "BasePath": "en\\STEM/Klimaat"
     }
 }
