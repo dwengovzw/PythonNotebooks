@@ -5882,5 +5882,484 @@
         "Description": "Leerpad Machine learning landbouw",
         "Name": "AI in de Landbouw",
         "BasePath": "en\\AIOpSchool/Landbouw"
+    },
+    "0361_en": {
+        "Files": [
+            "en\\Wiskunde/Statistiek/0100_StatistischeBegrippen.ipynb",
+            "en\\Wiskunde/Statistiek/0110_StatistischeBegrippenToepassing.ipynb",
+            "en\\Wiskunde/Statistiek/data/missionlaunches.csv",
+            "en\\Wiskunde/Statistiek/data/datasetvoorbeeld.csv",
+            "en\\Wiskunde/Statistiek/images/cclic.png",
+            "en\\Wiskunde/Statistiek/images/decompositiedwengo.png",
+            "en\\Wiskunde/Statistiek/images/bannerugentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad statistiek",
+        "Name": "Begrippen",
+        "BasePath": "en\\Wiskunde/Statistiek"
+    },
+    "0371_en": {
+        "Files": [
+            "en\\Wiskunde/Statistiek/0200_DataVisualiserenTaart.ipynb",
+            "en\\Wiskunde/Statistiek/0220_DataVisualiserenHist.ipynb",
+            "en\\Wiskunde/Statistiek/0210_DataVisualiserenStaaf.ipynb",
+            "en\\Wiskunde/Statistiek/0230_DataVisualiserenHistToepassing.ipynb",
+            "en\\Wiskunde/Statistiek/data/klimtemp.csv",
+            "en\\Wiskunde/Statistiek/data/happydata.csv",
+            "en\\Wiskunde/Statistiek/data/smartphoneafhankelijk.csv",
+            "en\\Wiskunde/Statistiek/data/artists.csv",
+            "en\\Wiskunde/Statistiek/data/belgischebevolking2023leeftijd.csv",
+            "en\\Wiskunde/Statistiek/images/cclic.png",
+            "en\\Wiskunde/Statistiek/images/decompositiedwengo.png",
+            "en\\Wiskunde/Statistiek/images/happykolom.png",
+            "en\\Wiskunde/Statistiek/images/bannerugentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad statistiek",
+        "Name": "Visualisatie",
+        "BasePath": "en\\Wiskunde/Statistiek"
+    },
+    "0375_en": {
+        "Files": [
+            "en\\Wiskunde/Statistiek/0300_DataAnalyseren.ipynb",
+            "en\\Wiskunde/Statistiek/data/klimtemp.csv",
+            "en\\Wiskunde/Statistiek/data/mrbeast.csv",
+            "en\\Wiskunde/Statistiek/images/cclic.png",
+            "en\\Wiskunde/Statistiek/images/decompositiedwengo.png",
+            "en\\Wiskunde/Statistiek/images/bannerugentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad statistiek",
+        "Name": "Analyse",
+        "BasePath": "en\\Wiskunde/Statistiek"
+    },
+    "0380_en": {
+        "Files": [
+            "en\\Wiskunde/Statistiek/0900_NormaleVerdeling.ipynb",
+            "en\\Wiskunde/Statistiek/0910_NormaleVerdelingToepassing.ipynb",
+            "en\\Wiskunde/Statistiek/data/weather_in_Antwerp_2012to2016.csv",
+            "en\\Wiskunde/Statistiek/data/weather_in_Antwerp_2012to2019.csv",
+            "en\\Wiskunde/Statistiek/images/cclic.png",
+            "en\\Wiskunde/Statistiek/images/decompositiedwengo.png",
+            "en\\Wiskunde/Statistiek/images/bannerugentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad statistiek",
+        "Name": "Normale verdeling",
+        "BasePath": "en\\Wiskunde/Statistiek"
+    },
+    "1001_en": {
+        "Files": [
+            "en\\Wiskunde/FunctiesPythagoras/0010_StringIntFloat.ipynb",
+            "en\\Wiskunde/FunctiesPythagoras/images/cclic.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/logodwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Datatypes string, int en float, werken met printinstructies en kennismaken met typecasting",
+        "Name": "String, int en float",
+        "BasePath": "en\\Wiskunde/FunctiesPythagoras"
+    },
+    "1002_en": {
+        "Files": [
+            "en\\Programmeerelementen/Datatypes/1000_Opsommingen.ipynb",
+            "en\\Programmeerelementen/Datatypes/images/cclic.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/helloworldindex.png",
+            "en\\Programmeerelementen/Datatypes/images/binair.jpg",
+            "en\\Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png",
+            "en\\Programmeerelementen/Datatypes/images/kikssteun.png",
+            "en\\Programmeerelementen/Datatypes/images/runknop.jpg",
+            "en\\Programmeerelementen/Datatypes/images/schaal.png",
+            "en\\Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn datatypes: opsommingen",
+        "Name": "Opsommingen",
+        "BasePath": "en\\Programmeerelementen/Datatypes"
+    },
+    "1003_en": {
+        "Files": [
+            "en\\Wiskunde/FunctiesPythagoras/0100_InputOutput.ipynb",
+            "en\\Wiskunde/FunctiesPythagoras/images/cclic.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/logodwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/logosnb.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/logobavo.jpg"
+        ],
+        "Resource": "S",
+        "Description": "Leren werken met de functie input()",
+        "Name": "Input en output",
+        "BasePath": "en\\Wiskunde/FunctiesPythagoras"
+    },
+    "1011_en": {
+        "Files": [
+            "en\\Programmeerelementen/Datatypes/0100_String.ipynb",
+            "en\\Programmeerelementen/Datatypes/data/hamlet.txt",
+            "en\\Programmeerelementen/Datatypes/data/prideandprejudice.txt",
+            "en\\Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt",
+            "en\\Programmeerelementen/Datatypes/data/hamlet_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/images/cclic.png",
+            "en\\Programmeerelementen/Datatypes/images/bannerUGentDwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/helloworldIndex.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/runknop.jpg",
+            "en\\Programmeerelementen/Datatypes/images/schaal.png",
+            "en\\Programmeerelementen/Structuren/data/prideandprejudice.txt",
+            "en\\Programmeerelementen/Structuren/data/hamlet.txt",
+            "en\\Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
+            "en\\Programmeerelementen/Structuren/images/cclic.png",
+            "en\\Programmeerelementen/Structuren/images/bannerUgentDwengo.png",
+            "en\\Programmeerelementen/Structuren/images/logodwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Datatypes over strings, lists en dictionaries a.d.h.v. voorbeelden met focus op taal",
+        "Name": "Datatypes",
+        "BasePath": "en\\Programmeerelementen/Datatypes"
+    },
+    "1012_en": {
+        "Files": [
+            "en\\Programmeerelementen/Datatypes/0200_List.ipynb",
+            "en\\Programmeerelementen/Datatypes/data/hamlet.txt",
+            "en\\Programmeerelementen/Datatypes/data/prideandprejudice.txt",
+            "en\\Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt",
+            "en\\Programmeerelementen/Datatypes/data/hamlet_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/images/cclic.png",
+            "en\\Programmeerelementen/Datatypes/images/bannerUgentDwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/helloworldIndex.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/runknop.jpg",
+            "en\\Programmeerelementen/Datatypes/images/schaal.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Datatypes over strings, lists en dictionaries a.d.h.v. voorbeelden met focus op taal",
+        "Name": "Datatypes",
+        "BasePath": "en\\Programmeerelementen/Datatypes"
+    },
+    "1013_en": {
+        "Files": [
+            "en\\Programmeerelementen/Datatypes/0300_Dict.ipynb",
+            "en\\Programmeerelementen/Datatypes/data/hamlet.txt",
+            "en\\Programmeerelementen/Datatypes/data/prideandprejudice.txt",
+            "en\\Programmeerelementen/Datatypes/data/thehoundofthebaskervilles.txt",
+            "en\\Programmeerelementen/Datatypes/data/hamlet_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/data/prideandprejudice_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/data/thehoundofthebaskervilles_fragment.txt",
+            "en\\Programmeerelementen/Datatypes/images/cclic.png",
+            "en\\Programmeerelementen/Datatypes/images/bannerUgentDwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/helloworldIndex.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/runknop.jpg",
+            "en\\Programmeerelementen/Datatypes/images/schaal.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Datatypes over strings, lists en dictionaries a.d.h.v. voorbeelden met focus op taal",
+        "Name": "Datatypes",
+        "BasePath": "en\\Programmeerelementen/Datatypes"
+    },
+    "1014_en": {
+        "Files": [
+            "en\\Programmeerelementen/Datatypes/0500_StringIntFloatBoolNone.ipynb",
+            "en\\Programmeerelementen/Datatypes/images/cclic.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/helloworldindex.png",
+            "en\\Programmeerelementen/Datatypes/images/binair.jpg",
+            "en\\Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png",
+            "en\\Programmeerelementen/Datatypes/images/kikssteun.png",
+            "en\\Programmeerelementen/Datatypes/images/runknop.jpg",
+            "en\\Programmeerelementen/Datatypes/images/schaal.png",
+            "en\\Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn datatypes: opsommingen",
+        "Name": "Numpy-lijsten",
+        "BasePath": "en\\Programmeerelementen/Datatypes"
+    },
+    "1015_en": {
+        "Files": [
+            "en\\Programmeerelementen/Datatypes/0401_BewerkingenNumPyLijsten.ipynb",
+            "en\\Programmeerelementen/Datatypes/0402_BewerkingenNumPyLijstenStatistiek.ipynb",
+            "en\\Programmeerelementen/Datatypes/images/cclic.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/helloworldindex.png",
+            "en\\Programmeerelementen/Datatypes/images/binair.jpg",
+            "en\\Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png",
+            "en\\Programmeerelementen/Datatypes/images/kikssteun.png",
+            "en\\Programmeerelementen/Datatypes/images/runknop.jpg",
+            "en\\Programmeerelementen/Datatypes/images/schaal.png",
+            "en\\Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn datatypes: opsommingen",
+        "Name": "Numpy-lijsten",
+        "BasePath": "en\\Programmeerelementen/Datatypes"
+    },
+    "1016_en": {
+        "Files": [
+            "en\\Programmeerelementen/Datatypes/0410_DatastructuurNumPy.ipynb",
+            "en\\Programmeerelementen/Datatypes/images/cclic.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/helloworldindex.png",
+            "en\\Programmeerelementen/Datatypes/images/binair.jpg",
+            "en\\Programmeerelementen/Datatypes/images/kiksmeisedwengougent.png",
+            "en\\Programmeerelementen/Datatypes/images/kikssteun.png",
+            "en\\Programmeerelementen/Datatypes/images/runknop.jpg",
+            "en\\Programmeerelementen/Datatypes/images/schaal.png",
+            "en\\Programmeerelementen/Datatypes/images/bannerUGentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn datatypes: matrix",
+        "Name": "Numpy array",
+        "BasePath": "en\\Programmeerelementen/Datatypes"
+    },
+    "1018_en": {
+        "Files": [
+            "en\\AIOpSchool/Zorg/0150_Dataframe.ipynb",
+            "en\\AIOpSchool/Zorg/data/data.csv",
+            "en\\AIOpSchool/Zorg/images/cclic.png",
+            "en\\AIOpSchool/Zorg/images/datacsv.png",
+            "en\\AIOpSchool/Zorg/images/bannerugentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn datatypes: data frame",
+        "Name": "Data frame",
+        "BasePath": "en\\AIOpSchool/Zorg"
+    },
+    "1010_en": {
+        "Files": [
+            "en\\Wiskunde/GrafiekenFuncties/0100_Rekenen.ipynb",
+            "en\\Wiskunde/GrafiekenFuncties/images/cclic.png",
+            "en\\Wiskunde/GrafiekenFuncties/images/logodwengo.png",
+            "en\\Wiskunde/GrafiekenFuncties/images/logosnb.png",
+            "en\\Wiskunde/GrafiekenFuncties/images/schema.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Grafieken van rechten",
+        "Name": "Rekenkundige operatoren",
+        "BasePath": "en\\Wiskunde/GrafiekenFuncties"
+    },
+    "1020_en": {
+        "Files": [
+            "en\\Programmeerelementen/Operatoren/0200_VergelijkingsBoolOperatoren.ipynb",
+            "en\\Programmeerelementen/Operatoren/images/cclic.png",
+            "en\\Programmeerelementen/Operatoren/images/logodwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Operatoren",
+        "Name": "Vergelijkingsoperatoren en Booleaanse operatoren",
+        "BasePath": "en\\Programmeerelementen/Operatoren"
+    },
+    "1008_en": {
+        "Files": [
+            "en\\Programmeerelementen/Structuren/0100_ForIfElse.ipynb",
+            "en\\Programmeerelementen/Structuren/data/prideandprejudice.txt",
+            "en\\Programmeerelementen/Structuren/data/hamlet.txt",
+            "en\\Programmeerelementen/Structuren/data/thehoundofthebaskervilles.txt",
+            "en\\Programmeerelementen/Structuren/images/cclic.png",
+            "en\\Programmeerelementen/Structuren/images/logougentdwengo.png",
+            "en\\Programmeerelementen/Datatypes/images/logodwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Structuren over begrensde herhaling en keuzestructuur a.d.h.v. voorbeelden met focus op taal",
+        "Name": "Structuren",
+        "BasePath": "en\\Programmeerelementen/Structuren"
+    },
+    "1031_en": {
+        "Files": [
+            "en\\Programmeerelementen/Structuren/0200_Herhalingsstructuur.ipynb",
+            "en\\Programmeerelementen/Structuren/images/cclic.png",
+            "en\\Programmeerelementen/Structuren/images/logodwengo.png",
+            "en\\Programmeerelementen/Structuren/images/logougentdwengo.png",
+            "en\\Programmeerelementen/Structuren/images/herhalingsstructuurdwengo.png",
+            "en\\Programmeerelementen/Structuren/images/keuzestructuurdwengo.png",
+            "en\\Programmeerelementen/Structuren/images/kikssteun.png",
+            "en\\Programmeerelementen/Structuren/images/kiksmeisedwengougent.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Stucturen",
+        "Name": "Keuze- en herhalingsstructuren",
+        "BasePath": "en\\Programmeerelementen/Structuren"
+    },
+    "1032_en": {
+        "Files": [
+            "en\\Programmeerelementen/Structuren/0300_Keuzestructuur.ipynb",
+            "en\\Programmeerelementen/Structuren/images/cclic.png",
+            "en\\Programmeerelementen/Structuren/images/logodwengo.png",
+            "en\\Programmeerelementen/Structuren/images/logougentdwengo.png",
+            "en\\Programmeerelementen/Structuren/images/herhalingsstructuurdwengo.png",
+            "en\\Programmeerelementen/Structuren/images/keuzestructuurdwengo.png",
+            "en\\Programmeerelementen/Structuren/images/kikssteun.png",
+            "en\\Programmeerelementen/Structuren/images/kiksmeisedwengougent.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Stucturen",
+        "Name": "Keuze- en herhalingsstructuren",
+        "BasePath": "en\\Programmeerelementen/Structuren"
+    },
+    "1006_en": {
+        "Files": [
+            "en\\Wiskunde/FunctiesPythagoras/0200_IntroductieFuncties.ipynb",
+            "en\\Wiskunde/FunctiesPythagoras/0201_ExtraOefeningenFuncties.ipynb",
+            "en\\Wiskunde/FunctiesPythagoras/0205_WsICTweekIntroductieFuncties.ipynb",
+            "en\\Wiskunde/FunctiesPythagoras/images/cclic.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/logodwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/bannerugentdwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/abstractiedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/algoritmedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/decompositiedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/functie1.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/functie2.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/functie3.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/functie4.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/functie5.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/gpsnewyork.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/kaartnewyork.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/patroonherkenningdwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/sequentiedwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoerdwengo.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/invoerverwerkinguitvoer.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/logosnb.png",
+            "en\\Wiskunde/FunctiesPythagoras/images/logobavo.jpg"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijn Functies en Pythagoras",
+        "Name": "Zelf functies definiëren en oefenen bij Pythagoras",
+        "BasePath": "en\\Wiskunde/FunctiesPythagoras"
+    },
+    "1041_en": {
+        "Files": [
+            "en\\Programmeerelementen/Functies/0100_FunctiesExtraOefeningen.ipynb",
+            "en\\Programmeerelementen/Functies/images/cclic.png",
+            "en\\Programmeerelementen/Functies/images/logougentdwengo.png",
+            "en\\Programmeerelementen/Functies/images/kiksmeisedwengougent.png",
+            "en\\Programmeerelementen/Functies/images/herhalingsstructuurdwengo.png",
+            "en\\Programmeerelementen/Functies/images/keuzestructuurdwengo.png",
+            "en\\Programmeerelementen/Functies/images/kikssteun.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijnen Functies en structuren",
+        "Name": "Keuze- en herhalingsstructuren",
+        "BasePath": "en\\Programmeerelementen/Functies"
+    },
+    "1050_en": {
+        "Files": [
+            "en\\Programmeerelementen/Klassen/0100_Klassen.ipynb",
+            "en\\Programmeerelementen/Klassen/images/cclic.png",
+            "en\\Programmeerelementen/Klassen/images/logougentdwengo.png",
+            "en\\Programmeerelementen/Klassen/images/kiksmeisedwengougent.png",
+            "en\\Programmeerelementen/Klassen/images/monocot.jpg",
+            "en\\Programmeerelementen/Klassen/images/dicot.jpg",
+            "en\\Programmeerelementen/Klassen/images/kikssteun.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerlijnen Klassen",
+        "Name": "Klassen",
+        "BasePath": "en\\Programmeerelementen/Klassen"
+    },
+    "6010_en": {
+        "Files": [
+            "en\\STEM/Insectbook/0100_ExponentieelGroeimodel.ipynb",
+            "en\\STEM/Insectbook/data/covid.csv",
+            "en\\STEM/Insectbook/images/cclic.png",
+            "en\\STEM/Insectbook/images/abstractiedwengo.png",
+            "en\\STEM/Insectbook/images/algoritmedwengo.png",
+            "en\\STEM/Insectbook/images/bannerugentdwengo.png",
+            "en\\STEM/Insectbook/images/herhalingsstructuurdwengo.png",
+            "en\\STEM/Insectbook/images/patroonherkenningdwengo.png",
+            "en\\STEM/Insectbook/images/logobavo.jpg"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Insectbooks",
+        "Name": "Insectbooks",
+        "BasePath": "en\\STEM/Insectbook"
+    },
+    "6020_en": {
+        "Files": [
+            "en\\STEM/Insectbook/0200_LogistiekGroeimodel.ipynb",
+            "en\\STEM/Insectbook/images/cclic.png",
+            "en\\STEM/Insectbook/images/abstractiedwengo.png",
+            "en\\STEM/Insectbook/images/algoritmedwengo.png",
+            "en\\STEM/Insectbook/images/bannerugentdwengo.png",
+            "en\\STEM/Insectbook/images/herhalingsstructuurdwengo.png",
+            "en\\STEM/Insectbook/images/patroonherkenningdwengo.png",
+            "en\\STEM/Insectbook/images/logobavo.jpg"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Insectbooks",
+        "Name": "Insectbooks",
+        "BasePath": "en\\STEM/Insectbook"
+    },
+    "6040_en": {
+        "Files": [
+            "en\\STEM/Insectbook/0400_ModelDifferentiaalvergelijking.ipynb",
+            "en\\STEM/Insectbook/images/cclic.png",
+            "en\\STEM/Insectbook/images/abstractiedwengo.png",
+            "en\\STEM/Insectbook/images/algoritmedwengo.png",
+            "en\\STEM/Insectbook/images/bannerugentdwengo.png",
+            "en\\STEM/Insectbook/images/herhalingsstructuurdwengo.png",
+            "en\\STEM/Insectbook/images/patroonherkenningdwengo.png",
+            "en\\STEM/Insectbook/images/logobavo.jpg"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Insectbooks",
+        "Name": "Insectbooks",
+        "BasePath": "en\\STEM/Insectbook"
+    },
+    "6030_en": {
+        "Files": [
+            "en\\STEM/Insectbook/0300_ModelLesliematrix.ipynb",
+            "en\\STEM/Insectbook/images/cclic.png",
+            "en\\STEM/Insectbook/images/abstractiedwengo.png",
+            "en\\STEM/Insectbook/images/algoritmedwengo.png",
+            "en\\STEM/Insectbook/images/bannerugentdwengo.png",
+            "en\\STEM/Insectbook/images/herhalingsstructuurdwengo.png",
+            "en\\STEM/Insectbook/images/patroonherkenningdwengo.png",
+            "en\\STEM/Insectbook/images/logobavo.jpg"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Insectbooks",
+        "Name": "Insectbooks",
+        "BasePath": "en\\STEM/Insectbook"
+    },
+    "6060_en": {
+        "Files": [
+            "en\\STEM/Insectbook/0600_EindigeDifferentiemethode.ipynb",
+            "en\\STEM/Insectbook/images/cclic.png",
+            "en\\STEM/Insectbook/images/abstractiedwengo.png",
+            "en\\STEM/Insectbook/images/algoritmedwengo.png",
+            "en\\STEM/Insectbook/images/bannerugentdwengo.png",
+            "en\\STEM/Insectbook/images/herhalingsstructuurdwengo.png",
+            "en\\STEM/Insectbook/images/patroonherkenningdwengo.png",
+            "en\\STEM/Insectbook/images/logobavo.jpg"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Insectbooks",
+        "Name": "Insectbooks",
+        "BasePath": "en\\STEM/Insectbook"
+    },
+    "6050_en": {
+        "Files": [
+            "en\\STEM/Insectbook/0500_ModelInteractieDifferentiaalvergelijkingen.ipynb",
+            "en\\STEM/Insectbook/images/cclic.png",
+            "en\\STEM/Insectbook/images/abstractiedwengo.png",
+            "en\\STEM/Insectbook/images/algoritmedwengo.png",
+            "en\\STEM/Insectbook/images/bannerugentdwengo.png",
+            "en\\STEM/Insectbook/images/herhalingsstructuurdwengo.png",
+            "en\\STEM/Insectbook/images/patroonherkenningdwengo.png",
+            "en\\STEM/Insectbook/images/logobavo.jpg"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Insectbooks",
+        "Name": "Insectbooks",
+        "BasePath": "en\\STEM/Insectbook"
     }
 }
