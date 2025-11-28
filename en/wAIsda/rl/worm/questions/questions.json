@@ -1,0 +1,53 @@
+[
+  {
+  "type": "matching",
+  "question": "Match de begrippen met de juiste principes van het versterkend leren.",
+  "left": ["Agent", "Omgeving", "Toestand", "Acties", "Beloning"],
+  "right": ["De vorm van de worm (bv. LLKKL)", "De afstand die de worm heeft afgelegd.", "Een segment lang of kort maken.", "De grond", "De worm"],
+  "answer": {
+    "Agent": "De worm",
+    "Omgeving": "De grond",
+    "Toestand": "De vorm van de worm (bv. LLKKL)",
+    "Acties": "Een segment lang of kort maken.",
+    "Beloning": "De afstand die de worm heeft afgelegd."
+    }
+  },
+  {
+    "type": "open",
+    "question": "Hoeveel verschillende toestanden kan een worm met 3 segmenten hebben?",
+    "answer": ["8", "acht", "8 toestanden", "acht toestanden"]
+  },
+  {
+    "type": "open",
+    "question": "Hoeveel verschillende acties zijn er mogelijk voor een worm met 3 segmenten?",
+    "answer": ["6", "zes", "6 acties", "zes acties"]
+  },
+  {
+    "type": "multiple_choice",
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "type": "open",
+    "question": "Name a programming language that starts with 'P'.",
+    "answer": ["python", "perl", "php"]
+  },
+  {
+    "type": "multiple_choice_multiple",
+    "question": "Select all prime numbers:",
+    "options": ["2", "3", "4", "5"],
+    "answer": ["2", "3", "5"]
+  },
+  {
+  "type": "matching",
+  "question": "Match the countries to their capitals.",
+  "left": ["France", "Germany", "Spain"],
+  "right": ["Berlin", "Paris", "Madrid"],
+  "answer": {
+    "France": "Paris",
+    "Germany": "Berlin",
+    "Spain": "Madrid"
+    }
+  }
+]

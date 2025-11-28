@@ -1,0 +1,1 @@
+Plaats in deze map foto's van het raster waarin je verbaasde smileys getekend hebt.
