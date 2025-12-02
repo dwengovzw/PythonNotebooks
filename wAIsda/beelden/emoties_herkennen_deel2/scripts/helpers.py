@@ -10,8 +10,14 @@ import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
 
-breedte_resultaat = 1480
-hoogte_resultaat = 1000
+# breedte_resultaat = 1480
+# hoogte_resultaat = 1000
+
+breedte_resultaat = 740
+hoogte_resultaat = 500
+hokjes_offset = 10
+hokjes_formaat = 120
+hokjes_crop_marge = 5
 
 # Transformeer de afbeelding zodat de positie van de gedetecteerde markers wordt toegewezen aan (10, 10) en (1480, 1000)
 def transformeer_afbeelding(afbeeldingsmatrix, markerpunten):
@@ -39,29 +45,45 @@ def knip_afbeeldingen_uit_matrix(afbeeldingsmatrix, formaat, offset, crop_marge=
             afbeeldingen.append(knip)
     return afbeeldingen
 
+def load_and_resize(path, max_size=1600):
+    """
+    Opens an image and resizes it so that the longest side is <= max_size.
+    Maintains aspect ratio.
+    """
+    img = Image.open(path)
+
+    # Get current size
+    w, h = img.size
+    longest = max(w, h)
+
+    if longest > max_size:
+        scale = max_size / float(longest)
+        new_w = int(w * scale)
+        new_h = int(h * scale)
+        print(f"Rescaling from {w}x{h} to {new_w}x{new_h} ...")
+
+        # High-quality downscaling
+        img = img.resize((new_w, new_h), Image.LANCZOS)
+    else:
+        print("No resizing needed.")
+
+    return img
+
 
 def emoticons_inladen(bestandsnaam_afbeelding_raster, emotie):
     # Laadt de rastarafbeelding in.
-    raster = Image.open(bestandsnaam_afbeelding_raster)
+    raster = raster = load_and_resize(bestandsnaam_afbeelding_raster, max_size=1600)
     # Zet de afbeelding om naar een numpy tensor.
     raster_array = np.array(raster)
     
     # Detecteer de markers in de afbeelding.
-    
-    # The following two lines are the code for the previous version of the aruco module
-    #acuro_dict = aruco.getPredefinedDictionary(aruco.DICT_6X6_250)
-    #markers, ids, rejectedImgPoints = aruco.detectMarkers(raster_array, acuro_dict)
-    
     acuro_dict = aruco.getPredefinedDictionary(aruco.DICT_6X6_250)
-    parameters =  cv2.aruco.DetectorParameters()
-    detector = cv2.aruco.ArucoDetector(acuro_dict, parameters)
-    
-    markers, ids, rejectedImgPoints = detector.detectMarkers(raster_array)
+    markers, ids, rejectedImgPoints = aruco.detectMarkers(raster_array, acuro_dict)
     id_lijst = list(ids)
     
     # Check of allevier de markers zijn gevonden.
     if len(id_lijst) != 4:
-        print("Niet alle markers zijn gevonden.")
+        print(f"Niet alle markers zijn gevonden zijn gevonden in afbeelding {bestandsnaam_afbeelding_raster}.")
         print("Probeer een nieuwe foto te maken van je raster waarop de markers duidelijk zichtbaar zijn en in focus zijn.")
         return [], []
     
@@ -70,7 +92,7 @@ def emoticons_inladen(bestandsnaam_afbeelding_raster, emotie):
     getransformeerde_afbeelding = transformeer_afbeelding(raster_array, markerpunten)
     
     # Knip de afbeeldingen uit.
-    afbeeldingen = knip_afbeeldingen_uit_matrix(getransformeerde_afbeelding, 240, 20)
+    afbeeldingen = knip_afbeeldingen_uit_matrix(getransformeerde_afbeelding, hokjes_formaat, hokjes_offset, crop_marge=5)
     # Maak labels voor de afbeeldingen.
     labels = np.array([emotie] * len(afbeeldingen))
     
@@ -101,7 +123,7 @@ def laadt_bestanden_in_map_met_label(path, label):
     afbeeldingen = []
     labels = []
     for bestandsnaam in os.listdir(path):
-        if bestandsnaam.endswith('.png') or bestandsnaam.endswith('.jpg'):
+        if bestandsnaam.endswith('.png') or bestandsnaam.endswith('.jpg') or bestandsnaam.endswith('.jpeg'):
             afbeeldingen_emoticon, labels_emoticon = emoticons_inladen(os.path.join(path, bestandsnaam), label)
             afbeeldingen.extend(afbeeldingen_emoticon)
             labels.extend(labels_emoticon)
