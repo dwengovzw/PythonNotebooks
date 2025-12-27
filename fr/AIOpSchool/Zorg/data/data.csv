@@ -1,0 +1,24 @@
+Leeftijd,Geslacht,Hartslag,Bloedgroep,Rhesus,TypeKlacht,Pijn,Parameter,AantalSymptomen,Ziek,Gemeente
+40,M,65,A,+,Standaard,N,0,Stijgend,0,Oostakker
+49,V,87,AB,+,Standaard,N,1,Constant,1,Gent
+37,M,110,O,+,Verontrustend,N,0,Stijgend,0,De Pinte
+48,V,80,O,+,Ernstig,J,1.5,Constant,1,Lokeren
+54,M,72,B,+,NietErnstig,N,0,Dalend,0,Gent
+39,M,120,B,-,Standaard,N,0,Stijgend,0,Gent
+45,V,58,AB,+,Standaard,N,0,Stijgend,0,Oostakker
+54,M,83,O,+,NietErnstig,N,0,Dalend,0,Sint-Amandsberg
+37,M,92,O,+,,J,1.5,,1,Gent
+48,V,94,O,-,Standaard,N,0,Stijgend,0,Oostakker
+37,V,99,A,+,Standaard,N,0,Dalend,0,Oostakker
+58,M,106,,,Verontrustend,J,2,Constant,1,Sint-Amandsberg
+39,M,100,A,+,Standaard,N,0,Stijgend,0,Sint-Amandsberg
+49,M,77,A,+,Ernstig,J,1,Constant,1,Gent
+42,V,82,O,+,Verontrustend,N,0,Stijgend,0,De Pinte
+54,V,78,B,+,Standaard,N,1.5,Constant,0,Lochristi
+38,M,63,A,-,NietErnstig,N,0,Constant,1,Destelbergen
+43,V,101,B,+,Ernstig,N,0,Stijgend,0,Gent
+60,M,89,O,+,Standaard,N,1,Constant,1,Sint-Amandsberg
+
+
+
+
