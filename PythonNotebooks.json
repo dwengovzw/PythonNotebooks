@@ -4527,6 +4527,16 @@
         "Name": "Numerieke methodes",
         "BasePath": "Programmeerelementen/Algoritmes"
     },
+    "6100": {
+        "Files": [
+            "STEM/Cocainenijlpaarden/0100_CocainenijlpaardenExponentielegroei.ipynb",
+            "STEM/Cocainenijlpaarden/0200_CocainenijlpaardenLLesliemodel.ipynb"
+        ],
+        "Resource": "M",
+        "Description": "Leerpad Cocainenijlpaarden",
+        "Name": "Cocainenijlpaarden",
+        "BasePath": "STEM/Cocainenijlpaarden"
+    },
     "6210": {
         "Files": [
             "Programmeerelementen/Algoritmes/0100_TentjeBoompje.ipynb",
