@@ -1,9 +1,10 @@
 import ipywidgets as widgets
 import io
 import numpy as np
+from PIL import Image
 
 upload_widget = widgets.FileUpload(
-    accept=".npy",
+    accept=".jpg",
     multiple=False  # We laden slechts één bestand op
 )
 
@@ -13,7 +14,9 @@ def save_npy():
         return None
 
     first_key = next(iter(upload_widget.value))
+    print(first_key.content)
+    print(upload_widget.value)
 
-    eigen_npy = io.BytesIO(upload_widget.value[first_key]['content'])
-    eigen_afbeelding = np.load(eigen_npy)
+    image = Image.open(io.BytesIO(first_key.content))
+    eigen_afbeelding = np.array(image)
     np.save('./images/eigen_afbeelding.npy', eigen_afbeelding)
