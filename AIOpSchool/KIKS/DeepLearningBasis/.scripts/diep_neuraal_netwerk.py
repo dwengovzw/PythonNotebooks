@@ -238,7 +238,7 @@ def vind_stomata():
             annotations[i].set_text(text)
         display(fig)
 
-    widgets.interact(change_threshold, thr=widgets.FloatSlider(value=0.5, min=0.05, max=0.99, step=0.05, continuous_update=False))
+    widgets.interact(change_threshold, thr=widgets.FloatSlider(value=0.5, min=0.1, max=0.7, step=0.2, continuous_update=False))
 
 
 def laad_referentie_model():
