@@ -4530,6 +4530,7 @@
     "6100": {
         "Files": [
             "STEM/Cocainenijlpaarden/0100_CocainenijlpaardenExponentielegroei.ipynb",
+            "STEM/Cocainenijlpaarden/0190_LesliemodelVoorbeeld.ipynb",
             "STEM/Cocainenijlpaarden/0200_CocainenijlpaardenLLesliemodel.ipynb"
         ],
         "Resource": "M",
