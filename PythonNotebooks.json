@@ -8540,5 +8540,36 @@
         "Description": "Leerpad statistiek",
         "Name": "Normale verdeling",
         "BasePath": "fr/Wiskunde/Statistiek"
+    },
+    "3010_en": {
+        "Files": [
+            "en/AIOpSchool/Zorg/0100_VoorbeeldHartaanval.ipynb",
+            "en/AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb",
+            "en/AIOpSchool/Zorg/images/cclic.png",
+            "en/AIOpSchool/Zorg/images/bannerugentdwengo.png"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad Beslissingsbomen in de zorg",
+        "Name": "AI in de Zorg",
+        "BasePath": "en/AIOpSchool/Zorg"
+    },
+    "3020_en": {
+        "Files": [
+            "en/AIOpSchool/Zorg/0600_OefeningHartziekte.ipynb",
+            "en/AIOpSchool/Zorg/0110_BeslissingsboomPraktisch.ipynb",
+            "en/AIOpSchool/Zorg/images/cclic.png",
+            "en/AIOpSchool/Zorg/images/bannerugentdwengo.png",
+            "en/AIOpSchool/Zorg/data/heart.csv",
+            "en/AIOpSchool/Zorg/data/kyphosis.csv",
+            "en/AIOpSchool/Zorg/data/NEWS_datafile.csv",
+            "en/AIOpSchool/Zorg/data/NEWS_datafile_metEWS.csv",
+            "en/AIOpSchool/Zorg/data/trainTitanic.csv",
+            "en/AIOpSchool/Zorg/data/borstkanker.csv",
+            "en/AIOpSchool/Zorg/data/postoperative.csv"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad Beslissingsbomen in de zorg",
+        "Name": "AI in de Zorg",
+        "BasePath": "en/AIOpSchool/Zorg"
     }
 }
