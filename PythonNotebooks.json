@@ -4532,7 +4532,7 @@
             "STEM/Cocainenijlpaarden/0100_CocainenijlpaardenExponentielegroei.ipynb",
             "STEM/Cocainenijlpaarden/0190_LesliemodelVoorbeeld.ipynb",
             "STEM/Cocainenijlpaarden/0200_CocainenijlpaardenLLesliemodel.ipynb",
-            "STEM/Cocainenijlpaarden/images/cclic.png", "STEM/Cocainenijlpaarden/images/bannerugentdwengoistem.png" 
+            "STEM/Cocainenijlpaarden/images/cclic.png", "STEM/Cocainenijlpaarden/images/bannerugentdwengoistem.png"
         ],
         "Resource": "M",
         "Description": "Leerpad Cocainenijlpaarden",
@@ -8573,5 +8573,24 @@
         "Description": "Leerpad Beslissingsbomen in de zorg",
         "Name": "AI in de Zorg",
         "BasePath": "en/AIOpSchool/Zorg"
+    },
+    "levenshtein": {
+        "Files": [
+            "Programmeerelementen/Algoritmes/0300_Levenshtein_dynamisch.ipynb"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad levenshtein",
+        "Name": "levenshteinafstand",
+        "BasePath": "Programmeerelementen/Algoritmes"
+    },
+    "levenshtein2": {
+        "Files": [
+            "Programmeerelementen/Algoritmes/0300_Levenshtein_dynamisch.ipynb",
+            "Programmeerelementen/Algoritmes/0300_Levenshtein_recursief.ipynb"
+        ],
+        "Resource": "S",
+        "Description": "Leerpad levenshtein",
+        "Name": "levenshteinafstand",
+        "BasePath": "Programmeerelementen/Algoritmes"
     }
 }
