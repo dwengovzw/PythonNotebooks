@@ -8586,7 +8586,7 @@
     "levenshtein2": {
         "Files": [
             "Programmeerelementen/Algoritmes/0300_Levenshtein_dynamisch.ipynb",
-            "Programmeerelementen/Algoritmes/0300_Levenshtein_recursief.ipynb"
+            "Programmeerelementen/Algoritmes/0301_Levenshtein_recursief.ipynb"
         ],
         "Resource": "S",
         "Description": "Leerpad levenshtein",
